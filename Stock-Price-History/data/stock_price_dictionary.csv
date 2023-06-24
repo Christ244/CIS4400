@@ -1,0 +1,7 @@
+,Field,Discription
+0,Open,The price at which a security first trades upon the opening of an exchange on a trading day
+1,High,The highest price at which a stock traded during the course of the trading day
+2,Low,The lowest price at which a stock trades over the course of a trading day.
+3,Close,The last price at which a stock trades during a regular trading day
+4,Adj Close,The closing price after adjustments for all applicable splits and dividend distributions
+5,Volume,The number of shares of a security traded during a given period of time
