@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="PPP Data" id="Project-1380" database="MySql" >
+	<schema name="ppp data" >
+		<table name="company_fact" prior="dm_company" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="company_name" type="VARCHAR" length="100" jt="12" />
+			<column name="state" type="VARCHAR" length="100" jt="12" />
+			<column name="address" type="VARCHAR" length="100" jt="12" />
+			<column name="zip_code" type="VARCHAR" length="100" jt="12" />
+			<column name="city" type="VARCHAR" length="100" jt="12" />
+			<column name="email_address" type="VARCHAR" length="100" jt="12" />
+			<column name="phone_number" type="VARCHAR" length="100" jt="12" />
+			<index name="pk_company" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<fk name="fk_company_fact_dm_stock" to_schema="ppp data" to_table="dm_stock" >
+				<fk_column name="id" pk="id" />
+			</fk>
+			<fk name="fk_company_fact_dm_balance_sheet" to_schema="ppp data" to_table="dm_balance_sheet" >
+				<fk_column name="id" pk="id" />
+			</fk>
+			<fk name="fk_company_fact_dm_ratios" to_schema="ppp data" to_table="dm_ratios" >
+				<fk_column name="id" pk="id" />
+			</fk>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dm_balance_sheet" prior="dmbalance_sheet" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="cash_equivalents" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="short_term_investments" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="cash_cash_equivalents" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="cash_growth" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="receivables" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="other_current_assets" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="total_current_assets" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="property_plant_equipment" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="goodwill_intangibles" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="other_long_term_assets" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="total_assets" type="DECIMAL" length="14" decimal="2" jt="3" />
+			<column name="accounts_payable" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="deferred_revenue" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="current_debt" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="other_current_liabilities" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="total_current_liabilities" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="long_term_debt" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="other_long_term_liabilities" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="total_debt" type="DECIMAL" length="14" decimal="2" jt="3" />
+			<column name="debt_growth" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="common_stock" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="retained_earnings" type="DECIMAL" length="14" decimal="2" jt="3" />
+			<column name="comprehensive_income" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="shareholders_equity" type="DECIMAL" length="14" decimal="2" jt="3" />
+			<column name="net_cash_debt" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="net_cash_debt_growth" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="net_cash_per_share" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="working_capital" type="DECIMAL" length="12" decimal="2" jt="3" />
+			<column name="book_value_per_share" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<index name="pk_dm_balance_sheet" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dm_borrower" prior="borrower" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="businessage_descriittion" type="VARCHAR" length="100" jt="12" />
+			<column name="business_type" type="VARCHAR" length="100" jt="12" />
+			<column name="franchise_name" type="VARCHAR" length="100" jt="12" />
+			<column name="borrower_name" type="VARCHAR" length="100" jt="12" />
+			<column name="borrower_adress" type="VARCHAR" length="100" jt="12" />
+			<column name="borrower_city" type="VARCHAR" length="100" jt="12" />
+			<column name="borrower_state" type="VARCHAR" length="100" jt="12" />
+			<column name="race" type="VARCHAR" length="100" jt="12" />
+			<column name="ethnicity" type="VARCHAR" length="100" jt="12" />
+			<index name="pk_borrower" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dm_indiactor" prior="indiactor" spec="" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="ruralurban_indiactor" prior="ruralurbanindiactor" type="VARCHAR" length="100" jt="12" />
+			<column name="lmi_indicator" prior="lmiindicator" type="VARCHAR" length="100" jt="12" />
+			<column name="hubzone_indicator" prior="hubzoneindicator" type="VARCHAR" length="100" jt="12" />
+			<index name="idx_indiactor" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dm_naics" prior="naics" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="naicscode" type="VARCHAR" length="100" jt="12" />
+			<column name="gender" type="VARCHAR" length="100" jt="12" />
+			<column name="veteran" type="VARCHAR" length="100" jt="12" />
+			<index name="pk_ naics" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dm_originating lender" prior="originating lender" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="originatinglender_locationid" type="VARCHAR" length="100" jt="12" />
+			<column name="originatinglender" type="VARCHAR" length="100" jt="12" />
+			<column name="originatinglender_city" type="VARCHAR" length="100" jt="12" />
+			<column name="originatinglender_state" type="VARCHAR" length="100" jt="12" />
+			<index name="pk_originating lender" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dm_project" prior="project" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="project_city" type="VARCHAR" length="100" jt="12" />
+			<column name="project_county" type="VARCHAR" length="100" jt="12" />
+			<column name="project_state" type="VARCHAR" length="100" jt="12" />
+			<column name="project_zip" type="VARCHAR" length="100" jt="12" />
+			<column name="cd" type="VARCHAR" length="100" jt="12" />
+			<index name="idx_project" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dm_ratios" prior="stock" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="market_capitalization" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="market cap growth" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="enterprise_value" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="pe_ratio" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="ps_ratio" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="pb_ratio" type="DECIMAL" length="10" decimal="12" jt="3" />
+			<column name="debt/equity ratio" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="dividend_yield" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="payout_ratio" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="buyback yield/dilution" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="total shareholder_return" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<index name="pk_stock" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dm_servicing lender" prior="servicing lender" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="servicinglender_locationid" type="VARCHAR" length="100" jt="12" />
+			<column name="servicinglender_name" prior="servicing_lendername" type="VARCHAR" length="100" jt="12" />
+			<column name="servicinglender_adress" type="VARCHAR" length="100" jt="12" />
+			<column name="servicinglender_city" type="VARCHAR" length="100" jt="12" />
+			<column name="servicinglender_state" type="VARCHAR" length="100" jt="12" />
+			<column name="servicinglender_zip" type="VARCHAR" length="100" jt="12" />
+			<index name="pk_servicing lender" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="dm_stock" prior="stock" >
+			<column name="id" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="close" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="open" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="low" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="high" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="ajusted" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="closed" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="volume" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<index name="pk_dm_stock" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="loan_fact" prior="loan" >
+			<column name="id" prior="gg" type="VARCHAR" jt="12" spec="functional" mandatory="y" />
+			<column name="loan_name" type="VARCHAR" length="100" jt="12" />
+			<column name="sba_officecode" type="VARCHAR" length="100" jt="12" />
+			<column name="date_apporved" type="DATE" jt="91" />
+			<column name="sbaguaranty_percentage" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="procesing_method" type="VARCHAR" length="100" jt="12" />
+			<column name="term" type="INT" jt="4" />
+			<column name="loanstatus_date" type="DATE" jt="91" />
+			<column name="loan_status" type="VARCHAR" length="100" jt="12" />
+			<column name="undisbursed_amount" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="intialapproval_amount" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="currentapproval_amout" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="forgiveness_amount" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="forgiveness_date" type="DATE" jt="91" />
+			<column name="utilities_proceed" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="payroll_proceed" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="mortgage_interest_proceed" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="rent_proceed" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="refinance_eidl_proceed" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<column name="health_care_proceed" type="DECIMAL" length="10" decimal="2" jt="3" />
+			<index name="idx_loan" unique="PRIMARY_KEY" >
+				<column name="id" />
+			</index>
+			<index name="unq_loan_fact_utilities_proceed" unique="UNIQUE_KEY" >
+				<column name="utilities_proceed" />
+			</index>
+			<fk name="fk_loan_fact_dm_indiactor" to_schema="ppp data" to_table="dm_indiactor" >
+				<fk_column name="id" pk="id" />
+			</fk>
+			<fk name="fk_loan_fact_dm_naics" to_schema="ppp data" to_table="dm_naics" >
+				<fk_column name="id" pk="id" />
+			</fk>
+			<fk name="fk_loan_fact_dm_project" to_schema="ppp data" to_table="dm_project" >
+				<fk_column name="id" pk="id" />
+			</fk>
+			<fk name="fk_loan_fact_dm_originating lender" to_schema="ppp data" to_table="dm_originating lender" >
+				<fk_column name="id" pk="id" />
+			</fk>
+			<fk name="fk_loan_fact_dm_borrower" to_schema="ppp data" to_table="dm_borrower" >
+				<fk_column name="id" pk="id" />
+			</fk>
+			<fk name="fk_loan_fact_dm_servicing lender" to_schema="ppp data" to_table="dm_servicing lender" >
+				<fk_column name="id" pk="id" />
+			</fk>
+			<options><![CDATA[engine=InnoDB]]></options>
+		</table>
+		<table name="tbl" />
+	</schema>
+	<connector name="MySql" database="MySql" host="localhost" port="3306" user="root" useSystemProxy="false" />
+	<layout name="Default Layout" id="Layout-2489" show_relation="columns" >
+		<entity schema="ppp data" name="company_fact" color="C1D8EE" x="1088" y="416" />
+		<entity schema="ppp data" name="dm_balance_sheet" color="C1D8EE" x="1264" y="112" />
+		<entity schema="ppp data" name="dm_borrower" color="C9C1EE" x="64" y="240" />
+		<entity schema="ppp data" name="dm_indiactor" color="C9C1EE" x="640" y="80" />
+		<entity schema="ppp data" name="dm_naics" color="C9C1EE" x="704" y="384" />
+		<entity schema="ppp data" name="dm_originating lender" color="C9C1EE" x="336" y="48" />
+		<entity schema="ppp data" name="dm_project" color="C9C1EE" x="672" y="560" />
+		<entity schema="ppp data" name="dm_ratios" color="C1D8EE" x="864" y="320" />
+		<entity schema="ppp data" name="dm_servicing lender" color="C9C1EE" x="48" y="480" />
+		<entity schema="ppp data" name="dm_stock" color="C1D8EE" x="1104" y="96" />
+		<entity schema="ppp data" name="loan_fact" color="C9C1EE" x="384" y="256" />
+		<browser id="Browse-fd5" name="fk_dm_project_loan_fact" confirm_updates="y" >
+			<browse_table schema="ppp data" entity="loan_fact" x="20" y="20" width="400" height="300" />
+		</browser>
+		<query id="Query-17b8" name="loan_fact" >
+			<query_table schema="ppp data" name="loan_fact" alias="lf" x="48" y="48" >
+				<column name="loan_name" />
+				<column name="sba_officecode" />
+				<column name="date_apporved" />
+				<column name="sbaguaranty_percentage" />
+				<column name="procesing_method" />
+				<column name="term" />
+				<column name="loanstatus_date" />
+				<column name="loan_status" />
+				<column name="undisbursed_amount" />
+				<column name="intialapproval_amount" />
+				<column name="currentapproval_amout" />
+				<column name="forgiveness_amount" />
+				<column name="forgiveness_date" />
+				<column name="utilities_proceed" />
+				<column name="payroll_proceed" />
+				<column name="mortgage_interest_proceed" />
+				<column name="rent_proceed" />
+				<column name="refinance_eidl_proceed" />
+				<column name="health_care_proceed" />
+			</query_table>
+		</query>
+		<query id="Query-1519" name="loan_fact_002" >
+			<query_table schema="ppp data" name="loan_fact" alias="lf" x="48" y="48" >
+				<column name="loan_name" />
+				<column name="sba_officecode" />
+				<column name="date_apporved" />
+				<column name="sbaguaranty_percentage" />
+				<column name="procesing_method" />
+				<column name="term" />
+				<column name="loanstatus_date" />
+				<column name="loan_status" />
+				<column name="undisbursed_amount" />
+				<column name="intialapproval_amount" />
+				<column name="currentapproval_amout" />
+				<column name="forgiveness_amount" />
+				<column name="forgiveness_date" />
+				<column name="utilities_proceed" />
+				<column name="payroll_proceed" />
+				<column name="mortgage_interest_proceed" />
+				<column name="rent_proceed" />
+				<column name="refinance_eidl_proceed" />
+				<column name="health_care_proceed" />
+			</query_table>
+		</query>
+	</layout>
+	<layout name="Layout" id="Layout-2514" show_relation="columns" >
+		<entity schema="ppp data" name="company_fact" color="3986C1" x="272" y="224" />
+		<entity schema="ppp data" name="dm_balance_sheet" color="3986C1" x="496" y="80" />
+		<entity schema="ppp data" name="dm_ratios" color="3986C1" x="48" y="384" />
+		<entity schema="ppp data" name="dm_stock" color="3986C1" x="160" y="48" />
+	</layout>
+</project>
