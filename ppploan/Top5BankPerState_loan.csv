@@ -1,0 +1,572 @@
+,name,state,amount,count,symbol
+0,"JPMorgan Chase Bank, National Association",NY,11087958271.58,102492,JPM-PD
+56,"Bank of America, National Association",NY,2726850870.75,30684,BAC
+132,"U.S. Bank, National Association",NY,35974239.95,237,IUS2.DE
+175,"Wells Fargo Bank, National Association",NY,216912620.0,3685,AAADAXX
+214,Manufacturers and Traders Trust Company,NY,4998865711.82,31756,0
+1,"JPMorgan Chase Bank, National Association",CA,8856228454.19,97447,JPM-PD
+54,"Bank of America, National Association",CA,9517232864.77,133826,BAC
+108,"U.S. Bank, National Association",CA,5830659531.21,68118,IUS2.DE
+161,"Wells Fargo Bank, National Association",CA,5061065837.0,82603,AAADAXX
+233,Manufacturers and Traders Trust Company,CA,10850206.0,29,0
+2,"JPMorgan Chase Bank, National Association",TX,4309288233.39,47970,JPM-PD
+57,"Bank of America, National Association",TX,2227192037.72,37856,BAC
+126,"U.S. Bank, National Association",TX,77101939.31,594,IUS2.DE
+163,"Wells Fargo Bank, National Association",TX,1019736380.36,24691,AAADAXX
+229,Manufacturers and Traders Trust Company,TX,14474617.0,35,0
+8,"JPMorgan Chase Bank, National Association",OH,1502201444.26,12382,JPM-PD
+77,"Bank of America, National Association",OH,154379866.53,652,BAC
+112,"U.S. Bank, National Association",OH,653930256.13,11488,IUS2.DE
+191,"Wells Fargo Bank, National Association",OH,25996856.0,99,AAADAXX
+227,Manufacturers and Traders Trust Company,OH,25602142.79,57,0
+5,"JPMorgan Chase Bank, National Association",MI,1920832371.4,16724,JPM-PD
+67,"Bank of America, National Association",MI,706322355.18,7943,BAC
+137,"U.S. Bank, National Association",MI,19016015.65,390,IUS2.DE
+195,"Wells Fargo Bank, National Association",MI,14861355.0,102,AAADAXX
+245,Manufacturers and Traders Trust Company,MI,1205235.5,12,0
+4,"JPMorgan Chase Bank, National Association",FL,2284620146.11,35001,JPM-PD
+55,"Bank of America, National Association",FL,3938048560.53,76401,BAC
+133,"U.S. Bank, National Association",FL,35239594.74,557,IUS2.DE
+162,"Wells Fargo Bank, National Association",FL,1307581487.0,37539,AAADAXX
+226,Manufacturers and Traders Trust Company,FL,84913903.5,234,0
+21,"JPMorgan Chase Bank, National Association",PA,171815164.97,795,JPM-PD
+70,"Bank of America, National Association",PA,418566933.54,4698,BAC
+139,"U.S. Bank, National Association",PA,17477585.5,340,IUS2.DE
+171,"Wells Fargo Bank, National Association",PA,350133091.0,7513,AAADAXX
+217,Manufacturers and Traders Trust Company,PA,1430798235.97,8263,0
+6,"JPMorgan Chase Bank, National Association",NJ,1816089860.0,17482,JPM-PD
+58,"Bank of America, National Association",NJ,1811578754.03,22777,BAC
+142,"U.S. Bank, National Association",NJ,7335876.12,99,IUS2.DE
+166,"Wells Fargo Bank, National Association",NJ,521098387.0,10735,AAADAXX
+219,Manufacturers and Traders Trust Company,NJ,639280780.14,2765,0
+3,"JPMorgan Chase Bank, National Association",IL,3026643926.04,35246,JPM-PD
+63,"Bank of America, National Association",IL,952181461.74,11664,BAC
+114,"U.S. Bank, National Association",IL,576731125.03,12467,IUS2.DE
+187,"Wells Fargo Bank, National Association",IL,42654215.0,520,AAADAXX
+234,Manufacturers and Traders Trust Company,IL,8977553.0,22,0
+26,"JPMorgan Chase Bank, National Association",NC,75151453.72,417,JPM-PD
+66,"Bank of America, National Association",NC,763357780.68,12848,BAC
+138,"U.S. Bank, National Association",NC,18181265.12,380,IUS2.DE
+167,"Wells Fargo Bank, National Association",NC,502606465.0,12214,AAADAXX
+228,Manufacturers and Traders Trust Company,NC,16862194.5,54,0
+15,"JPMorgan Chase Bank, National Association",GA,460083231.89,5730,JPM-PD
+61,"Bank of America, National Association",GA,1071319722.03,19750,BAC
+141,"U.S. Bank, National Association",GA,10631653.0,178,IUS2.DE
+165,"Wells Fargo Bank, National Association",GA,541121871.0,14643,AAADAXX
+230,Manufacturers and Traders Trust Company,GA,14420760.5,29,0
+24,"JPMorgan Chase Bank, National Association",VA,101010507.0,442,JPM-PD
+64,"Bank of America, National Association",VA,919351365.05,12641,BAC
+135,"U.S. Bank, National Association",VA,23554369.35,181,IUS2.DE
+168,"Wells Fargo Bank, National Association",VA,457720881.0,9624,AAADAXX
+221,Manufacturers and Traders Trust Company,VA,351842834.41,2199,0
+25,"JPMorgan Chase Bank, National Association",MD,78974855.43,403,JPM-PD
+62,"Bank of America, National Association",MD,1024891265.55,16039,BAC
+143,"U.S. Bank, National Association",MD,7127145.5,105,IUS2.DE
+176,"Wells Fargo Bank, National Association",MD,207200496.0,4467,AAADAXX
+215,Manufacturers and Traders Trust Company,MD,2114286261.52,15769,0
+20,"JPMorgan Chase Bank, National Association",MA,252225859.01,1189,JPM-PD
+59,"Bank of America, National Association",MA,1724656870.62,18624,BAC
+140,"U.S. Bank, National Association",MA,12371410.22,81,IUS2.DE
+200,"Wells Fargo Bank, National Association",MA,9807082.0,87,AAADAXX
+218,Manufacturers and Traders Trust Company,MA,749737402.24,3780,0
+11,"JPMorgan Chase Bank, National Association",LA,856245079.74,7376,JPM-PD
+89,"Bank of America, National Association",LA,34537599.0,187,BAC
+151,"U.S. Bank, National Association",LA,1760760.0,48,IUS2.DE
+204,"Wells Fargo Bank, National Association",LA,3839406.0,87,AAADAXX
+249,Manufacturers and Traders Trust Company,LA,443348.0,2,0
+29,"JPMorgan Chase Bank, National Association",TN,43395278.55,344,JPM-PD
+75,"Bank of America, National Association",TN,247822399.34,4327,BAC
+122,"U.S. Bank, National Association",TN,166404838.1,4430,IUS2.DE
+188,"Wells Fargo Bank, National Association",TN,40518029.0,852,AAADAXX
+239,Manufacturers and Traders Trust Company,TN,2894642.0,4,0
+17,"JPMorgan Chase Bank, National Association",UT,398291056.12,3588,JPM-PD
+84,"Bank of America, National Association",UT,68266690.96,212,BAC
+123,"U.S. Bank, National Association",UT,137001293.42,2175,IUS2.DE
+178,"Wells Fargo Bank, National Association",UT,136481139.0,2807,AAADAXX
+254,Manufacturers and Traders Trust Company,UT,100792.0,1,0
+51,"JPMorgan Chase Bank, National Association",PR,47289.83,2,JPM-PD
+100,"Bank of America, National Association",PR,7387473.0,34,BAC
+159,"U.S. Bank, National Association",PR,19758.0,1,IUS2.DE
+212,"Wells Fargo Bank, National Association",PR,330170.0,12,AAADAXX
+452,"PNC Bank, National Association",PR,184436.0,8,ZION
+14,"JPMorgan Chase Bank, National Association",OR,460745044.25,5255,JPM-PD
+72,"Bank of America, National Association",OR,380565334.27,4881,BAC
+110,"U.S. Bank, National Association",OR,1066449559.24,13462,IUS2.DE
+174,"Wells Fargo Bank, National Association",OR,286923238.65,4477,AAADAXX
+257,Manufacturers and Traders Trust Company,OR,41664.0,2,0
+7,"JPMorgan Chase Bank, National Association",AZ,1657774803.55,17186,JPM-PD
+68,"Bank of America, National Association",AZ,674479597.67,11702,BAC
+120,"U.S. Bank, National Association",AZ,185419187.25,3999,IUS2.DE
+164,"Wells Fargo Bank, National Association",AZ,552403967.26,10678,AAADAXX
+237,Manufacturers and Traders Trust Company,AZ,5240545.5,16,0
+13,"JPMorgan Chase Bank, National Association",WI,530833705.72,3591,JPM-PD
+91,"Bank of America, National Association",WI,27750509.5,188,BAC
+115,"U.S. Bank, National Association",WI,406418278.49,6904,IUS2.DE
+186,"Wells Fargo Bank, National Association",WI,53560612.0,1158,AAADAXX
+246,Manufacturers and Traders Trust Company,WI,843762.0,3,0
+16,"JPMorgan Chase Bank, National Association",CT,400788274.92,3916,JPM-PD
+65,"Bank of America, National Association",CT,832780527.44,9498,BAC
+148,"U.S. Bank, National Association",CT,3893237.0,46,IUS2.DE
+180,"Wells Fargo Bank, National Association",CT,102421467.0,2351,AAADAXX
+216,Manufacturers and Traders Trust Company,CT,1533614847.38,15513,0
+22,"JPMorgan Chase Bank, National Association",MN,129418959.5,180,JPM-PD
+85,"Bank of America, National Association",MN,61523834.67,557,BAC
+111,"U.S. Bank, National Association",MN,869364809.85,11833,IUS2.DE
+173,"Wells Fargo Bank, National Association",MN,292891645.0,6936,AAADAXX
+243,Manufacturers and Traders Trust Company,MN,1698330.0,7,0
+12,"JPMorgan Chase Bank, National Association",WA,760703614.82,8957,JPM-PD
+60,"Bank of America, National Association",WA,1382871317.81,16158,BAC
+109,"U.S. Bank, National Association",WA,1189951913.43,12636,IUS2.DE
+170,"Wells Fargo Bank, National Association",WA,360594092.56,5599,AAADAXX
+240,Manufacturers and Traders Trust Company,WA,2645079.0,8,0
+9,"JPMorgan Chase Bank, National Association",CO,900650426.15,10406,JPM-PD
+79,"Bank of America, National Association",CO,124932356.63,1219,BAC
+113,"U.S. Bank, National Association",CO,638880621.81,11607,IUS2.DE
+169,"Wells Fargo Bank, National Association",CO,449625752.0,10984,AAADAXX
+232,Manufacturers and Traders Trust Company,CO,12150666.0,31,0
+37,"JPMorgan Chase Bank, National Association",HI,18794624.0,43,JPM-PD
+99,"Bank of America, National Association",HI,8547863.99,167,BAC
+150,"U.S. Bank, National Association",HI,2320953.65,39,IUS2.DE
+199,"Wells Fargo Bank, National Association",HI,10311969.0,65,AAADAXX
+259,Manufacturers and Traders Trust Company,HI,21684.0,2,0
+23,"JPMorgan Chase Bank, National Association",OK,112873867.86,1328,JPM-PD
+83,"Bank of America, National Association",OK,77558860.58,1471,BAC
+144,"U.S. Bank, National Association",OK,6315869.0,167,IUS2.DE
+202,"Wells Fargo Bank, National Association",OK,4717093.0,71,AAADAXX
+261,Manufacturers and Traders Trust Company,OK,3300.0,1,0
+32,"JPMorgan Chase Bank, National Association",MO,25117884.98,124,JPM-PD
+74,"Bank of America, National Association",MO,291941009.64,5171,BAC
+116,"U.S. Bank, National Association",MO,376854207.37,7913,IUS2.DE
+203,"Wells Fargo Bank, National Association",MO,4527321.0,140,AAADAXX
+255,Manufacturers and Traders Trust Company,MO,87292.0,3,0
+40,"JPMorgan Chase Bank, National Association",AL,13115917.02,71,JPM-PD
+93,"Bank of America, National Association",AL,24643365.0,204,BAC
+146,"U.S. Bank, National Association",AL,4787790.0,57,IUS2.DE
+183,"Wells Fargo Bank, National Association",AL,71427208.0,2433,AAADAXX
+251,Manufacturers and Traders Trust Company,AL,370000.0,1,0
+10,"JPMorgan Chase Bank, National Association",IN,865558492.54,7925,JPM-PD
+81,"Bank of America, National Association",IN,94437298.69,415,BAC
+131,"U.S. Bank, National Association",IN,36559987.54,683,IUS2.DE
+197,"Wells Fargo Bank, National Association",IN,11668359.0,79,AAADAXX
+241,Manufacturers and Traders Trust Company,IN,2260566.5,7,0
+33,"JPMorgan Chase Bank, National Association",SC,23915223.69,233,JPM-PD
+71,"Bank of America, National Association",SC,384523542.39,6387,BAC
+145,"U.S. Bank, National Association",SC,6270345.5,82,IUS2.DE
+177,"Wells Fargo Bank, National Association",SC,200883867.0,4869,AAADAXX
+236,Manufacturers and Traders Trust Company,SC,5677769.5,35,0
+18,"JPMorgan Chase Bank, National Association",NV,317931602.99,3980,JPM-PD
+69,"Bank of America, National Association",NV,550320488.03,8238,BAC
+117,"U.S. Bank, National Association",NV,333294688.74,6265,IUS2.DE
+172,"Wells Fargo Bank, National Association",NV,340122393.0,6563,AAADAXX
+247,Manufacturers and Traders Trust Company,NV,624280.0,9,0
+19,"JPMorgan Chase Bank, National Association",KY,295930139.56,2306,JPM-PD
+95,"Bank of America, National Association",KY,14526477.0,148,BAC
+119,"U.S. Bank, National Association",KY,187143021.44,3345,IUS2.DE
+206,"Wells Fargo Bank, National Association",KY,3396843.0,37,AAADAXX
+242,Manufacturers and Traders Trust Company,KY,2232391.0,7,0
+43,"JPMorgan Chase Bank, National Association",AR,8476100.38,39,JPM-PD
+87,"Bank of America, National Association",AR,56879755.49,885,BAC
+130,"U.S. Bank, National Association",AR,39855455.14,888,IUS2.DE
+207,"Wells Fargo Bank, National Association",AR,2163637.0,53,AAADAXX
+252,Manufacturers and Traders Trust Company,AR,177501.0,1,0
+48,"JPMorgan Chase Bank, National Association",MT,1640298.5,40,JPM-PD
+102,"Bank of America, National Association",MT,4643543.0,52,BAC
+128,"U.S. Bank, National Association",MT,69010666.33,1008,IUS2.DE
+193,"Wells Fargo Bank, National Association",MT,17854356.0,690,AAADAXX
+298,Frost Bank,MT,20800.0,1,CFR
+49,"JPMorgan Chase Bank, National Association",AK,829154.0,9,JPM-PD
+90,"Bank of America, National Association",AK,31022026.5,94,BAC
+157,"U.S. Bank, National Association",AK,373586.0,17,IUS2.DE
+181,"Wells Fargo Bank, National Association",AK,96089852.86,1667,AAADAXX
+348,City National Bank,AK,148016.0,1,0
+38,"JPMorgan Chase Bank, National Association",RI,17622922.32,63,JPM-PD
+76,"Bank of America, National Association",RI,234220336.56,2430,BAC
+158,"U.S. Bank, National Association",RI,218110.0,2,IUS2.DE
+211,"Wells Fargo Bank, National Association",RI,585507.0,10,AAADAXX
+231,Manufacturers and Traders Trust Company,RI,13438666.95,56,0
+39,"JPMorgan Chase Bank, National Association",NE,13147258.0,24,JPM-PD
+106,"Bank of America, National Association",NE,1184310.0,41,BAC
+127,"U.S. Bank, National Association",NE,74343118.36,1726,IUS2.DE
+190,"Wells Fargo Bank, National Association",NE,29067818.0,992,AAADAXX
+256,Manufacturers and Traders Trust Company,NE,81125.0,1,0
+36,"JPMorgan Chase Bank, National Association",KS,19313308.0,63,JPM-PD
+82,"Bank of America, National Association",KS,83380108.06,1886,BAC
+125,"U.S. Bank, National Association",KS,108196433.27,1775,IUS2.DE
+198,"Wells Fargo Bank, National Association",KS,10529949.0,203,AAADAXX
+238,Manufacturers and Traders Trust Company,KS,4490408.0,9,0
+34,"JPMorgan Chase Bank, National Association",NH,23660412.0,74,JPM-PD
+78,"Bank of America, National Association",NH,139907253.38,1582,BAC
+156,"U.S. Bank, National Association",NH,463292.5,17,IUS2.DE
+209,"Wells Fargo Bank, National Association",NH,851345.0,22,AAADAXX
+223,Manufacturers and Traders Trust Company,NH,251402498.95,1940,0
+45,"JPMorgan Chase Bank, National Association",ME,7794103.0,44,JPM-PD
+88,"Bank of America, National Association",ME,52961435.15,745,BAC
+147,"U.S. Bank, National Association",ME,4022391.31,10,IUS2.DE
+205,"Wells Fargo Bank, National Association",ME,3509072.0,23,AAADAXX
+224,Manufacturers and Traders Trust Company,ME,134674562.06,793,0
+46,"JPMorgan Chase Bank, National Association",MS,6141297.95,45,JPM-PD
+97,"Bank of America, National Association",MS,13171110.81,148,BAC
+152,"U.S. Bank, National Association",MS,1373665.61,20,IUS2.DE
+201,"Wells Fargo Bank, National Association",MS,7998713.0,376,AAADAXX
+248,Manufacturers and Traders Trust Company,MS,509604.0,2,0
+27,"JPMorgan Chase Bank, National Association",WV,69203004.17,546,JPM-PD
+103,"Bank of America, National Association",WV,2857684.0,46,BAC
+153,"U.S. Bank, National Association",WV,1112785.5,31,IUS2.DE
+208,"Wells Fargo Bank, National Association",WV,1435793.0,26,AAADAXX
+235,Manufacturers and Traders Trust Company,WV,7459896.0,115,0
+35,"JPMorgan Chase Bank, National Association",DE,23027719.79,142,JPM-PD
+86,"Bank of America, National Association",DE,59227617.5,597,BAC
+149,"U.S. Bank, National Association",DE,3248737.5,9,IUS2.DE
+189,"Wells Fargo Bank, National Association",DE,29377422.0,691,AAADAXX
+220,Manufacturers and Traders Trust Company,DE,394866362.81,3021,0
+28,"JPMorgan Chase Bank, National Association",DC,67787791.16,273,JPM-PD
+73,"Bank of America, National Association",DC,301465512.66,2478,BAC
+154,"U.S. Bank, National Association",DC,924565.0,30,IUS2.DE
+182,"Wells Fargo Bank, National Association",DC,92267963.0,1096,AAADAXX
+225,Manufacturers and Traders Trust Company,DC,125434544.0,669,0
+30,"JPMorgan Chase Bank, National Association",ID,40453710.84,675,JPM-PD
+92,"Bank of America, National Association",ID,26138863.0,231,BAC
+121,"U.S. Bank, National Association",ID,180787481.37,3033,IUS2.DE
+185,"Wells Fargo Bank, National Association",ID,56039842.0,1376,AAADAXX
+258,Manufacturers and Traders Trust Company,ID,32028.5,2,0
+44,"JPMorgan Chase Bank, National Association",VT,8248522.0,43,JPM-PD
+96,"Bank of America, National Association",VT,13870353.0,88,BAC
+155,"U.S. Bank, National Association",VT,655584.0,4,IUS2.DE
+210,"Wells Fargo Bank, National Association",VT,756055.0,7,AAADAXX
+222,Manufacturers and Traders Trust Company,VT,342858146.38,2752,0
+47,"JPMorgan Chase Bank, National Association",ND,1803428.7,9,JPM-PD
+105,"Bank of America, National Association",ND,1269639.0,24,BAC
+134,"U.S. Bank, National Association",ND,33089886.91,638,IUS2.DE
+196,"Wells Fargo Bank, National Association",ND,12787181.0,307,AAADAXX
+349,City National Bank,ND,126688.0,1,0
+31,"JPMorgan Chase Bank, National Association",IA,27752904.0,69,JPM-PD
+94,"Bank of America, National Association",IA,18631335.0,291,BAC
+118,"U.S. Bank, National Association",IA,218671439.37,2992,IUS2.DE
+184,"Wells Fargo Bank, National Association",IA,59507461.0,1195,AAADAXX
+253,Manufacturers and Traders Trust Company,IA,125345.0,2,0
+50,"JPMorgan Chase Bank, National Association",SD,135143.65,9,JPM-PD
+98,"Bank of America, National Association",SD,10681404.0,24,BAC
+129,"U.S. Bank, National Association",SD,56936642.66,785,IUS2.DE
+194,"Wells Fargo Bank, National Association",SD,15710090.0,602,AAADAXX
+244,Manufacturers and Traders Trust Company,SD,1269637.0,2,0
+42,"JPMorgan Chase Bank, National Association",WY,8757883.45,112,JPM-PD
+101,"Bank of America, National Association",WY,6020155.0,196,BAC
+136,"U.S. Bank, National Association",WY,20812755.05,425,IUS2.DE
+192,"Wells Fargo Bank, National Association",WY,18053464.0,574,AAADAXX
+260,Manufacturers and Traders Trust Company,WY,20833.0,1,0
+41,"JPMorgan Chase Bank, National Association",NM,10762628.0,80,JPM-PD
+80,"Bank of America, National Association",NM,104117732.15,1586,BAC
+124,"U.S. Bank, National Association",NM,136677371.94,1739,IUS2.DE
+179,"Wells Fargo Bank, National Association",NM,114448039.0,2033,AAADAXX
+250,Manufacturers and Traders Trust Company,NM,390447.0,7,0
+341,City National Bank,GU,593700.0,2,0
+666,Customers Bank,GU,76776.0,4,0
+861,"Harvest Small Business Finance, LLC",GU,18750.0,1,BTM
+964,Cross River Bank,GU,172729.0,9,0
+1148,Loan Source Incorporated,GU,1820290.0,17,0
+52,"JPMorgan Chase Bank, National Association",VI,35600.0,1,JPM-PD
+104,"Bank of America, National Association",VI,2351956.0,25,BAC
+160,"U.S. Bank, National Association",VI,16079.0,1,IUS2.DE
+213,"Wells Fargo Bank, National Association",VI,34600.0,1,AAADAXX
+291,Frost Bank,VI,115000.0,2,CFR
+965,Cross River Bank,MP,99321.88,2,0
+2227,First Hawaiian Bank,MP,36131136.75,543,0
+2759,"Capital Plus Financial, LLC",MP,189099.0,3,BTM
+3633,Bank of Hawaii,MP,11524812.04,162,BOH
+14921,Bank of Guam,MP,15853134.0,209,0
+107,"Bank of America, National Association",AS,725055.0,1,BAC
+966,Cross River Bank,AS,15179.0,1,0
+2172,Washington Trust Bank,AS,41600.0,1,0
+3134,Central Pacific Bank,AS,424500.0,2,0
+4447,Fountainhead SBF LLC,AS,137380.09,5,0
+908,"Citibank, N.A.",FI,42100.0,1,C
+53,"JPMorgan Chase Bank, National Association",AE,3462.0,1,JPM-PD
+3022,"Prestamos CDFI, LLC",AE,20000.0,1,BTM
+18570,Navy FCU,AE,40525.0,2,0
+0,"JPMorgan Chase Bank, National Association",NY,11087958271.58,102492,JPM-PD
+56,"Bank of America, National Association",NY,2726850870.75,30684,BAC
+132,"U.S. Bank, National Association",NY,35974239.95,237,IUS2.DE
+175,"Wells Fargo Bank, National Association",NY,216912620.0,3685,AAADAXX
+214,Manufacturers and Traders Trust Company,NY,4998865711.82,31756,0
+1,"JPMorgan Chase Bank, National Association",CA,8856228454.19,97447,JPM-PD
+54,"Bank of America, National Association",CA,9517232864.77,133826,BAC
+108,"U.S. Bank, National Association",CA,5830659531.21,68118,IUS2.DE
+161,"Wells Fargo Bank, National Association",CA,5061065837.0,82603,AAADAXX
+233,Manufacturers and Traders Trust Company,CA,10850206.0,29,0
+2,"JPMorgan Chase Bank, National Association",TX,4309288233.39,47970,JPM-PD
+57,"Bank of America, National Association",TX,2227192037.72,37856,BAC
+126,"U.S. Bank, National Association",TX,77101939.31,594,IUS2.DE
+163,"Wells Fargo Bank, National Association",TX,1019736380.36,24691,AAADAXX
+229,Manufacturers and Traders Trust Company,TX,14474617.0,35,0
+8,"JPMorgan Chase Bank, National Association",OH,1502201444.26,12382,JPM-PD
+77,"Bank of America, National Association",OH,154379866.53,652,BAC
+112,"U.S. Bank, National Association",OH,653930256.13,11488,IUS2.DE
+191,"Wells Fargo Bank, National Association",OH,25996856.0,99,AAADAXX
+227,Manufacturers and Traders Trust Company,OH,25602142.79,57,0
+5,"JPMorgan Chase Bank, National Association",MI,1920832371.4,16724,JPM-PD
+67,"Bank of America, National Association",MI,706322355.18,7943,BAC
+137,"U.S. Bank, National Association",MI,19016015.65,390,IUS2.DE
+195,"Wells Fargo Bank, National Association",MI,14861355.0,102,AAADAXX
+245,Manufacturers and Traders Trust Company,MI,1205235.5,12,0
+4,"JPMorgan Chase Bank, National Association",FL,2284620146.11,35001,JPM-PD
+55,"Bank of America, National Association",FL,3938048560.53,76401,BAC
+133,"U.S. Bank, National Association",FL,35239594.74,557,IUS2.DE
+162,"Wells Fargo Bank, National Association",FL,1307581487.0,37539,AAADAXX
+226,Manufacturers and Traders Trust Company,FL,84913903.5,234,0
+21,"JPMorgan Chase Bank, National Association",PA,171815164.97,795,JPM-PD
+70,"Bank of America, National Association",PA,418566933.54,4698,BAC
+139,"U.S. Bank, National Association",PA,17477585.5,340,IUS2.DE
+171,"Wells Fargo Bank, National Association",PA,350133091.0,7513,AAADAXX
+217,Manufacturers and Traders Trust Company,PA,1430798235.97,8263,0
+6,"JPMorgan Chase Bank, National Association",NJ,1816089860.0,17482,JPM-PD
+58,"Bank of America, National Association",NJ,1811578754.03,22777,BAC
+142,"U.S. Bank, National Association",NJ,7335876.12,99,IUS2.DE
+166,"Wells Fargo Bank, National Association",NJ,521098387.0,10735,AAADAXX
+219,Manufacturers and Traders Trust Company,NJ,639280780.14,2765,0
+3,"JPMorgan Chase Bank, National Association",IL,3026643926.04,35246,JPM-PD
+63,"Bank of America, National Association",IL,952181461.74,11664,BAC
+114,"U.S. Bank, National Association",IL,576731125.03,12467,IUS2.DE
+187,"Wells Fargo Bank, National Association",IL,42654215.0,520,AAADAXX
+234,Manufacturers and Traders Trust Company,IL,8977553.0,22,0
+26,"JPMorgan Chase Bank, National Association",NC,75151453.72,417,JPM-PD
+66,"Bank of America, National Association",NC,763357780.68,12848,BAC
+138,"U.S. Bank, National Association",NC,18181265.12,380,IUS2.DE
+167,"Wells Fargo Bank, National Association",NC,502606465.0,12214,AAADAXX
+228,Manufacturers and Traders Trust Company,NC,16862194.5,54,0
+15,"JPMorgan Chase Bank, National Association",GA,460083231.89,5730,JPM-PD
+61,"Bank of America, National Association",GA,1071319722.03,19750,BAC
+141,"U.S. Bank, National Association",GA,10631653.0,178,IUS2.DE
+165,"Wells Fargo Bank, National Association",GA,541121871.0,14643,AAADAXX
+230,Manufacturers and Traders Trust Company,GA,14420760.5,29,0
+24,"JPMorgan Chase Bank, National Association",VA,101010507.0,442,JPM-PD
+64,"Bank of America, National Association",VA,919351365.05,12641,BAC
+135,"U.S. Bank, National Association",VA,23554369.35,181,IUS2.DE
+168,"Wells Fargo Bank, National Association",VA,457720881.0,9624,AAADAXX
+221,Manufacturers and Traders Trust Company,VA,351842834.41,2199,0
+25,"JPMorgan Chase Bank, National Association",MD,78974855.43,403,JPM-PD
+62,"Bank of America, National Association",MD,1024891265.55,16039,BAC
+143,"U.S. Bank, National Association",MD,7127145.5,105,IUS2.DE
+176,"Wells Fargo Bank, National Association",MD,207200496.0,4467,AAADAXX
+215,Manufacturers and Traders Trust Company,MD,2114286261.52,15769,0
+20,"JPMorgan Chase Bank, National Association",MA,252225859.01,1189,JPM-PD
+59,"Bank of America, National Association",MA,1724656870.62,18624,BAC
+140,"U.S. Bank, National Association",MA,12371410.22,81,IUS2.DE
+200,"Wells Fargo Bank, National Association",MA,9807082.0,87,AAADAXX
+218,Manufacturers and Traders Trust Company,MA,749737402.24,3780,0
+11,"JPMorgan Chase Bank, National Association",LA,856245079.74,7376,JPM-PD
+89,"Bank of America, National Association",LA,34537599.0,187,BAC
+151,"U.S. Bank, National Association",LA,1760760.0,48,IUS2.DE
+204,"Wells Fargo Bank, National Association",LA,3839406.0,87,AAADAXX
+249,Manufacturers and Traders Trust Company,LA,443348.0,2,0
+29,"JPMorgan Chase Bank, National Association",TN,43395278.55,344,JPM-PD
+75,"Bank of America, National Association",TN,247822399.34,4327,BAC
+122,"U.S. Bank, National Association",TN,166404838.1,4430,IUS2.DE
+188,"Wells Fargo Bank, National Association",TN,40518029.0,852,AAADAXX
+239,Manufacturers and Traders Trust Company,TN,2894642.0,4,0
+17,"JPMorgan Chase Bank, National Association",UT,398291056.12,3588,JPM-PD
+84,"Bank of America, National Association",UT,68266690.96,212,BAC
+123,"U.S. Bank, National Association",UT,137001293.42,2175,IUS2.DE
+178,"Wells Fargo Bank, National Association",UT,136481139.0,2807,AAADAXX
+254,Manufacturers and Traders Trust Company,UT,100792.0,1,0
+51,"JPMorgan Chase Bank, National Association",PR,47289.83,2,JPM-PD
+100,"Bank of America, National Association",PR,7387473.0,34,BAC
+159,"U.S. Bank, National Association",PR,19758.0,1,IUS2.DE
+212,"Wells Fargo Bank, National Association",PR,330170.0,12,AAADAXX
+452,"PNC Bank, National Association",PR,184436.0,8,ZION
+14,"JPMorgan Chase Bank, National Association",OR,460745044.25,5255,JPM-PD
+72,"Bank of America, National Association",OR,380565334.27,4881,BAC
+110,"U.S. Bank, National Association",OR,1066449559.24,13462,IUS2.DE
+174,"Wells Fargo Bank, National Association",OR,286923238.65,4477,AAADAXX
+257,Manufacturers and Traders Trust Company,OR,41664.0,2,0
+7,"JPMorgan Chase Bank, National Association",AZ,1657774803.55,17186,JPM-PD
+68,"Bank of America, National Association",AZ,674479597.67,11702,BAC
+120,"U.S. Bank, National Association",AZ,185419187.25,3999,IUS2.DE
+164,"Wells Fargo Bank, National Association",AZ,552403967.26,10678,AAADAXX
+237,Manufacturers and Traders Trust Company,AZ,5240545.5,16,0
+13,"JPMorgan Chase Bank, National Association",WI,530833705.72,3591,JPM-PD
+91,"Bank of America, National Association",WI,27750509.5,188,BAC
+115,"U.S. Bank, National Association",WI,406418278.49,6904,IUS2.DE
+186,"Wells Fargo Bank, National Association",WI,53560612.0,1158,AAADAXX
+246,Manufacturers and Traders Trust Company,WI,843762.0,3,0
+16,"JPMorgan Chase Bank, National Association",CT,400788274.92,3916,JPM-PD
+65,"Bank of America, National Association",CT,832780527.44,9498,BAC
+148,"U.S. Bank, National Association",CT,3893237.0,46,IUS2.DE
+180,"Wells Fargo Bank, National Association",CT,102421467.0,2351,AAADAXX
+216,Manufacturers and Traders Trust Company,CT,1533614847.38,15513,0
+22,"JPMorgan Chase Bank, National Association",MN,129418959.5,180,JPM-PD
+85,"Bank of America, National Association",MN,61523834.67,557,BAC
+111,"U.S. Bank, National Association",MN,869364809.85,11833,IUS2.DE
+173,"Wells Fargo Bank, National Association",MN,292891645.0,6936,AAADAXX
+243,Manufacturers and Traders Trust Company,MN,1698330.0,7,0
+12,"JPMorgan Chase Bank, National Association",WA,760703614.82,8957,JPM-PD
+60,"Bank of America, National Association",WA,1382871317.81,16158,BAC
+109,"U.S. Bank, National Association",WA,1189951913.43,12636,IUS2.DE
+170,"Wells Fargo Bank, National Association",WA,360594092.56,5599,AAADAXX
+240,Manufacturers and Traders Trust Company,WA,2645079.0,8,0
+9,"JPMorgan Chase Bank, National Association",CO,900650426.15,10406,JPM-PD
+79,"Bank of America, National Association",CO,124932356.63,1219,BAC
+113,"U.S. Bank, National Association",CO,638880621.81,11607,IUS2.DE
+169,"Wells Fargo Bank, National Association",CO,449625752.0,10984,AAADAXX
+232,Manufacturers and Traders Trust Company,CO,12150666.0,31,0
+37,"JPMorgan Chase Bank, National Association",HI,18794624.0,43,JPM-PD
+99,"Bank of America, National Association",HI,8547863.99,167,BAC
+150,"U.S. Bank, National Association",HI,2320953.65,39,IUS2.DE
+199,"Wells Fargo Bank, National Association",HI,10311969.0,65,AAADAXX
+259,Manufacturers and Traders Trust Company,HI,21684.0,2,0
+23,"JPMorgan Chase Bank, National Association",OK,112873867.86,1328,JPM-PD
+83,"Bank of America, National Association",OK,77558860.58,1471,BAC
+144,"U.S. Bank, National Association",OK,6315869.0,167,IUS2.DE
+202,"Wells Fargo Bank, National Association",OK,4717093.0,71,AAADAXX
+261,Manufacturers and Traders Trust Company,OK,3300.0,1,0
+32,"JPMorgan Chase Bank, National Association",MO,25117884.98,124,JPM-PD
+74,"Bank of America, National Association",MO,291941009.64,5171,BAC
+116,"U.S. Bank, National Association",MO,376854207.37,7913,IUS2.DE
+203,"Wells Fargo Bank, National Association",MO,4527321.0,140,AAADAXX
+255,Manufacturers and Traders Trust Company,MO,87292.0,3,0
+40,"JPMorgan Chase Bank, National Association",AL,13115917.02,71,JPM-PD
+93,"Bank of America, National Association",AL,24643365.0,204,BAC
+146,"U.S. Bank, National Association",AL,4787790.0,57,IUS2.DE
+183,"Wells Fargo Bank, National Association",AL,71427208.0,2433,AAADAXX
+251,Manufacturers and Traders Trust Company,AL,370000.0,1,0
+10,"JPMorgan Chase Bank, National Association",IN,865558492.54,7925,JPM-PD
+81,"Bank of America, National Association",IN,94437298.69,415,BAC
+131,"U.S. Bank, National Association",IN,36559987.54,683,IUS2.DE
+197,"Wells Fargo Bank, National Association",IN,11668359.0,79,AAADAXX
+241,Manufacturers and Traders Trust Company,IN,2260566.5,7,0
+33,"JPMorgan Chase Bank, National Association",SC,23915223.69,233,JPM-PD
+71,"Bank of America, National Association",SC,384523542.39,6387,BAC
+145,"U.S. Bank, National Association",SC,6270345.5,82,IUS2.DE
+177,"Wells Fargo Bank, National Association",SC,200883867.0,4869,AAADAXX
+236,Manufacturers and Traders Trust Company,SC,5677769.5,35,0
+18,"JPMorgan Chase Bank, National Association",NV,317931602.99,3980,JPM-PD
+69,"Bank of America, National Association",NV,550320488.03,8238,BAC
+117,"U.S. Bank, National Association",NV,333294688.74,6265,IUS2.DE
+172,"Wells Fargo Bank, National Association",NV,340122393.0,6563,AAADAXX
+247,Manufacturers and Traders Trust Company,NV,624280.0,9,0
+19,"JPMorgan Chase Bank, National Association",KY,295930139.56,2306,JPM-PD
+95,"Bank of America, National Association",KY,14526477.0,148,BAC
+119,"U.S. Bank, National Association",KY,187143021.44,3345,IUS2.DE
+206,"Wells Fargo Bank, National Association",KY,3396843.0,37,AAADAXX
+242,Manufacturers and Traders Trust Company,KY,2232391.0,7,0
+43,"JPMorgan Chase Bank, National Association",AR,8476100.38,39,JPM-PD
+87,"Bank of America, National Association",AR,56879755.49,885,BAC
+130,"U.S. Bank, National Association",AR,39855455.14,888,IUS2.DE
+207,"Wells Fargo Bank, National Association",AR,2163637.0,53,AAADAXX
+252,Manufacturers and Traders Trust Company,AR,177501.0,1,0
+48,"JPMorgan Chase Bank, National Association",MT,1640298.5,40,JPM-PD
+102,"Bank of America, National Association",MT,4643543.0,52,BAC
+128,"U.S. Bank, National Association",MT,69010666.33,1008,IUS2.DE
+193,"Wells Fargo Bank, National Association",MT,17854356.0,690,AAADAXX
+298,Frost Bank,MT,20800.0,1,CFR
+49,"JPMorgan Chase Bank, National Association",AK,829154.0,9,JPM-PD
+90,"Bank of America, National Association",AK,31022026.5,94,BAC
+157,"U.S. Bank, National Association",AK,373586.0,17,IUS2.DE
+181,"Wells Fargo Bank, National Association",AK,96089852.86,1667,AAADAXX
+348,City National Bank,AK,148016.0,1,0
+38,"JPMorgan Chase Bank, National Association",RI,17622922.32,63,JPM-PD
+76,"Bank of America, National Association",RI,234220336.56,2430,BAC
+158,"U.S. Bank, National Association",RI,218110.0,2,IUS2.DE
+211,"Wells Fargo Bank, National Association",RI,585507.0,10,AAADAXX
+231,Manufacturers and Traders Trust Company,RI,13438666.95,56,0
+39,"JPMorgan Chase Bank, National Association",NE,13147258.0,24,JPM-PD
+106,"Bank of America, National Association",NE,1184310.0,41,BAC
+127,"U.S. Bank, National Association",NE,74343118.36,1726,IUS2.DE
+190,"Wells Fargo Bank, National Association",NE,29067818.0,992,AAADAXX
+256,Manufacturers and Traders Trust Company,NE,81125.0,1,0
+36,"JPMorgan Chase Bank, National Association",KS,19313308.0,63,JPM-PD
+82,"Bank of America, National Association",KS,83380108.06,1886,BAC
+125,"U.S. Bank, National Association",KS,108196433.27,1775,IUS2.DE
+198,"Wells Fargo Bank, National Association",KS,10529949.0,203,AAADAXX
+238,Manufacturers and Traders Trust Company,KS,4490408.0,9,0
+34,"JPMorgan Chase Bank, National Association",NH,23660412.0,74,JPM-PD
+78,"Bank of America, National Association",NH,139907253.38,1582,BAC
+156,"U.S. Bank, National Association",NH,463292.5,17,IUS2.DE
+209,"Wells Fargo Bank, National Association",NH,851345.0,22,AAADAXX
+223,Manufacturers and Traders Trust Company,NH,251402498.95,1940,0
+45,"JPMorgan Chase Bank, National Association",ME,7794103.0,44,JPM-PD
+88,"Bank of America, National Association",ME,52961435.15,745,BAC
+147,"U.S. Bank, National Association",ME,4022391.31,10,IUS2.DE
+205,"Wells Fargo Bank, National Association",ME,3509072.0,23,AAADAXX
+224,Manufacturers and Traders Trust Company,ME,134674562.06,793,0
+46,"JPMorgan Chase Bank, National Association",MS,6141297.95,45,JPM-PD
+97,"Bank of America, National Association",MS,13171110.81,148,BAC
+152,"U.S. Bank, National Association",MS,1373665.61,20,IUS2.DE
+201,"Wells Fargo Bank, National Association",MS,7998713.0,376,AAADAXX
+248,Manufacturers and Traders Trust Company,MS,509604.0,2,0
+27,"JPMorgan Chase Bank, National Association",WV,69203004.17,546,JPM-PD
+103,"Bank of America, National Association",WV,2857684.0,46,BAC
+153,"U.S. Bank, National Association",WV,1112785.5,31,IUS2.DE
+208,"Wells Fargo Bank, National Association",WV,1435793.0,26,AAADAXX
+235,Manufacturers and Traders Trust Company,WV,7459896.0,115,0
+35,"JPMorgan Chase Bank, National Association",DE,23027719.79,142,JPM-PD
+86,"Bank of America, National Association",DE,59227617.5,597,BAC
+149,"U.S. Bank, National Association",DE,3248737.5,9,IUS2.DE
+189,"Wells Fargo Bank, National Association",DE,29377422.0,691,AAADAXX
+220,Manufacturers and Traders Trust Company,DE,394866362.81,3021,0
+28,"JPMorgan Chase Bank, National Association",DC,67787791.16,273,JPM-PD
+73,"Bank of America, National Association",DC,301465512.66,2478,BAC
+154,"U.S. Bank, National Association",DC,924565.0,30,IUS2.DE
+182,"Wells Fargo Bank, National Association",DC,92267963.0,1096,AAADAXX
+225,Manufacturers and Traders Trust Company,DC,125434544.0,669,0
+30,"JPMorgan Chase Bank, National Association",ID,40453710.84,675,JPM-PD
+92,"Bank of America, National Association",ID,26138863.0,231,BAC
+121,"U.S. Bank, National Association",ID,180787481.37,3033,IUS2.DE
+185,"Wells Fargo Bank, National Association",ID,56039842.0,1376,AAADAXX
+258,Manufacturers and Traders Trust Company,ID,32028.5,2,0
+44,"JPMorgan Chase Bank, National Association",VT,8248522.0,43,JPM-PD
+96,"Bank of America, National Association",VT,13870353.0,88,BAC
+155,"U.S. Bank, National Association",VT,655584.0,4,IUS2.DE
+210,"Wells Fargo Bank, National Association",VT,756055.0,7,AAADAXX
+222,Manufacturers and Traders Trust Company,VT,342858146.38,2752,0
+47,"JPMorgan Chase Bank, National Association",ND,1803428.7,9,JPM-PD
+105,"Bank of America, National Association",ND,1269639.0,24,BAC
+134,"U.S. Bank, National Association",ND,33089886.91,638,IUS2.DE
+196,"Wells Fargo Bank, National Association",ND,12787181.0,307,AAADAXX
+349,City National Bank,ND,126688.0,1,0
+31,"JPMorgan Chase Bank, National Association",IA,27752904.0,69,JPM-PD
+94,"Bank of America, National Association",IA,18631335.0,291,BAC
+118,"U.S. Bank, National Association",IA,218671439.37,2992,IUS2.DE
+184,"Wells Fargo Bank, National Association",IA,59507461.0,1195,AAADAXX
+253,Manufacturers and Traders Trust Company,IA,125345.0,2,0
+50,"JPMorgan Chase Bank, National Association",SD,135143.65,9,JPM-PD
+98,"Bank of America, National Association",SD,10681404.0,24,BAC
+129,"U.S. Bank, National Association",SD,56936642.66,785,IUS2.DE
+194,"Wells Fargo Bank, National Association",SD,15710090.0,602,AAADAXX
+244,Manufacturers and Traders Trust Company,SD,1269637.0,2,0
+42,"JPMorgan Chase Bank, National Association",WY,8757883.45,112,JPM-PD
+101,"Bank of America, National Association",WY,6020155.0,196,BAC
+136,"U.S. Bank, National Association",WY,20812755.05,425,IUS2.DE
+192,"Wells Fargo Bank, National Association",WY,18053464.0,574,AAADAXX
+260,Manufacturers and Traders Trust Company,WY,20833.0,1,0
+41,"JPMorgan Chase Bank, National Association",NM,10762628.0,80,JPM-PD
+80,"Bank of America, National Association",NM,104117732.15,1586,BAC
+124,"U.S. Bank, National Association",NM,136677371.94,1739,IUS2.DE
+179,"Wells Fargo Bank, National Association",NM,114448039.0,2033,AAADAXX
+250,Manufacturers and Traders Trust Company,NM,390447.0,7,0
+341,City National Bank,GU,593700.0,2,0
+666,Customers Bank,GU,76776.0,4,0
+861,"Harvest Small Business Finance, LLC",GU,18750.0,1,BTM
+964,Cross River Bank,GU,172729.0,9,0
+1148,Loan Source Incorporated,GU,1820290.0,17,0
+52,"JPMorgan Chase Bank, National Association",VI,35600.0,1,JPM-PD
+104,"Bank of America, National Association",VI,2351956.0,25,BAC
+160,"U.S. Bank, National Association",VI,16079.0,1,IUS2.DE
+213,"Wells Fargo Bank, National Association",VI,34600.0,1,AAADAXX
+291,Frost Bank,VI,115000.0,2,CFR
+965,Cross River Bank,MP,99321.88,2,0
+2227,First Hawaiian Bank,MP,36131136.75,543,0
+2759,"Capital Plus Financial, LLC",MP,189099.0,3,BTM
+3633,Bank of Hawaii,MP,11524812.04,162,BOH
+14921,Bank of Guam,MP,15853134.0,209,0
+107,"Bank of America, National Association",AS,725055.0,1,BAC
+966,Cross River Bank,AS,15179.0,1,0
+2172,Washington Trust Bank,AS,41600.0,1,0
+3134,Central Pacific Bank,AS,424500.0,2,0
+4447,Fountainhead SBF LLC,AS,137380.09,5,0
+908,"Citibank, N.A.",FI,42100.0,1,C
+53,"JPMorgan Chase Bank, National Association",AE,3462.0,1,JPM-PD
+3022,"Prestamos CDFI, LLC",AE,20000.0,1,BTM
+18570,Navy FCU,AE,40525.0,2,0
+53,"JPMorgan Chase Bank, National Association",AE,3462.0,1,JPM-PD
+3022,"Prestamos CDFI, LLC",AE,20000.0,1,BTM
+18570,Navy FCU,AE,40525.0,2,0
