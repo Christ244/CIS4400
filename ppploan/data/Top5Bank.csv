@@ -1,0 +1,284 @@
+,ServicingLenderName,idservicinglender,BorrowerState,CurrentApprovalAmount_Tatal,CurrentApprovalAmount_Count,Symbol
+0,"Bank of America, National Association",1,CA,9517232864.77,133826,BAC
+54,"U.S. Bank, National Association",185,CA,5830659531.21,68118,IUS2.DE
+126,Manufacturers and Traders Trust Company,275,CA,10850206.0,29,0
+156,Frost Bank,427,CA,14363300.0,50,CFR
+195,City National Bank,112,CA,4572211429.71,19609,0
+1,"Bank of America, National Association",1,FL,3938048560.53,76401,BAC
+79,"U.S. Bank, National Association",185,FL,35239594.74,557,IUS2.DE
+119,Manufacturers and Traders Trust Company,275,FL,84913903.5,234,0
+162,Frost Bank,427,FL,3421300.0,23,CFR
+200,City National Bank,112,FL,58947961.84,150,0
+2,"Bank of America, National Association",1,NY,2726850870.75,30684,BAC
+78,"U.S. Bank, National Association",185,NY,35974239.95,237,IUS2.DE
+107,Manufacturers and Traders Trust Company,275,NY,4998865711.82,31756,0
+169,Frost Bank,427,NY,1364900.0,13,CFR
+196,City National Bank,112,NY,456504869.04,2497,0
+3,"Bank of America, National Association",1,TX,2227192037.72,37856,BAC
+72,"U.S. Bank, National Association",185,TX,77101939.31,594,IUS2.DE
+122,Manufacturers and Traders Trust Company,275,TX,14474617.0,35,0
+155,Frost Bank,427,TX,4615777838.9,32194,CFR
+203,City National Bank,112,TX,44755830.86,118,0
+4,"Bank of America, National Association",1,NJ,1811578754.03,22777,BAC
+88,"U.S. Bank, National Association",185,NJ,7335876.12,99,IUS2.DE
+112,Manufacturers and Traders Trust Company,275,NJ,639280780.14,2765,0
+179,Frost Bank,427,NJ,214000.0,6,CFR
+199,City National Bank,112,NJ,90153085.82,297,0
+5,"Bank of America, National Association",1,MA,1724656870.62,18624,BAC
+86,"U.S. Bank, National Association",185,MA,12371410.22,81,IUS2.DE
+111,Manufacturers and Traders Trust Company,275,MA,749737402.24,3780,0
+189,Frost Bank,427,MA,35600.0,1,CFR
+211,City National Bank,112,MA,14586906.65,33,0
+6,"Bank of America, National Association",1,WA,1382871317.81,16158,BAC
+55,"U.S. Bank, National Association",185,WA,1189951913.43,12636,IUS2.DE
+133,Manufacturers and Traders Trust Company,275,WA,2645079.0,8,0
+165,Frost Bank,427,WA,2281100.0,5,CFR
+205,City National Bank,112,WA,28006102.5,38,0
+7,"Bank of America, National Association",1,GA,1071319722.03,19750,BAC
+87,"U.S. Bank, National Association",185,GA,10631653.0,178,IUS2.DE
+123,Manufacturers and Traders Trust Company,275,GA,14420760.5,29,0
+158,Frost Bank,427,GA,4993300.0,10,CFR
+201,City National Bank,112,GA,49206749.29,221,0
+8,"Bank of America, National Association",1,MD,1024891265.55,16039,BAC
+89,"U.S. Bank, National Association",185,MD,7127145.5,105,IUS2.DE
+108,Manufacturers and Traders Trust Company,275,MD,2114286261.52,15769,0
+190,Frost Bank,427,MD,22800.0,2,CFR
+214,City National Bank,112,MD,12356890.5,78,0
+9,"Bank of America, National Association",1,IL,952181461.74,11664,BAC
+60,"U.S. Bank, National Association",185,IL,576731125.03,12467,IUS2.DE
+127,Manufacturers and Traders Trust Company,275,IL,8977553.0,22,0
+177,Frost Bank,427,IL,252200.0,7,CFR
+207,City National Bank,112,IL,23924623.92,62,0
+10,"Bank of America, National Association",1,VA,919351365.05,12641,BAC
+81,"U.S. Bank, National Association",185,VA,23554369.35,181,IUS2.DE
+114,Manufacturers and Traders Trust Company,275,VA,351842834.41,2199,0
+164,Frost Bank,427,VA,2658300.0,7,CFR
+202,City National Bank,112,VA,48783470.0,96,0
+11,"Bank of America, National Association",1,CT,832780527.44,9498,BAC
+94,"U.S. Bank, National Association",185,CT,3893237.0,46,IUS2.DE
+109,Manufacturers and Traders Trust Company,275,CT,1533614847.38,15513,0
+172,Frost Bank,427,CT,694300.0,4,CFR
+224,City National Bank,112,CT,4708248.0,29,0
+12,"Bank of America, National Association",1,NC,763357780.68,12848,BAC
+84,"U.S. Bank, National Association",185,NC,18181265.12,380,IUS2.DE
+121,Manufacturers and Traders Trust Company,275,NC,16862194.5,54,0
+185,Frost Bank,427,NC,115000.0,5,CFR
+209,City National Bank,112,NC,20258134.62,37,0
+13,"Bank of America, National Association",1,MI,706322355.18,7943,BAC
+83,"U.S. Bank, National Association",185,MI,19016015.65,390,IUS2.DE
+138,Manufacturers and Traders Trust Company,275,MI,1205235.5,12,0
+174,Frost Bank,427,MI,462300.0,2,CFR
+215,City National Bank,112,MI,11524536.0,12,0
+14,"Bank of America, National Association",1,AZ,674479597.67,11702,BAC
+66,"U.S. Bank, National Association",185,AZ,185419187.25,3999,IUS2.DE
+130,Manufacturers and Traders Trust Company,275,AZ,5240545.5,16,0
+161,Frost Bank,427,AZ,4436750.0,7,CFR
+208,City National Bank,112,AZ,22580699.0,57,0
+15,"Bank of America, National Association",1,NV,550320488.03,8238,BAC
+63,"U.S. Bank, National Association",185,NV,333294688.74,6265,IUS2.DE
+140,Manufacturers and Traders Trust Company,275,NV,624280.0,9,0
+157,Frost Bank,427,NV,9330200.0,25,CFR
+197,City National Bank,112,NV,216681658.2,1040,0
+16,"Bank of America, National Association",1,PA,418566933.54,4698,BAC
+85,"U.S. Bank, National Association",185,PA,17477585.5,340,IUS2.DE
+110,Manufacturers and Traders Trust Company,275,PA,1430798235.97,8263,0
+166,Frost Bank,427,PA,2228700.0,1,CFR
+206,City National Bank,112,PA,26510895.22,49,0
+17,"Bank of America, National Association",1,SC,384523542.39,6387,BAC
+91,"U.S. Bank, National Association",185,SC,6270345.5,82,IUS2.DE
+129,Manufacturers and Traders Trust Company,275,SC,5677769.5,35,0
+176,Frost Bank,427,SC,372100.0,5,CFR
+221,City National Bank,112,SC,6674056.0,10,0
+18,"Bank of America, National Association",1,OR,380565334.27,4881,BAC
+56,"U.S. Bank, National Association",185,OR,1066449559.24,13462,IUS2.DE
+150,Manufacturers and Traders Trust Company,275,OR,41664.0,2,0
+217,City National Bank,112,OR,10329236.0,35,0
+270,The Huntington National Bank,2,OR,11662973.87,44,0
+19,"Bank of America, National Association",1,DC,301465512.66,2478,BAC
+100,"U.S. Bank, National Association",185,DC,924565.0,30,IUS2.DE
+118,Manufacturers and Traders Trust Company,275,DC,125434544.0,669,0
+186,Frost Bank,427,DC,59200.0,2,CFR
+204,City National Bank,112,DC,37916934.31,93,0
+20,"Bank of America, National Association",1,MO,291941009.64,5171,BAC
+62,"U.S. Bank, National Association",185,MO,376854207.37,7913,IUS2.DE
+148,Manufacturers and Traders Trust Company,275,MO,87292.0,3,0
+227,City National Bank,112,MO,2893742.0,9,0
+274,The Huntington National Bank,2,MO,10565903.27,28,0
+21,"Bank of America, National Association",1,TN,247822399.34,4327,BAC
+68,"U.S. Bank, National Association",185,TN,166404838.1,4430,IUS2.DE
+132,Manufacturers and Traders Trust Company,275,TN,2894642.0,4,0
+173,Frost Bank,427,TN,571800.0,12,CFR
+198,City National Bank,112,TN,93743388.96,720,0
+22,"Bank of America, National Association",1,RI,234220336.56,2430,BAC
+104,"U.S. Bank, National Association",185,RI,218110.0,2,IUS2.DE
+124,Manufacturers and Traders Trust Company,275,RI,13438666.95,56,0
+229,City National Bank,112,RI,1613203.0,3,0
+267,The Huntington National Bank,2,RI,14960778.5,26,0
+23,"Bank of America, National Association",1,OH,154379866.53,652,BAC
+58,"U.S. Bank, National Association",185,OH,653930256.13,11488,IUS2.DE
+120,Manufacturers and Traders Trust Company,275,OH,25602142.79,57,0
+171,Frost Bank,427,OH,765300.0,1,CFR
+219,City National Bank,112,OH,8941792.0,26,0
+24,"Bank of America, National Association",1,NH,139907253.38,1582,BAC
+102,"U.S. Bank, National Association",185,NH,463292.5,17,IUS2.DE
+116,Manufacturers and Traders Trust Company,275,NH,251402498.95,1940,0
+240,City National Bank,112,NH,207900.0,3,0
+288,The Huntington National Bank,2,NH,887110.95,6,0
+25,"Bank of America, National Association",1,CO,124932356.63,1219,BAC
+59,"U.S. Bank, National Association",185,CO,638880621.81,11607,IUS2.DE
+125,Manufacturers and Traders Trust Company,275,CO,12150666.0,31,0
+159,Frost Bank,427,CO,4828100.0,36,CFR
+218,City National Bank,112,CO,10246775.72,28,0
+26,"Bank of America, National Association",1,NM,104117732.15,1586,BAC
+70,"U.S. Bank, National Association",185,NM,136677371.94,1739,IUS2.DE
+143,Manufacturers and Traders Trust Company,275,NM,390447.0,7,0
+160,Frost Bank,427,NM,4698200.0,17,CFR
+226,City National Bank,112,NM,3542484.0,8,0
+27,"Bank of America, National Association",1,IN,94437298.69,415,BAC
+77,"U.S. Bank, National Association",185,IN,36559987.54,683,IUS2.DE
+134,Manufacturers and Traders Trust Company,275,IN,2260566.5,7,0
+182,Frost Bank,427,IN,185200.0,3,CFR
+212,City National Bank,112,IN,14363662.0,5,0
+28,"Bank of America, National Association",1,KS,83380108.06,1886,BAC
+71,"U.S. Bank, National Association",185,KS,108196433.27,1775,IUS2.DE
+131,Manufacturers and Traders Trust Company,275,KS,4490408.0,9,0
+228,City National Bank,112,KS,1945816.0,3,0
+268,The Huntington National Bank,2,KS,13664338.24,14,0
+29,"Bank of America, National Association",1,OK,77558860.58,1471,BAC
+90,"U.S. Bank, National Association",185,OK,6315869.0,167,IUS2.DE
+154,Manufacturers and Traders Trust Company,275,OK,3300.0,1,0
+163,Frost Bank,427,OK,3025000.0,16,CFR
+237,City National Bank,112,OK,422568.0,8,0
+30,"Bank of America, National Association",1,UT,68266690.96,212,BAC
+69,"U.S. Bank, National Association",185,UT,137001293.42,2175,IUS2.DE
+147,Manufacturers and Traders Trust Company,275,UT,100792.0,1,0
+183,Frost Bank,427,UT,118400.0,5,CFR
+223,City National Bank,112,UT,5981245.5,20,0
+31,"Bank of America, National Association",1,MN,61523834.67,557,BAC
+57,"U.S. Bank, National Association",185,MN,869364809.85,11833,IUS2.DE
+136,Manufacturers and Traders Trust Company,275,MN,1698330.0,7,0
+181,Frost Bank,427,MN,186600.0,7,CFR
+210,City National Bank,112,MN,16804525.5,44,0
+32,"Bank of America, National Association",1,DE,59227617.5,597,BAC
+95,"U.S. Bank, National Association",185,DE,3248737.5,9,IUS2.DE
+113,Manufacturers and Traders Trust Company,275,DE,394866362.81,3021,0
+230,City National Bank,112,DE,1549182.0,8,0
+289,The Huntington National Bank,2,DE,751911.9,11,0
+33,"Bank of America, National Association",1,AR,56879755.49,885,BAC
+76,"U.S. Bank, National Association",185,AR,39855455.14,888,IUS2.DE
+145,Manufacturers and Traders Trust Company,275,AR,177501.0,1,0
+170,Frost Bank,427,AR,1353600.0,7,CFR
+244,City National Bank,112,AR,34390.0,2,0
+34,"Bank of America, National Association",1,ME,52961435.15,745,BAC
+93,"U.S. Bank, National Association",185,ME,4022391.31,10,IUS2.DE
+117,Manufacturers and Traders Trust Company,275,ME,134674562.06,793,0
+235,City National Bank,112,ME,480515.0,2,0
+272,The Huntington National Bank,2,ME,10663169.0,9,0
+35,"Bank of America, National Association",1,LA,34537599.0,187,BAC
+97,"U.S. Bank, National Association",185,LA,1760760.0,48,IUS2.DE
+142,Manufacturers and Traders Trust Company,275,LA,443348.0,2,0
+178,Frost Bank,427,LA,227000.0,12,CFR
+233,City National Bank,112,LA,890976.75,11,0
+36,"Bank of America, National Association",1,AK,31022026.5,94,BAC
+103,"U.S. Bank, National Association",185,AK,373586.0,17,IUS2.DE
+241,City National Bank,112,AK,148016.0,1,0
+292,The Huntington National Bank,2,AK,357667.62,5,0
+326,"PNC Bank, National Association",7,AK,18542140.0,9,ZION
+37,"Bank of America, National Association",1,WI,27750509.5,188,BAC
+61,"U.S. Bank, National Association",185,WI,406418278.49,6904,IUS2.DE
+139,Manufacturers and Traders Trust Company,275,WI,843762.0,3,0
+225,City National Bank,112,WI,4411142.07,7,0
+256,The Huntington National Bank,2,WI,69360480.94,541,0
+38,"Bank of America, National Association",1,ID,26138863.0,231,BAC
+67,"U.S. Bank, National Association",185,ID,180787481.37,3033,IUS2.DE
+151,Manufacturers and Traders Trust Company,275,ID,32028.5,2,0
+193,Frost Bank,427,ID,8800.0,1,CFR
+216,City National Bank,112,ID,10398092.0,9,0
+39,"Bank of America, National Association",1,AL,24643365.0,204,BAC
+92,"U.S. Bank, National Association",185,AL,4787790.0,57,IUS2.DE
+144,Manufacturers and Traders Trust Company,275,AL,370000.0,1,0
+188,Frost Bank,427,AL,36200.0,2,CFR
+222,City National Bank,112,AL,6490900.0,3,0
+40,"Bank of America, National Association",1,IA,18631335.0,291,BAC
+64,"U.S. Bank, National Association",185,IA,218671439.37,2992,IUS2.DE
+146,Manufacturers and Traders Trust Company,275,IA,125345.0,2,0
+180,Frost Bank,427,IA,210200.0,2,CFR
+231,City National Bank,112,IA,1082263.0,3,0
+41,"Bank of America, National Association",1,KY,14526477.0,148,BAC
+65,"U.S. Bank, National Association",185,KY,187143021.44,3345,IUS2.DE
+135,Manufacturers and Traders Trust Company,275,KY,2232391.0,7,0
+187,Frost Bank,427,KY,56500.0,1,CFR
+239,City National Bank,112,KY,238194.0,4,0
+42,"Bank of America, National Association",1,VT,13870353.0,88,BAC
+101,"U.S. Bank, National Association",185,VT,655584.0,4,IUS2.DE
+115,Manufacturers and Traders Trust Company,275,VT,342858146.38,2752,0
+194,Frost Bank,427,VT,1500.0,1,CFR
+243,City National Bank,112,VT,70126.0,1,0
+43,"Bank of America, National Association",1,MS,13171110.81,148,BAC
+98,"U.S. Bank, National Association",185,MS,1373665.61,20,IUS2.DE
+141,Manufacturers and Traders Trust Company,275,MS,509604.0,2,0
+167,Frost Bank,427,MS,1597215.0,6,CFR
+232,City National Bank,112,MS,1082100.0,2,0
+44,"Bank of America, National Association",1,SD,10681404.0,24,BAC
+75,"U.S. Bank, National Association",185,SD,56936642.66,785,IUS2.DE
+137,Manufacturers and Traders Trust Company,275,SD,1269637.0,2,0
+238,City National Bank,112,SD,267800.0,1,0
+283,The Huntington National Bank,2,SD,1848125.17,14,0
+45,"Bank of America, National Association",1,HI,8547863.99,167,BAC
+96,"U.S. Bank, National Association",185,HI,2320953.65,39,IUS2.DE
+152,Manufacturers and Traders Trust Company,275,HI,21684.0,2,0
+192,Frost Bank,427,HI,9300.0,1,CFR
+220,City National Bank,112,HI,7019233.0,13,0
+46,"Bank of America, National Association",1,PR,7387473.0,34,BAC
+105,"U.S. Bank, National Association",185,PR,19758.0,1,IUS2.DE
+345,"PNC Bank, National Association",7,PR,184436.0,8,ZION
+397,Truist Bank,11,PR,279231.0,2,0
+453,"TD Bank, National Association",223,PR,10371.0,1,TD-PFK.TO
+47,"Bank of America, National Association",1,WY,6020155.0,196,BAC
+82,"U.S. Bank, National Association",185,WY,20812755.05,425,IUS2.DE
+153,Manufacturers and Traders Trust Company,275,WY,20833.0,1,0
+168,Frost Bank,427,WY,1461800.0,13,CFR
+245,City National Bank,112,WY,33300.0,2,0
+48,"Bank of America, National Association",1,MT,4643543.0,52,BAC
+74,"U.S. Bank, National Association",185,MT,69010666.33,1008,IUS2.DE
+191,Frost Bank,427,MT,20800.0,1,CFR
+213,City National Bank,112,MT,12569833.0,24,0
+297,The Huntington National Bank,2,MT,22552.29,2,0
+49,"Bank of America, National Association",1,WV,2857684.0,46,BAC
+99,"U.S. Bank, National Association",185,WV,1112785.5,31,IUS2.DE
+128,Manufacturers and Traders Trust Company,275,WV,7459896.0,115,0
+251,The Huntington National Bank,2,WV,177733242.71,1395,0
+324,"PNC Bank, National Association",7,WV,34809202.0,141,ZION
+50,"Bank of America, National Association",1,VI,2351956.0,25,BAC
+106,"U.S. Bank, National Association",185,VI,16079.0,1,IUS2.DE
+184,Frost Bank,427,VI,115000.0,2,CFR
+291,The Huntington National Bank,2,VI,383512.0,4,0
+393,Truist Bank,11,VI,483623.0,2,0
+51,"Bank of America, National Association",1,ND,1269639.0,24,BAC
+80,"U.S. Bank, National Association",185,ND,33089886.91,638,IUS2.DE
+242,City National Bank,112,ND,126688.0,1,0
+293,The Huntington National Bank,2,ND,305939.15,4,0
+342,"PNC Bank, National Association",7,ND,862604.0,3,ZION
+52,"Bank of America, National Association",1,NE,1184310.0,41,BAC
+73,"U.S. Bank, National Association",185,NE,74343118.36,1726,IUS2.DE
+149,Manufacturers and Traders Trust Company,275,NE,81125.0,1,0
+175,Frost Bank,427,NE,438300.0,2,CFR
+236,City National Bank,112,NE,473440.75,3,0
+53,"Bank of America, National Association",1,AS,725055.0,1,BAC
+861,Cross River Bank,59,AS,15179.0,1,0
+2067,Washington Trust Bank,32,AS,41600.0,1,0
+3029,Central Pacific Bank,516,AS,424500.0,2,0
+4342,Fountainhead SBF LLC,53,AS,137380.09,5,0
+234,City National Bank,112,GU,593700.0,2,0
+559,Customers Bank,42,GU,76776.0,4,0
+756,"Harvest Small Business Finance, LLC",95,GU,18750.0,1,BTM
+859,Cross River Bank,59,GU,172729.0,9,0
+1043,Loan Source Incorporated,50,GU,1820290.0,17,0
+802,"Citibank, N.A.",595,FI,42100.0,1,C
+860,Cross River Bank,59,MP,99321.88,2,0
+2122,First Hawaiian Bank,602,MP,36131136.75,543,0
+2654,"Capital Plus Financial, LLC",309,MP,189099.0,3,BTM
+3528,Bank of Hawaii,665,MP,11524812.04,162,BOH
+14807,Bank of Guam,908,MP,15853134.0,209,0
+2917,"Prestamos CDFI, LLC",520,AE,20000.0,1,BTM
+18456,Navy FCU,703,AE,40525.0,2,0

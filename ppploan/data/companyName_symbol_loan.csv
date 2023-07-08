@@ -1,0 +1,4640 @@
+,ServicingLenderName,Symbol
+0,b1BANK,0
+1,Gulf Coast Bank and Trust Company,0
+2,Cornerstone National Bank & Trust Company,0
+3,"Hinsdale Bank & Trust Company, National Association",ZION
+4,Southern Bank and Trust Company,0
+5,Midland States Bank,0
+6,Berkshire Bank,0
+7,"Town Bank, National Association",TOWN
+8,Camden National Bank,0
+9,American Momentum Bank,0
+10,Bankers Trust Company,0
+11,"Sunrise Banks, National Association",ZION
+12,The First Bank and Trust Company,0
+13,Brookline Bank,0
+14,"American Commercial Bank & Trust, National Association",ZION
+15,"Evans Bank, National Association",ZION
+16,BayFirst National Bank,0
+17,City Bank,CCBG
+18,Ocean Bank,0P0001LLF8.SA
+19,"Guaranty Bank & Trust, National Association",ZION
+20,Cambridge Trust Company,0
+21,SmartBank,0
+22,Flushing Bank,0
+23,Texas Bank and Trust Company,0
+24,Central Valley Community Bank,0
+25,"WesBanco Bank, Inc.",TSLA
+26,Cogent Bank,0
+27,"Signature Bank, National Association",SBNY
+28,Endeavor Bank,0
+29,The Washington Trust Company of Westerly,0
+30,Inwood National Bank,0
+31,Fidelity Deposit and Discount Bank,0
+32,Primis Bank,0
+33,ANB Bank,0
+34,Vista Bank,0
+35,MidWestOne Bank,0
+36,Frandsen Bank & Trust,0
+37,Horizon Bank,0
+38,Avidia Bank,0
+39,"Westfield Bank, FSB",9377.KL
+40,Lone Star National Bank,0
+41,Lake Ridge Bank,0
+42,Dogwood State Bank,DSBX
+43,Peoples Security Bank and Trust Company,0
+44,American Community Bank & Trust,0
+45,HomeStreet Bank,0
+46,Manufacturers Bank,0
+47,Ion Bank,0
+48,First Bank of the Lake,0
+49,"Lake Forest Bank & Trust Company, National Association",ZION
+50,American National Bank,AMNB
+51,Westfield Bank,0
+52,Bank of San Francisco,BSFO
+53,CalPrivate Bank,0
+54,Red River Bank,0
+55,Village Bank,VBFC
+56,FFB Bank,0
+57,CommerceWest Bank,0
+58,ChoiceOne Bank,0
+59,Midwest BankCentre,0
+60,Chemung Canal Trust Company,0
+61,The First National Bank of Long Island,0
+62,CapStar Bank,0
+63,Meridian Bank,0
+64,Texas First Bank,0
+65,Fidelity Bank,0
+66,Bridgewater Bank,0
+67,Ponce Bank,0
+68,Susser Bank,0
+69,Manasquan Bank,0
+70,HTLF Bank,0
+71,Georgia's Own Credit Union,0
+72,First Foundation Bank,0
+73,"Merchants Bank, National Association",3968.HK
+74,River Bank & Trust,0
+75,The Middlefield Banking Company,0
+76,Machias Savings Bank,0
+77,Fed – Kabbage,0
+78,"OceanFirst Bank, National Association",ZION
+79,"Shore United Bank, National Association",ZION
+80,The Piedmont Bank,0
+81,Somerset Trust Company,0
+82,"Sunflower Bank, National Association",ZION
+83,Vantage Bank Texas,0
+84,Idaho Central CU,0
+85,Hanmi Bank,0
+86,American National Bank and Trust Company,0
+87,Bank of Utah,0
+88,"VeraBank, National Association",ZION
+89,Equity Bank,0
+90,Southern Bank,0
+91,"Alerus Financial, National Association",ALRS
+92,Citizens & Northern Bank,0
+93,Fairfield County Bank,0
+94,Waukesha State Bank,0
+95,Capital City Bank,CCBG
+96,"A10Capital, LLC",BTM
+97,Farmers State Bank,0
+98,Hanover Community Bank,0
+99,First Dakota National Bank,0
+100,"Community Banks of Colorado, A Division of",0
+101,"St. Charles Bank & Trust Company, National Association",ZION
+102,Unity Bank,0
+103,Needham Bank,0
+104,Texas National Bank,0
+105,"Austin Bank, Texas National Association",0
+106,Independence Bank of Kentucky,0
+107,First United Bank,0
+108,Plumas Bank,0
+109,CrossFirst Bank,CFB
+110,Mission Bank,0
+111,Tradition Capital Bank,0
+112,"Traditional Bank, Inc.",TSLA
+113,Texas Regional Bank,0
+114,Minnwest Bank,0
+115,Dacotah Bank,DBIN
+116,South Shore Bank,0
+117,"Greenstone Farm Credit Services, ACA",ACA
+118,Virginia National Bank,VABK
+119,Lake Michigan CU,0
+120,First National Bank of Michigan,0
+121,Northern Bank and Trust Company,0
+122,Summit CU,0
+123,West Bank,CWB.TO
+124,Community National Bank,0
+125,Peoples State Bank,0
+126,Bristol County Savings Bank,0
+127,Redwood CU,0
+128,ESL FCU,0
+129,Meadows Bank,0
+130,County National Bank,0
+131,"Barrington Bank & Trust Company, National Association",ZION
+132,The Bank of Missouri,0
+133,"Northbrook Bank & Trust Company, National Association",ZION
+134,Bryant Bank,0
+135,Quontic Bank,0
+136,Citizens National Bank of Texas,0
+137,The State Bank,0
+138,"Centerstone SBA Lending, Inc.",TSLA
+139,CDC Small Business Finance Corporation,0
+140,Thomaston Savings Bank,0
+141,Providence Bank & Trust,0
+142,EagleBank,0
+143,Heartland Bank,0
+144,Popular Bank,0
+145,Union Savings Bank,0
+146,BayCoast Bank,0
+147,Idaho First Bank,0
+148,"Leader Bank, National Association",ZION
+149,PCB Bank,0
+150,FNCB Bank,0
+151,Genesee Regional Bank,0
+152,Timberland Bank,0
+153,American Riviera Bank,0
+154,MainStreet Bank,0
+155,First State Community Bank,0
+156,First Federal Bank,0
+157,Burke & Herbert Bank & Trust Company,0
+158,Queensborough National Bank and Trust Company,0
+159,Fairwinds CU,0
+160,RCB Bank,0
+161,SouthWest Bank,0
+162,John Marshall Bank,0
+163,Cedar Rapids Bank and Trust Company,0
+164,First County Bank,0
+165,Members 1st FCU,0
+166,Hills Bank and Trust Company,0
+167,CNB Bank,CNBN
+168,"Waterford Bank, National Association",ZION
+169,VyStar CU,0
+170,BankNewport,0
+171,The First Bank,7184.T
+172,First Western Trust Bank,0
+173,Timberline Bank,0
+174,Oregon Pacific Banking Company dba Oregon Pacific Bank,0
+175,"Amerant Bank, National Association",ZION
+176,Bank of the Sierra,0
+177,Partners Bank of California,PBKX
+178,The Bank of Princeton,0
+179,Mabrey Bank,0
+180,Union National Bank,0
+181,Jefferson Bank,0
+182,Colony Bank,CBAN
+183,Mortgage Capital Development Corporation,0
+184,InBank,INBC
+185,Glens Falls National Bank and Trust Company,0
+186,First Community Bank,FCBC
+187,DFCU Financial CU,0
+188,Gulf Coast Bank,0
+189,Summit Bank,SBKO
+190,Orange Bank & Trust Company,0
+191,"Libertyville Bank & Trust Company, National Association",ZION
+192,The North Side Bank and Trust Company,0
+193,American Lending Center,0
+194,First Farmers Bank & Trust Co.,0
+195,First Citizens Community Bank,0
+196,"LendingClub Bank, National Association",ZION
+197,"Old Plank Trail Community Bank, National Association",ZION
+198,First Bank & Trust,FBTT
+199,Five Points Bank,0
+200,Lakeside Bank,0
+201,"C3Bank, National Association",ZION
+202,People's Bank of Commerce,0
+203,1st Capital Bank,0
+204,Affinity Bank,0
+205,The Lyons National Bank,0
+206,Boeing Empl CU,0
+207,America First FCU,0
+208,Community Federal Savings Bank,0
+209,Central Bank,CENTRALBK.NS
+210,Israel Discount Bank of New York,0
+211,Kitsap Bank,0
+212,Community Bank of the Chesapeake,0
+213,Park State Bank,0
+214,American Bank of Commerce,0
+215,Bank OZK,OZK
+216,The Adirondack Trust Company,0
+217,Bank of Springfield,0
+218,Citizens Bank and Trust,0
+219,Landmark National Bank,0
+220,First Fidelity Bank,0
+221,Community Bank of the Bay,0
+222,North State Bank,0
+223,Commencement Bank,0
+224,The Bank of Greene County,0
+225,First Federal Savings & Loan Association of Lakewood,0
+226,"NexTier Bank, National Association",ZION
+227,"Capital Bank, National Association",0P00013C2A.F
+228,Country Club Bank,0
+229,Farmers & Merchants Savings Bank,0
+230,The Union Bank Company,0
+231,Northeast Bank,NBN
+232,U.S. Century Bank,0
+233,Isabella Bank,ISBA
+234,Norway Savings Bank,0
+235,Iowa State Bank,0
+236,Western State Bank,0
+237,National Exchange Bank and Trust,0
+238,Beneficial State Bank,0
+239,Lexicon Bank,0
+240,Security National Bank of Omaha,0
+241,BankVista,0
+242,Northfield Bank,0
+243,Peapack-Gladstone Bank,0
+244,The Park Bank,0
+245,"Peoples National Bank, National Association",ZION
+246,Southern Bancorp Bank,0
+247,New Mexico Bank & Trust,0
+248,Bank Independent,0
+249,The Old Point National Bank of Phoebus,0
+250,First National Bank,FBAK
+251,UniBank for Savings,0
+252,American Express National Bank,0
+253,"South Central Bank, Inc.",TSLA
+254,Arizona Financial Credit Union,0
+255,InterBank,0
+256,Citizens Community Federal National Association,0
+257,FVCbank,FVCB
+258,Community First Bank,CFOK
+259,Dominion Bank,TD.TO
+260,First PREMIER Bank,0
+261,Newtown Savings Bank,0
+262,Primary Bank,PRMY
+263,Poppy Bank,0
+264,"Blue Ridge Bank, National Association",BRBS
+265,The Citizens National Bank of Bluffton,0
+266,Hawaii National Bank,0
+267,Century Bank,0
+268,Highland Bank,HBSI
+269,First United Bank & Trust,0
+270,Technology CU,MTF-F48.TA
+271,Pacific Valley Bank,0
+272,"PeoplesBank, A Codorus Valley Company",0
+273,Mountain Commerce Bank,0
+274,Citizens First Bank,0
+275,Flagstar Bank National Association,0
+276,IncredibleBank,0
+277,Gorham Savings Bank,0
+278,Bank of New Hampshire,0
+279,Security Bank,JFWV
+280,Deerwood Bank,0
+281,South Atlantic Bank,0
+282,Northfield Savings Bank,0
+283,Rhinebeck Bank,0
+284,HomeTrust Bank,0
+285,The Freedom Bank of Virginia,0
+286,MBE Capital Partners,0
+287,Spring Bank,0
+288,Great Plains National Bank,0
+289,Lendistry-Federal Reserve Contract,0
+290,Cass Commercial Bank,0
+291,Open Bank,0
+292,First Oklahoma Bank,0
+293,"Beverly Bank & Trust Company, National Association",ZION
+294,Itasca Bank & Trust Co.,0
+295,OnPoint Community CU,0
+296,Bank of the Pacific,0
+297,BankFirst Financial Services,0
+298,Capitol National Bank,0
+299,Montgomery Bank,0
+300,Emprise Bank,0
+301,National Bank of Commerce,0
+302,Armstrong Bank,0
+303,Old Dominion National Bank,0
+304,State Bank of Southern Utah,0
+305,Citizens and Farmers Bank,0
+306,One Community Bank,0
+307,Anderson Brothers Bank,0
+308,The Old Fort Banking Company,0
+309,1st State Bank,0
+310,Citizens Bank,FC6A.SG
+311,Summit State Bank,SSBI
+312,Savings Bank of Danbury,0
+313,ACNB Bank,0
+314,The First National Bank in Sioux Falls,0
+315,Amboy Bank,0
+316,Bank Iowa,0
+317,Peoples Bank of Alabama,0
+318,Quad City Bank and Trust Company,0
+319,Magnifi Financial CU,0
+320,Cornerstone Community Bank,0
+321,Moody National Bank,0
+322,First Guaranty Bank,0
+323,"The Commercial and Savings Bank of Millersburg, Ohio",PKOH
+324,The First National Bank of Fort Smith,0
+325,The Croghan Colonial Bank,0
+326,Cornerstone Bank,0
+327,Navigant CU,0
+328,American AgCredit ACA,0
+329,Bank of Tennessee,0
+330,One Florida Bank,0
+331,"Commercial Bank of Texas, N.A.",ZION
+332,OakStar Bank,0
+333,Hawthorn Bank,0
+334,1st Security Bank of Washington,0
+335,Forbright Bank,0
+336,Coastal States Bank,0
+337,"Investar Bank, National Association",ZION
+338,First Utah Bank,0
+339,Republic Bank of Chicago,0
+340,The Bank of Commerce,0
+341,"North Shore Bank, a Co-operative Bank",0
+342,Golden Valley Bank,0
+343,"Community West Bank, National Association",ZION
+344,The Citizens National Bank of Meridian,0
+345,"Pioneer Trust Bank, National Association",ZION
+346,Prime Meridian Bank,0
+347,GBC International Bank,0
+348,Bravera Bank,0
+349,Wilson Bank & Trust,0
+350,Vibrant Credit Union,0
+351,West Michigan Community Bank,0
+352,First Federal Savings Bank,0
+353,"CFBank, National Association",ZION
+354,Guaranty Bank,LUMB
+355,Bank of Central Florida,0
+356,Commonwealth Business Bank,0
+357,Blackhawk Bank,0
+358,NewFirst National Bank,0
+359,South Louisiana Bank,0
+360,Bank of the West,AAAWNXX
+361,Citizens State Bank,0
+362,HarborOne Bank,0
+363,Western Commerce Bank,0
+364,Triad Bank,0
+365,LINKBANK,0
+366,Oakworth Capital Bank,0
+367,Penn Community Bank,0
+368,Bank Five Nine,0
+369,Goldenwest FCU,0
+370,Citizens National Bank,0
+371,Texas Bank,0
+372,St. Louis Bank,0
+373,Wheatland Bank,0
+374,"TBK Bank, SSB",SSB
+375,Bank of Idaho,BOID
+376,Adirondack Bank,0
+377,Global Federal Credit Union,0
+378,Home Federal Bank of Tennessee,0
+379,Ally Bank,0
+380,Solvay Bank,SOBS
+381,Lincoln Savings Bank,0
+382,The Cooperative Bank of Cape Cod,0
+383,Legacy Bank,0
+384,The Ephrata National Bank,0
+385,QNB Bank,0
+386,R Bank,FRCB
+387,Great Southern Bank,0
+388,Merrimack County Savings Bank,0
+389,Texas Champion Bank,0
+390,American State Bank,0
+391,Pioneer Bank,PNBI
+392,"Dallas Capital Bank, National Association",ZION
+393,Riverview Bank,0
+394,Quaint Oak Bank,0
+395,First Palmetto Bank,0
+396,Platinum Bank,0
+397,Synergy Bank,0
+398,Harmony Bank,0
+399,"Heritage Bank, Inc.",TSLA
+400,Bank of Clarke,0
+401,The First National Bank of South Miami,0
+402,BAC Community Bank,0
+403,21st Century Bank,0
+404,"Fidelity Bank, National Association",ZION
+405,"Compeer Financial, ACA",ACA
+406,Consumers National Bank,0
+407,Fidelity Bank & Trust,0
+408,Pacific West Bank,0
+409,New Valley Bank & Trust,0
+410,The Yellowstone Bank,0
+411,Mountain Pacific Bank,0
+412,Southern Michigan Bank & Trust,0
+413,Uwharrie Bank,0
+414,Guaranty Bank & Trust Company,0
+415,Sound Community Bank,0
+416,Cashmere Valley Bank,CSHX
+417,Notre Dame FCU,0
+418,Bank of Guam,0
+419,"Transportation Alliance Bank, Inc. d/b/a TAB Bank",0
+420,First Farmers and Merchants Bank,0
+421,"Keystone Bank, National Association",ZION
+422,American Bank,AMBK
+423,Pathfinder Bank,0
+424,Chelsea Groton Bank,0
+425,First National Bank and Trust Company of Weatherford d/b/a First Bank Texas,0
+426,Lone Star State Bank of West Texas,0
+427,Maine Community Bank,0
+428,Rayne State Bank & Trust Company,0
+429,"CNB Bank and Trust, National Association",ZION
+430,First National Bank of Central Texas,0
+431,Kennebunk Savings Bank,0
+432,Gulf Capital Bank,0
+433,Sanibel Captiva Community Bank,0
+434,Triad Business Bank,TBBC
+435,JD Bank,0
+436,The State Bank and Trust Company,0
+437,Planters Bank & Trust Company,0
+438,Mascoma Bank,0
+439,Bank of Eastern Oregon,0
+440,Empire State Bank,0
+441,ESSA Bank & Trust,0
+442,Kinecta FCU,0
+443,Midflorida CU,0
+444,Harford Bank,HFBK
+445,Community National Bank & Trust,0
+446,BOM Bank,0
+447,"Citizens National Bank, National Association",ZION
+448,North Dallas Bank & Trust Company,0
+449,Morris Bank,0
+450,Preferred Bank,PFBC
+451,Chesapeake Bank,0
+452,FineMark National Bank & Trust,0
+453,Redwood Capital Bank,0
+454,First Secure Bank and Trust Co.,0
+455,Farmers and Merchants Trust Company of Chambersburg,0
+456,Bank of Washington,0
+457,Horicon Bank,0
+458,Self-Help FCU,0
+459,Eastern Michigan Bank,0
+460,International Bank of Chicago,0
+461,First Western Bank & Trust,0
+462,Salisbury Bank & Trust Company,0
+463,The Farmers & Merchants State Bank,0
+464,The Northern Trust Company,0
+465,Emigrant Bank,0
+466,US Metro Bank,0
+467,Wright Patt CU Inc,0
+468,Numerica CU,0
+469,Security Federal Bank,0
+470,Embassy Bank for the Lehigh Valley,0
+471,Regent Bank,0
+472,Belmont Bank & Trust Company,0
+473,Bank of the James,BOTJ
+474,Main Street Bank,0
+475,Alliance Bank,2488.KL
+476,Flagship Bank,0
+477,Tri City National Bank,0
+478,Watertown Savings Bank,0
+479,Two Rivers Bank & Trust,0
+480,The Conway National Bank,0
+481,Commercial Bank and Trust Company,0
+482,One Bank of Tennessee,0
+483,Availa Bank,0
+484,The Victory Bank,0
+485,Kish Bank,0
+486,Northwest FCU,0
+487,Androscoggin Savings Bank,0
+488,Lewis & Clark Bank,0
+489,AmeriServ Financial Bank,0
+490,Paragon Bank,PAG.L
+491,Greenfield Savings Bank,0
+492,Community National Bank & Trust of Texas,0
+493,PeoplesBank,0
+494,SouthPoint Bank,0
+495,Continental Bank,0
+496,Westbury Bank,0
+497,First National Bank of Louisiana,0
+498,"Schaumburg Bank & Trust Company, National Association",ZION
+499,"INB, National Association",BUD
+500,The Bank of Elk River,0
+501,American Bank & Trust,0
+502,Peoples Bank and Trust Company,0
+503,The Richwood Banking Company,0
+504,First State Bank of the Florida Keys,0
+505,BankSouth,0
+506,Katahdin Trust Co.,0
+507,Northway Bank,0
+508,United Bank of Iowa,0
+509,CNB St. Louis Bank,0
+510,Webster Five Cents Savings Bank,0
+511,Sterling State Bank,0
+512,Broadview Federal Credit Union,0
+513,Windsor Federal Savings & Loan Association,0
+514,"Connecticut Community Bank, National Association",ZION
+515,Bank of Houston,0
+516,Starion Bank,0
+517,Security Bank of Kansas City,0
+518,Seattle Bank,0
+519,Toyota Financial Savings Bank,0
+520,North American Banking Company,0
+521,Access Bank,0
+522,The First State Bank,0
+523,Marine Bank & Trust Company,0
+524,Easthampton Savings Bank,0
+525,Flagler Bank,0
+526,Grand River Bank,0
+527,Bar Harbor Bank & Trust,0
+528,Mainstreet Community Bank of Florida,0
+529,CTBC Bank Corp. (USA).,0
+530,Savings Bank of Mendocino County,0
+531,Commerce Bank of Arizona,0
+532,Core Bank,0
+533,Legacy Bank & Trust Company,0
+534,Buckeye State Bank,0
+535,SaviBank,0
+536,"TransPecos Banks, SSB.",SSBP
+537,"Texas Gulf Bank, National Association",ZION
+538,Plains State Bank,0
+539,First National Bank Texas,0
+540,First Southwest Bank,0
+541,Minster Bank,0
+542,Parke Bank,0
+543,iTHINK Financial CU,0
+544,Commercial Bank,1398.HK
+545,"FC Marketplace, LLC (dba Funding Circle)",0
+546,Security State Bank & Trust,0
+547,Opportunity Bank of Montana,0
+548,State Bank,SBIN.NS
+549,Central National Bank,0
+550,Dedham Institution for Savings,0
+551,The Dart Bank,0
+552,Farmers & Merchants Bank,FMBL
+553,Progressive Bank,0
+554,Citizens Bank of Las Cruces,0
+555,The Citizens Bank,0
+556,Falcon National Bank,0
+557,Metro City Bank,0
+558,Blue Sky Bank,0
+559,"BankWest, Inc",INC
+560,The Bennington State Bank,0
+561,Fall River Five Cents Savings Bank d/b/a BankFive,0
+562,First Commerce Bank,0
+563,The Cecilian Bank,0
+564,Merchants Bank of Indiana,0
+565,Four Corners Community Bank,0
+566,City National Bank of West Virginia,0
+567,Countybank,0
+568,Union Bank,AUB
+569,"Home State Bank, National Association",ZION
+570,Community State Bank,0
+571,Magyar Bank,0
+572,Sutton Bank,0
+573,"Farm Credit Services of America, ACA",ACA
+574,Suncoast CU,0
+575,First Citizens Bank,FC6A.SG
+576,Builtwell Bank,0
+577,First Texas Bank,0
+578,Bank of Travelers Rest,0
+579,Citizens State Bank of New Castle,0
+580,Thomasville National Bank,0
+581,"Chain Bridge Bank, National Association",ZION
+582,First Resource Bank,0
+583,"Amur Equipment Finance, Inc.",TSLA
+584,Community Bank,CBU
+585,California CU,0
+586,Community Bank of Santa Maria,0
+587,"SouthTrust Bank, National Association",ZION
+588,MidCountry Bank,0
+589,Southwestern National Bank,0
+590,Middletown Valley Bank,0
+591,1st Summit Bank,0
+592,Capital Bank,0P00013C2A.F
+593,The Lowell Five Cent Savings Bank,0
+594,First Federal Savings Bank of Twin Falls,0
+595,"Summit Community Bank, Inc.",TSLA
+596,Hometown Bank,0
+597,"Crystal Lake Bank & Trust Company, National Association",ZION
+598,CoreFirst Bank & Trust,0
+599,Jonah Bank of Wyoming,0
+600,Carolina Bank & Trust Co.,0
+601,Wayne Bank,0
+602,The Paducah Bank and Trust Company,0
+603,"Chino Commercial Bank, N.A.",ZION
+604,Solera National Bank,0
+605,Bank of Bartlett,0
+606,Bank 7,0P0001BMW9.F
+607,CorTrust Bank National Association,0
+608,"Kleberg Bank, National Association",ZION
+609,"Dakota Community Bank & Trust, National Association",ZION
+610,Axos Bank,0
+611,The National Bank of Blacksburg,0
+612,Pinnacle Bank-Wyoming,0
+613,Fidelity Co-Operative Bank,0
+614,Sturdy Savings Bank,0
+615,Oak Bank,0
+616,First National Bank of Gillette,0
+617,Woodlands National Bank,0
+618,Metairie Bank & Trust Company,0
+619,SpiritBank,0
+620,Banesco USA,0
+621,Desert Financial CU,0
+622,Northstar Bank,0
+623,The Nodaway Valley Bank,0
+624,Affinity FCU,0
+625,Midwest Regional Bank,0
+626,Bank of Oak Ridge,0
+627,First State Bank of Middlebury,0
+628,Dubuque Bank and Trust Company,0
+629,"Vast Bank, National Association",ZION
+630,First American Bank & Trust,0
+631,"Farm Credit West, PCA",4M0.F
+632,First Financial Northwest Bank,0
+633,The Merchants National Bank,0
+634,"Whitaker Bank, Inc",INC
+635,Rosedale Federal Savings & Loan Association,0
+636,Frontier Bank,0
+637,1st Colonial Community Bank,0
+638,"Trinity Bank, National Association",TYBT
+639,"Fundbox, Inc.",TSLA
+640,First American Bank & Trust Company,0
+641,Security Bank and Trust Company,0
+642,"Stride Bank, National Association",ZION
+643,Granite Bank,0
+644,Pioneer Bank & Trust,0
+645,Greater Community Bank,0
+646,MountainOne Bank,0
+647,Community First Bank of Indiana,0
+648,"Golden Bank, National Association",ZION
+649,Forward Bank,0
+650,"Grow America Fund, Incorporated",QCOM
+651,Consumers CU,0
+652,The Genoa Banking Company,0
+653,The First National Bank and Trust Company,0
+654,Security Financial Bank,0
+655,Superior National Bank,0
+656,Meredith Village Savings Bank,0
+657,Nusenda FCU,0
+658,The Citizens State Bank,0
+659,Dime Bank,0
+660,Main Bank,HSMBI.HK
+661,GBank,GBFH
+662,NBC Oklahoma,0
+663,BankCherokee,0
+664,Enterprise Bank,0
+665,Lindell Bank & Trust Company,0
+666,Navy FCU,0
+667,Wood & Huston Bank,0
+668,Volunteer State Bank,0
+669,Royal Banks of Missouri,0
+670,Martha's Vineyard Bank,0
+671,Ixonia Bank,0
+672,Cross Keys Bank,0
+673,"Academy Bank, National Association",ZION
+674,River Valley Community Bank,0
+675,United Southern Bank,0
+676,Skyline National Bank,0
+677,"Fund-Ex Solutions Group, LLC",BTM
+678,Oconee State Bank,0
+679,VisionBank,0
+680,Cornhusker Bank,0
+681,F&M Bank,FMBL
+682,"Hometown Bank, National Association",ZION
+683,"Forcht Bank, National Association",ZION
+684,First-Citizens National Bank,0
+685,Newburyport Five Cents Savings Bank,0
+686,BankIowa,0
+687,First Secure Community Bank,0
+688,Georgia Primary Bank,0
+689,First Midwest Bank of the Ozarks,0
+690,The Bank of Canton,0
+691,Community Choice CU,0
+692,The Honesdale National Bank,0
+693,Blue Foundry Bank,0
+694,Alma Bank,0
+695,Arkansas Capital Corporation,0
+696,First General Bank,0
+697,"Planters Bank, Inc.",TSLA
+698,United FCU,0
+699,Texas Community Bank,0
+700,LCNB National Bank,0
+701,Midwest Bank,0
+702,Bank Forward,0
+703,FirstBank Southwest,0
+704,West Texas National Bank,0
+705,Centreville Bank,0
+706,First Southern State Bank,0
+707,"Modern Bank, National Association",ZION
+708,Kennebec Savings Bank,0
+709,KS StateBank,0
+710,Traditions Bank,0
+711,BayVanguard Bank,0
+712,"Resource Bank, National Association",ZION
+713,Parkway Bank and Trust Company,0
+714,Lea County State Bank,0
+715,"Extraco Banks, National Association",ZION
+716,First National Bank of Oklahoma,0
+717,Platte Valley Bank,0
+718,Hilltop National Bank,0
+719,Select Bank,FSRBX
+720,The Citizens Bank of Philadelphia,0
+721,United Bank of Michigan,0
+722,"First National Bank Ames, Iowa",SNLC
+723,First Freedom Bank,0
+724,BNC National Bank,0
+725,Baker Boyer National Bank,0
+726,The Village Bank,0
+727,Troy Bank & Trust Company,0
+728,Home Federal Bank,0
+729,Bath Savings Institution,0
+730,First Bank Elk River,0
+731,First Fed Bank,0
+732,Mechanics Cooperative Bank,0
+733,Bank of Pontiac,0
+734,Parkside Financial Bank & Trust,0
+735,"The Farmers Bank, Frankfort, Indiana",FBPA
+736,NobleBank & Trust,0
+737,West Shore Bank,WSSH
+738,Northwest Community Bank,0
+739,Utah First FCU,0
+740,St. Mary's Bank,0
+741,Northwest Bank of Rockford,0
+742,American Heritage Bank,0
+743,One World Bank,0
+744,Thumb Bank & Trust,0
+745,Chelsea State Bank,0
+746,"GNBank, National Association",ZION
+747,Paradise Bank,0
+748,First Pacific Bank,0
+749,"Axiom Bank, National Association",ZION
+750,AG CREDIT ACA,0
+751,North Easton Savings Bank,0
+752,"SouthStar Bank, S.S.B.",0
+753,First Federal Bank of Louisiana,0
+754,"MVB Bank, Inc.",TSLA
+755,"Tioga State Bank, National Association",ZION
+756,Crown Bank,0
+757,First Southern National Bank,0
+758,Community Bank of Louisiana,0
+759,Farmers Bank & Trust,0
+760,FinWise Bank,0
+761,First Bank Richmond,0
+762,Clear Fork Bank National Association,0
+763,State Bank Northwest,0
+764,Neighborhood National Bank,0
+765,Michigan State University FCU,0
+766,Gate City Bank,0
+767,Mission Valley Bank,0
+768,Franklin Bank & Trust Company,0
+769,Coastal Heritage Bank,0
+770,Capital Community Bank,0
+771,Valliance Bank,0
+772,American State Bank & Trust Company of Williston,0
+773,Citizens Trust Bank,0
+774,Community First CU,0
+775,BankProv,0
+776,Citizens Alliance Bank,0
+777,The First National Bank of Hutchinson,0
+778,First Commercial Bank,0
+779,Hebron Savings Bank,0
+780,American National Bank & Trust,0
+781,Bank of Wisconsin Dells,0
+782,"Community Bank & Trust, Waco, Texas",6727.T
+783,Blue Ridge Bank and Trust Co.,0
+784,"First Federal Community Bank, National Association",ZION
+785,Points West Community Bank,0
+786,Trenton Business Assistance Corporation,0
+787,First Community CU,0
+788,International Finance Bank,0
+789,Pathward National Association,0
+790,DreamSpring,0
+791,Liberty SBF Holdings LLC,0
+792,Capitol Federal Savings Bank,0
+793,Southern States Bank,0
+794,Marquette Savings Bank,0
+795,Digital FCU,0
+796,Community Valley Bank,0
+797,Greylock FCU,0
+798,CFG Community Bank,0
+799,First Metro Bank,0
+800,Relyance Bank,0
+801,Settlers Bank,0
+802,United Prairie Bank,0
+803,The Pueblo Bank and Trust Company,0
+804,Citizens Tri-County Bank,0
+805,Trustco Bank,TRST
+806,Grand Bank,G50.SI
+807,First National Bank of Scotia,0
+808,Firstar Bank,0
+809,Cumberland Valley National Bank & Trust Company,0
+810,MutualOne Bank,0
+811,Pointbank,0
+812,"First Bank, Upper Michigan",IDFCFIRSTB.NS
+813,Insbank,0
+814,Carver Federal Savings Bank,0
+815,Flagship Bank Minnesota,0
+816,The National Bank of Coxsackie,0
+817,Frankenmuth CU,0
+818,High Plains Bank,0
+819,Achieva CU,0
+820,Bank3,0
+821,Bank of Belleville,0
+822,"State Bank of the Lakes, National Association",ZION
+823,Adams Bank & Trust,0
+824,Royal CU,ROYALCU.BO
+825,The Guilford Savings Bank,0
+826,North Shore Bank,0
+827,Clear Lake Bank & Trust Company,0
+828,Saratoga National Bank and Trust Company,0
+829,Vermillion State Bank,0
+830,Central Bank Illinois,0
+831,Honor Bank,0
+832,Truxton Trust Company,0
+833,Pathways Financial CU,0
+834,First National Bank and Trust Company of Ardmore,0
+835,First Bank of Owasso,0
+836,Mt. McKinley Bank,0
+837,Citizens Bank & Trust,0
+838,Liberty Capital Bank,0
+839,"Titan Bank, National Association",ZION
+840,"The First National Bank and Trust Co, Chickasha, Oklahoma",FODGX
+841,Wilson & Muir Bank & Trust Company,0
+842,The Western State Bank,0
+843,The Port Washington State Bank,0
+844,"The Security National Bank of Sioux City, Iowa",SNLC
+845,Avidbank,AVBH
+846,First Savings Bank,0
+847,Bluestone Bank,0
+848,Bank Midwest,0
+849,Home Federal Savings Bank,0
+850,"Farm Credit Illinois, ACA",ACA
+851,The National Capital Bank of Washington,0
+852,Liberty National Bank,0
+853,Whatcom Educational CU,0
+854,Denali State Bank,0
+855,America's Christian CU,0
+856,City State Bank,0
+857,Lamar National Bank,0
+858,The First National Bank and Trust Company of Newtown,0
+859,Plains Commerce Bank,0
+860,Blackhawk Bank & Trust,0
+861,PCSB Bank,0
+862,Premier Bank Minnesota,0
+863,Rio Bank,0
+864,GreenState CU,0
+865,Citizens Bank & Trust Company,0
+866,Highpoint Community Bank,0
+867,121 Financial Credit Union,0
+868,Hudson Valley CU,0
+869,United Bank & Trust,0
+870,The Dime Bank,0
+871,Citizens Bank of Lafayette,0
+872,University FCU,0
+873,Greenfield Banking Company,0
+874,Arbor Bank,0
+875,Beacon Community Bank,0
+876,CoastHills CU,0
+877,"Legend Bank, National Association",ZION
+878,Planters First Bank,0
+879,Country Bank for Savings,0
+880,The Bancorp Bank National Association,0
+881,The Bank of South Carolina,0
+882,M C Bank & Trust Co.,0
+883,Northern CU,0
+884,Yampa Valley Bank,0
+885,Palmetto State Bank,0
+886,NebraskaLand Bank,0
+887,Worthington Bank,0
+888,Loyal Trust Bank,0
+889,FlatIrons Bank,0
+890,Telhio CU Inc,0
+891,First State Bank Nebraska,0
+892,Century Savings Bank,0
+893,State Bank Financial,0
+894,"Gateway Bank, FSB",GWBK
+895,Benchmark Bank,BMBN
+896,Farmers Bank & Trust Company,0
+897,Vision Bank,0
+898,Southwest Missouri Bank,0
+899,Bank of Hays,0
+900,Gateway Bank,GWBK
+901,First Southern Bank,0
+902,Marion County State Bank,0
+903,Legends Bank,0
+904,The Farmers National Bank of Danville,0
+905,Brighton Bank,0
+906,Security Bank & Trust Company,0
+907,Border Bank,0
+908,AuburnBank,0
+909,Reading Co-Operative Bank,0
+910,First Northern Bank and Trust Company,0
+911,Think Mutual Bank,0
+912,Colorado Enterprise Fund,0
+913,Fortifi Bank,0
+914,The Peoples Bank,0
+915,American National Bank-Fox Cities,0
+916,"Clear Mountain Bank, Inc.",TSLA
+917,Mid-Missouri Bank,0
+918,First Pryority Bank,0
+919,1st Bank Yuma,0
+920,Savings Bank of Walpole,0
+921,Legacy National Bank,0
+922,TrailWest Bank,0
+923,Ciera Bank,0
+924,Hometown National Bank,0
+925,The Vinton County National Bank,0
+926,First Liberty Bank,0
+927,Austin County State Bank,0
+928,"Spencer Savings Bank, SLA",SRRTF
+929,FNBC Bank and Trust,0
+930,"Yosemite Farm Credit, Aca",ACA
+931,Lake Elmo Bank,0
+932,North Valley Bank,0
+933,VisionBank of Iowa,0
+934,Dundee Bank,0
+935,HomeTown Bank,0
+936,Reliance Savings Bank d/b/a Reliance Bank,0
+937,American Heritage National Bank,0
+938,Bank of Ocean City,0
+939,Security First Bank,0
+940,5Star Bank,0
+941,Sound CU,0
+942,Charter Bank,0
+943,The First Bank of Greenwich,0
+944,Three Rivers FCU,0
+945,HNB National Bank,0
+946,Community Bank of Pickens County,0
+947,Newport News Shipbuilding Empl CU Inc d/b/a BayPort CU,0
+948,The First National Bank of Bemidji,0
+949,Sturgis Bank & Trust Company,0
+950,UniBank,BDOUY
+951,American Bank of Missouri,0
+952,"First Hope Bank, A National Banking Association",0
+953,The Farmers & Merchants Bank,0
+954,Mechanics & Farmers Bank,0
+955,American Community Bank,0
+956,The Juniata Valley Bank,0
+957,New Millennium Bank,0
+958,Community Commerce Bank,0
+959,Pentucket Bank,0
+960,Virginia Partners Bank,0
+961,Gesa CU,0
+962,CoBank ACB,CKNQP
+963,Institution for Savings In Newburyport and its Vicinity,0
+964,Hickory Point Bank and Trust,0
+965,First Columbia Bank & Trust Co,0
+966,Calvin B. Taylor Banking Company,0
+967,Citizens Independent Bank,0
+968,Rollstone Bank & Trust,0
+969,The City National Bank of Sulphur Springs,0
+970,"First Westroads Bank, Inc",INC
+971,Monticello Banking Company,0
+972,Banterra Bank,0
+973,BLC Community Bank,0
+974,"Lone Star Capital Bank, National Association",ZION
+975,Peoples Bank & Trust,0
+976,Decorah Bank & Trust Company,0
+977,Elkhorn Valley Bank & Trust,0
+978,Anstaff Bank,0
+979,CenterBank,0
+980,First National Bank and Trust Company,0
+981,Lakeview Bank,0
+982,"T Bank, National Association",BNS.TO
+983,Union State Bank,0
+984,Mercer County State Bank,0
+985,Equitable Bank,0
+986,Farmers and Merchants Bank,0
+987,CBI Bank & Trust,0
+988,Bank of Botetourt,BORT
+989,Hope Enterprise Corporation,0
+990,Western Heritage Bank,0
+991,Range Bank,0
+992,First Northern Bank of Wyoming,0
+993,Edison National Bank,0
+994,"First State Bank of St. Charles, Missouri",SMBC
+995,Silver Lake Bank,0
+996,First Keystone Community Bank,0
+997,Peach State Bank and Trust,0
+998,Sage Capital Bank,0
+999,"City First Bank, National Association",ZION
+1000,The Evangeline Bank & Trust Company,0
+1001,GECU,0
+1002,Merchants and Manufacturers Bank,0
+1003,Sauk Valley Bank & Trust Company,0
+1004,The First National Bank of McGregor d/b/a TFNB Your Bank for Life,0
+1005,Tandem Bank,0
+1006,The Harbor Bank of Maryland,0
+1007,Primesouth Bank,0
+1008,Saco & Biddeford Savings Institution,0
+1009,Community Savings Bank,0
+1010,First National Bank & Trust Co,0
+1011,Ballston Spa National Bank,0
+1012,"New Peoples Bank, Inc.",NWPP
+1013,Century Bank of Georgia,0
+1014,The MINT National Bank,0
+1015,Dayspring Bank,0
+1016,Carter FCU,0
+1017,Florida CU,0
+1018,Lee Bank,0
+1019,Space Coast CU,0
+1020,Honor CU,0
+1021,FMS Bank,0
+1022,First Harrison Bank,0
+1023,DR Bank,0
+1024,First Bank Chicago,0
+1025,Royal Business Bank,0
+1026,Benchmark Community Bank,0
+1027,Capitol Bank,0
+1028,VCC Bank,0
+1029,Woodlands Bank,0
+1030,Texas Dow Empl CU,0
+1031,Wayne Savings Community Bank,0
+1032,Mid America Bank,0
+1033,First Chatham Bank,0
+1034,"American Bank & Trust Company, Inc.",TSLA
+1035,First Seacoast Bank,0
+1036,United Mississippi Bank,0
+1037,Optus Bank,0
+1038,Farmers Bank,FBPA
+1039,Oregon Coast Bank,0
+1040,RiverWood Bank,0
+1041,Haverhill Bank,0
+1042,Ridgewood Savings Bank,0
+1043,FCB Banks,0
+1044,Bay State Savings Bank,0
+1045,Robins Financial CU,0
+1046,Town Center Bank,TCNB
+1047,Bank of the Flint Hills,0
+1048,Citizens Bank Minnesota,0
+1049,Community First Bank of the Heartland,0
+1050,Wauchula State Bank,0
+1051,Economic and Community Development Institute,0
+1052,First Eagle Bank,0
+1053,Bank of Luxemburg,0
+1054,"Midstates Bank, National Association",ZION
+1055,Bank of Zachary,0
+1056,Spokane Teachers CU,0
+1057,Falcon International Bank,0
+1058,"First Bankers Trust Company, National Association",ZION
+1059,Royal Bank,RY.TO
+1060,Citizens Bank & Trust Co,0
+1061,Town & Country Bank,0
+1062,Security State Bank,0
+1063,Coastal Carolina National Bank,0
+1064,"Western Bank, Artesia, New Mexico",CWB.TO
+1065,Bank of Commerce,CM.TO
+1066,Jackson County Bank,0
+1067,Bank of Sun Prairie,0
+1068,The First National Bank of Carmi,0
+1069,Coulee Bank,0
+1070,The Converse County Bank,0
+1071,BNA Bank,0
+1072,Redstone FCU,0
+1073,"WaterStone Bank, SSB",SSB
+1074,County Bank,SCZC
+1075,Southwest National Bank,0
+1076,East Cambridge Savings Bank,0
+1077,The Citizens Bank of Georgia,0
+1078,Touchstone Bank,TSBA
+1079,Time Bank,0
+1080,West Gate Bank,0
+1081,Independence Bank,0
+1082,Ohnward Bank & Trust,0
+1083,Pilot Grove Savings Bank,0
+1084,Huron Valley State Bank,0
+1085,Kirkpatrick Bank,0
+1086,Monson Savings Bank,0
+1087,Community Resource Bank,0
+1088,Truliant FCU,0
+1089,Credit Union One,0
+1090,Central State Bank,0
+1091,MidSouth Bank,0
+1092,KEMBA Financial CU,0
+1093,Glenwood State Bank Incorporated,0
+1094,Valley Bank of Nevada,0
+1095,New Carlisle Federal Savings Bank,0
+1096,The First National Bank of Elmer,0
+1097,Mi Bank,1988.HK
+1098,Champlain National Bank,0
+1099,BTC Bank,HKB-USD
+1100,F & M Bank,FMBL
+1101,First National Bank in New Bremen,0
+1102,Grove Bank & Trust,0
+1103,Fourth Capital Bank,0
+1104,Bank of Charles Town,0
+1105,"Texas Republic Bank, National Association",ZION
+1106,Tri-County Bank,0
+1107,Liberty Bank and Trust Company,0
+1108,"National Cooperative Bank, National Association",ZION
+1109,American Federal Bank,0
+1110,"Profinium, Inc.",TSLA
+1111,Abington Bank,0
+1112,Connection Bank,0
+1113,Winter Park National Bank,0
+1114,Prairie State Bank and Trust,0
+1115,OMB Bank,0
+1116,Inland Bank and Trust,0
+1117,AgChoice ACA,0
+1118,"Heritage Bank, National Association",ZION
+1119,"Texas Advantage Community Bank, National Association",ZION
+1120,KeyPoint CU,0
+1121,Clinton Savings Bank,0
+1122,Seamen's Bank,0
+1123,Trustar Bank,0
+1124,First National Bank of Waterloo,0
+1125,North Shore Bank of Commerce,0
+1126,Ennis State Bank,0
+1127,Security Service FCU,0
+1128,Greater Nevada CU,0
+1129,WoodTrust Bank,0
+1130,Community Bank Mankato,0
+1131,First Central State Bank,0
+1132,The Bank of Bennington,0
+1133,Portage Community Bank,0
+1134,Black Hills FCU,0
+1135,First National Community Bank,0
+1136,Iroquois Federal Savings & Loan Association,0
+1137,Peoples Savings Bank of Rhineland,0
+1138,AbbyBank,0
+1139,The Northwestern Bank,0
+1140,First National Bank Colorado,0
+1141,The Bank of Old Monroe,0
+1142,GNB Bank,0
+1143,CB&S Bank,0
+1144,NSB Bank,0
+1145,Valley Strong CU,0
+1146,Bankwell Bank,0
+1147,Osgood Bank,0
+1148,"First Montana Bank, Inc.",TSLA
+1149,Sentry Bank,0
+1150,Business Development Corporation of South Carolina,0
+1151,Teachers CU,0
+1152,Shinhan Bank America,0
+1153,Ambler Savings Bank,0
+1154,Round Top State Bank,0
+1155,Washington Financial Bank,0
+1156,"LiftFund, Inc.",TSLA
+1157,First State Bank & Trust,0
+1158,Bank of Prairie du Sac,0
+1159,First Sound Bank,FSWA
+1160,Indiana Members CU,0
+1161,Dupaco Community CU,0
+1162,United Community Bank of North Dakota,0
+1163,Community Bank of the South,0
+1164,ELGA CU,0
+1165,First IC Bank,0
+1166,"Fresno Madera Farm Credit, ACA",ACA
+1167,Peoples Bank of East Tennessee,0
+1168,Kearny Bank,0
+1169,Five Points Bank of Hastings,0
+1170,Field & Main Bank,0
+1171,Huron Community Bank,0
+1172,"Farmers State Bank of Alto Pass, Illinois",ITW
+1173,Touchmark National Bank,0
+1174,Nutmeg State Financial Credit Union,0
+1175,PriorityOne Bank,0
+1176,Oakwood Bank,0
+1177,"First Century Bank, National Association",ZION
+1178,Bank of Utica,BKUTK
+1179,BankOrion,0
+1180,Citizens State Bank of La Crosse,0
+1181,Frontier Bank of Texas,0
+1182,"Farm Credit Services of Eastern Missouri, PCA",4M0.F
+1183,"PyraMax Bank, FSB",9377.KL
+1184,"AgCountry Farm Credit Service, PCA",4M0.F
+1185,Reliabank Dakota,0
+1186,Heartland National Bank,0
+1187,Texas Heritage Bank,0
+1188,Vermont 504 Corporation,0
+1189,AVB Bank,0
+1190,Hiawatha National Bank,0
+1191,Bank of Franklin County,0
+1192,First Bank and Trust Co,0
+1193,Dream First Bank National Association,0
+1194,Citizens Bank and Trust Company,0
+1195,United Security Bank,0
+1196,Citizens National Bank of Cheboygan,0
+1197,Robertson Banking Company,0
+1198,Gulfside Bank,0
+1199,Legence Bank,0
+1200,The Stephenson National Bank and Trust,0
+1201,Montana Community Development Corp.,0
+1202,Grand Ridge National Bank,0
+1203,Bloomsdale Bank,0
+1204,The Community Bank,0
+1205,River Bank,0
+1206,"First Neighbor Bank, National Association",ZION
+1207,Texas National Bank of Jacksonville,0
+1208,Pony Express Bank,0
+1209,The Milford Bank,0
+1210,"Black Hills Community Bank, National Association",ZION
+1211,PS Bank,PSUBNKBEES.NS
+1212,"United Fidelity Bank, FSB",9377.KL
+1213,Southwest Capital Bank,0
+1214,"KS Bank, Inc.",TSLA
+1215,Northeast Georgia Bank,0
+1216,Great Oaks Bank,0
+1217,Forest Park National Bank and Trust Company,0
+1218,Kingston National Bank,0
+1219,FM Bank,0
+1220,First Independent Bank,0
+1221,National Bank of Middlebury,0
+1222,Andover State Bank,0
+1223,BankFirst,BFCC
+1224,PeopleFund,0
+1225,Republic Bank of Arizona,0
+1226,The Killbuck Savings Bank Co.,0
+1227,Harleysville Bank,0
+1228,Community Bank of Elmhurst,0
+1229,CommunityAmerica CU,0
+1230,Woori America Bank,0
+1231,First National Bank North,0
+1232,New Market Bank,0
+1233,The First National Bank of Hughes Springs,0
+1234,Sunstate Bank,0
+1235,Gibsland Bank & Trust Company,0
+1236,FNBC Bank,0
+1237,Oak View National Bank,0
+1238,Bank 34,0
+1239,Tennessee State Bank,0
+1240,Home Loan State Bank,0
+1241,Peoples Savings Bank,0
+1242,Century Next Bank,0
+1243,Premier Bank of the South,0
+1244,American Heritage FCU,0
+1245,Regal Bank,0
+1246,Woodsboro Bank,WOBK
+1247,State Bank of De Kalb,0
+1248,SAFE CU,0
+1249,Reliance Bank,0
+1250,First National Bank in DeRidder,0
+1251,CIBM Bank,0
+1252,Drake Bank,0
+1253,"Albany Bank and Trust Company, National Association",ZION
+1254,Century Bank and Trust,0
+1255,Willamette Valley Bank,0
+1256,"First Commercial Bank, National Association",ZION
+1257,Sunmark Community Bank,0
+1258,Bank Michigan,0
+1259,Mega Bank,0
+1260,Ledyard National Bank,0
+1261,Arthur State Bank,0
+1262,Community Financial Services Bank,0
+1263,Southeastern Bank,SEBC
+1264,RiverBank,RBNK
+1265,Unison Bank,0
+1266,First Internet Bank of Indiana,0
+1267,Millennium Bank,0
+1268,Fortis Private Bank,0
+1269,Sterling Bank,0
+1270,Grow Financial FCU,0
+1271,Minnesota Lakes Bank,0
+1272,SRI FCU,0
+1273,The First National Bank Bellevue,0
+1274,Dairy State Bank,0
+1275,Washington County Bank,0
+1276,Washington Savings Bank,0
+1277,The Bank of Kremlin,0
+1278,Bank of New England,0
+1279,Green Belt Bank & Trust,0
+1280,Susquehanna Community Bank,0
+1281,Grand Savings Bank,0
+1282,Sandhills State Bank,0
+1283,The Citizens Bank of Edmond,0
+1284,AB&T,ABEO
+1285,Generations Bank,0
+1286,HomeBank Texas,0
+1287,Franklin Savings Bank,0
+1288,Coastal1 Credit Union,0
+1289,"Hometown Bank of Corbin, Inc. d/b/a Hometown Bank",0
+1290,SouthEast Bank,SEBC
+1291,Centinel Bank of Taos,0
+1292,"WNB Financial, National Association",ZION
+1293,The Enterprise Center Capital Corporation,0
+1294,Kensington Bank,0
+1295,First State Bank of Texas,0
+1296,Patriot Bank,PN21.F
+1297,Apple River State Bank,0
+1298,The National Bank of Andrews,0
+1299,The Callaway Bank,0
+1300,Idaho Trust Bank,0
+1301,Rockland FCU,0
+1302,Nebraska Bank,0
+1303,Infinity Bank,0
+1304,SouthernTrust Bank,0
+1305,River City FCU,0
+1306,Flint Community Bank,0
+1307,The Hardin County Bank,0
+1308,BankGloucester,0
+1309,Monterey County Bank,0
+1310,"The Poca Valley Bank, Inc.",TSLA
+1311,Delta Community CU,0
+1312,Adams Community Bank,0
+1313,Gold Coast Bank,0
+1314,Citizens Bank of Kansas,0
+1315,PeoplesSouth Bank,0
+1316,Springs Valley Bank & Trust Company,0
+1317,Edmonton State Bank,0
+1318,SSB Bank,0
+1319,Texas Heritage National Bank,0
+1320,Bank of Western Oklahoma,0
+1321,Farmers Trust & Savings Bank,0
+1322,Three Rivers Bank of Montana,0
+1323,Gateway Commercial Bank,0
+1324,"Pendleton Community Bank, Inc.",TSLA
+1325,Phelps County Bank,0
+1326,FNB South,0
+1327,Carter Bank & Trust,0
+1328,"First Pioneer Farm Credit,  ACA",ACA
+1329,Wasatch Peaks FCU,0
+1330,First Arkansas Bank and Trust,0
+1331,TriStar Bank,0
+1332,Foundation One Bank,0
+1333,"KEB Hana Bank USA, National Association",ZION
+1334,Magnolia State Bank,0
+1335,Verity CU,0
+1336,Financial Resources FCU,0
+1337,Citizens Equity First CU,0
+1338,First Minnetonka City Bank,0
+1339,Town and Country CU,0
+1340,Coast Central CU,0
+1341,The City National Bank of Metropolis,0
+1342,Great Plains State Bank,0
+1343,Sundown State Bank,0
+1344,The Plains State Bank,0
+1345,Farmers Savings Bank,0
+1346,The Greenwood's State Bank,0
+1347,"CenTrust Bank, National Association",ZION
+1348,Bruning Bank,0
+1349,TruFund Financial Services Inc,0
+1350,Primebank,0
+1351,The Cottonport Bank,0
+1352,University First FCU,0
+1353,New Haven Bank,0
+1354,Peoples Independent Bank,0
+1355,Bank Star,0
+1356,Chippewa Valley Bank,0
+1357,BOC Bank,0
+1358,First State Bank and Trust,0
+1359,American Community Bank of Indiana,0
+1360,The Bippus State Bank,0
+1361,PromiseOne Bank,0
+1362,Baraboo State Bank,0
+1363,CoVantage CU,0
+1364,First Farmers & Merchants National Bank,0
+1365,First Bank of Manhattan,0
+1366,ProGrowth Bank,0
+1367,Andrew Johnson Bank,0
+1368,The Citizens State Bank of Ouray,0
+1369,The First National Bank in Creston,0
+1370,Addition Financial CU,0
+1371,Veridian CU,0
+1372,First National Bank of Griffin,0
+1373,Greenfield Co-Operative Bank,0
+1374,Lumbee Guaranty Bank,LUMB
+1375,Central Savings Bank,0
+1376,Sunrise Bank,0
+1377,First Bank Kansas,0
+1378,First Farmers & Merchants Bank,0
+1379,"Farm Credit of Central Florida, ACA",ACA
+1380,Schertz Bank & Trust,0
+1381,Passumpsic Savings Bank,0
+1382,The Bank of Marion,0
+1383,Kaw Valley Bank,0
+1384,Stearns Bank National Association,0
+1385,Stillman BancCorp N.A.,0
+1386,Empower FCU,0
+1387,Fortress Bank,0
+1388,Financial Security Bank,0
+1389,"Valley Economic Development Partners, Inc.",TSLA
+1390,Haven Savings Bank,0
+1391,The Valley State Bank,0
+1392,"Fayette Savings Bank, ssb",SSB
+1393,TwinStar Credit Union,0
+1394,The Peoples Bank & Trust Company of Pointe Coupee Parish,0
+1395,The First National Bank of Livingston,0
+1396,United Roosevelt Savings Bank,0
+1397,InFirst Bank,0
+1398,Peoples Community Bank,0
+1399,The Commercial Bank,CBQK.QA
+1400,Great Plains Bank,0
+1401,Merchants Commercial Bank,0
+1402,Bank of the Valley,0
+1403,Integrity Bank & Trust,0
+1404,BOC Capital Corportion,0
+1405,First National Bank USA,0
+1406,Potlatch No. 1 Financial Credit Union,0
+1407,Community First Guam FCU,0
+1408,"Beacon Business Bank, National Association",ZION
+1409,Watermark Bank,0
+1410,Walpole Co-Operative Bank,0
+1411,The Queenstown Bank of Maryland,0
+1412,Mifflinburg Bank & Trust Co,0
+1413,First State Bank Southwest,0
+1414,Bank Northwest,0
+1415,Oregon State CU,0
+1416,The Citizens National Bank of Park Rapids,0
+1417,Unity National Bank of Houston,0
+1418,NewBank,0
+1419,Douglas National Bank,0
+1420,The Bank,BNS.TO
+1421,Texas State Bank,0
+1422,Manufacturers Bank & Trust Company,0
+1423,Exchange Bank and Trust,0
+1424,Branson Bank,0
+1425,Providence Bank,0
+1426,The North Salem State Bank,0
+1427,Harborstone CU,0
+1428,Amalgamated Bank,0
+1429,State Bank of Southwest Missouri,0
+1430,Valley First CU,0
+1431,Pike National Bank,0
+1432,Tioga-Franklin Savings Bank,0
+1433,"New Omni Bank, National Association",ZION
+1434,The Brattleboro Savings & Loan Association,0
+1435,Altra FCU,0
+1436,The Citizens National Bank of Somerset,0
+1437,Lake Shore Savings Bank,0
+1438,Sabine State Bank & Trust Company,0
+1439,State Savings Bank,0
+1440,Haddon Savings Bank,0
+1441,Community First National Bank,0
+1442,St. Mary's CU,0
+1443,The Millyard Bank,0
+1444,First Security Bank & Trust Company,0
+1445,Prevail Bank,0
+1446,Greenville National Bank,0
+1447,VISIONBank,0
+1448,RiverHills Bank,0
+1449,"Canyon Community Bank, National Association",ZION
+1450,South Georgia Banking Company,0
+1451,Charlevoix State Bank,0
+1452,The First National Bank of Jeanerette,0
+1453,"The Peoples State Bank of Newton, Illinois",ITW
+1454,First National Bank Minnesota,0
+1455,OneLocal Bank,0
+1456,DeMotte State Bank,0
+1457,Freedom Bank,0
+1458,First Port City Bank,0
+1459,Freedom Financial Bank,0
+1460,Focus Bank,0
+1461,Central Bank & Trust,0
+1462,Union Bank & Trust Company,0
+1463,Seneca Savings,0
+1464,Florence Bank,0
+1465,Capital Educators FCU,0
+1466,CLB The Community Bank,0
+1467,Signature Bank of Arkansas,0
+1468,Freedom First FCU,0
+1469,Westby Co-op CU,0
+1470,Skowhegan Savings Bank,0
+1471,FirsTier Bank,0
+1472,Sullivan Bank,0
+1473,The Shelby State Bank,0
+1474,Woodsville Guaranty Savings Bank,0
+1475,Belgrade State Bank,0
+1476,Rogue CU,0
+1477,RSNB Bank,0
+1478,MNB Bank,0
+1479,StonehamBank,0
+1480,"FNB Bank, Inc.",TSLA
+1481,Farmers Bank and Trust Company,0
+1482,First Commerce CU,0
+1483,Esquire Bank National Association,0
+1484,Essex Savings Bank,0
+1485,Centra CU,0
+1486,Buckeye Community Bank,0
+1487,United Bank of Union,0
+1488,Community Bank of Raymore,0
+1489,Marion & Polk Schools CU,0
+1490,New England FCU,0
+1491,South Ottumwa Savings Bank,0
+1492,BankTennessee,0
+1493,Northeast Security Bank,0
+1494,Evergreen National Bank,0
+1495,Chickasaw Community Bank,0
+1496,The Eastern Colorado Bank,0
+1497,Pilgrim Bank,0
+1498,The Shelby County State Bank,0
+1499,First Heritage Bank,0
+1500,MRV Banks,0
+1501,The Pecos County State Bank,0
+1502,Luminate Bank,0
+1503,Educators CU,0
+1504,First State Bank of Uvalde,0
+1505,"Citizens Bank of West Virginia, Inc",INC
+1506,Cape Ann Savings Bank,0
+1507,Evergreen Bank Group,0
+1508,The Murray Bank,0
+1509,1st Advantage Bank,0
+1510,The Peoples Bank Co,0
+1511,"Bank of Bridger, National Association",ZION
+1512,Travis CU,0
+1513,PremierBank,0
+1514,First Trust Bank of Illinois,0
+1515,Advia Credit Union,0
+1516,"FCN Bank, National Association",ZION
+1517,Vantage West CU,0
+1518,Citizens Bank of Americus,0
+1519,Mountain View Bank of Commerce,0
+1520,Bankers' Bank of Kansas,0
+1521,Peoples Trust Company of St. Albans,0
+1522,RVR Bank,0
+1523,FNB Oxford Bank,0
+1524,"The Bank & Trust, SSB",SSB
+1525,CUSB Bank,0
+1526,Cyprus FCU,0
+1527,Delta Bank,0
+1528,Farmers-Merchants Bank & Trust Company,0
+1529,Rocky Mountain Bank,0
+1530,"California International Bank, A National Banking Association",CAIB
+1531,ESB Financial,0
+1532,First Peoples Bank,0
+1533,First National Bank of South Carolina,0
+1534,"Superior CU, Inc.",TSLA
+1535,Lake-Osceola State Bank,0
+1536,First Sentinel Bank,0
+1537,Crest Savings Bank,0
+1538,US Eagle FCU,0
+1539,Farmers and Merchants State Bank of Pierz,0
+1540,Peoples Exchange Bank,0
+1541,Peoples Bank & Trust Co.,0
+1542,People Trust,0
+1543,Community State Bank of Missouri,0
+1544,Center National Bank,0
+1545,Homeland Federal Savings Bank,0
+1546,The First National Bank of Sonora,0
+1547,bankcda,0
+1548,Canvas CU,0
+1549,Embold Federal Credit Union,0
+1550,LincolnWay Community Bank,0
+1551,USF Federal Credit Union,0
+1552,Greenwood CU,0
+1553,The First National Bank of Bastrop,0
+1554,Ozona Bank,0
+1555,Meritrust Federal Credit Union,0
+1556,Evolve Bank and Trust,0
+1557,CCB Community Bank,0
+1558,"Bank of DeSoto, National Association",ZION
+1559,Astra Bank,0
+1560,Arcadian Bank,0
+1561,EECU,0
+1562,"First Robinson Savings Bank, National Association",ZION
+1563,Home Federal Savings & Loan Association of Grand Island,0
+1564,Liberty Federal Credit Union,0
+1565,The Peoples Community Bank,0
+1566,First American National Bank,0
+1567,Forum CU,0
+1568,"First State Bank and Trust Company, Inc.",TSLA
+1569,Freedom Bank of Southern Missouri,0
+1570,The Bank of Houston,0
+1571,Bank of St. Francisville,0
+1572,Apex Bank,0
+1573,MapleMark Bank,0
+1574,The Ohio Valley Bank Company,0
+1575,First Security Bank of Nevada,0
+1576,"Bank of Hillsboro, National Association",ZION
+1577,WESTconsin CU,0
+1578,CBW Bank,0
+1579,Dieterich Bank,0
+1580,First National Bank of Huntsville,0
+1581,Patterson State Bank,0
+1582,The Cooperative Bank,0
+1583,TNBANK,0
+1584,Peoples Bank of Kankakee County,0
+1585,KCB Bank,0
+1586,The Citizens Bank Company,0
+1587,North Star Bank,0
+1588,"First & Farmers National Bank, Inc.",TSLA
+1589,Merit Bank,0
+1590,Jones Bank,^DJTBAKT
+1591,Partners Bank of New England,0
+1592,Ultima Bank Minnesota,0
+1593,Powell Valley National Bank,0
+1594,Diamond Bank,0
+1595,Community CU of Florida,0
+1596,First Service Bank,0
+1597,The Clinton National Bank,0
+1598,New Tripoli Bank,0
+1599,Merchants & Marine Bank,0
+1600,Forte Bank,0
+1601,Studio Bank,STBK
+1602,West Valley National Bank,0
+1603,First National Bank & Trust Company of McAlester,0
+1604,The First National Bank of Mount Dora,0
+1605,High Country Bank,0
+1606,Grand Rapids State Bank,0
+1607,Columbus Bank and Trust Company,0
+1608,The First National Bank of Ballinger,0
+1609,"TXN Bank, National Association",ZION
+1610,Triangle CU,0
+1611,State Bank of Chilton,0
+1612,Waukon State Bank,0
+1613,Prime Security Bank,0
+1614,Alliance Bank & Trust Company,0
+1615,The Missouri Bank,0
+1616,Pineland Bank,0
+1617,Crossroads Bank,0
+1618,Southern Independent Bank,0
+1619,First Vision Bank of Tennessee,0
+1620,Oostburg State Bank,0
+1621,Eastern Connecticut Savings Bank,0
+1622,Prospect Bank,0
+1623,Great American Bank,0
+1624,Redstone Bank,0
+1625,"Eastern Savings Bank, FSB",9377.KL
+1626,Simply Bank,0
+1627,Jonestown Bank and Trust Company,0
+1628,Lake Trust CU,0
+1629,First Federal Bank of Wisconsin,0
+1630,The Bank of Kaukauna,0
+1631,Stone Bank,0
+1632,Elderton State Bank,0
+1633,Opportunity Fund Community Development,0
+1634,American First National Bank,0
+1635,Main Street Bank Corp.,0
+1636,West Community CU,0
+1637,Wayne County Bank,0
+1638,Metro Bank,MCB
+1639,"1st Trust Bank, Inc.",TSLA
+1640,Mississippi River Bank,0
+1641,De Witt Bank & Trust Co.,0
+1642,"United Midwest Savings Bank, National Association",ZION
+1643,Homestead Bank,0
+1644,Riverland Bank,0
+1645,Dean Co-Operative Bank,0
+1646,Farmers & Merchants Union Bank,0
+1647,Sherburne State Bank,0
+1648,Credit Human FCU,0
+1649,Column National Association,0
+1650,The National Bank of Malvern,0
+1651,Byron Bank,0
+1652,Members Cooperative CU,0
+1653,"Mountain Bizcapital, Inc.",TSLA
+1654,Cross Bank,CFB
+1655,Bank of the Southwest,0
+1656,Torrington Savings Bank,0
+1657,Alliant Bank,0
+1658,St. Johns Bank and Trust Company,0
+1659,The State Bank of Faribault,0
+1660,i3 Bank,0
+1661,The Cleveland State Bank,0
+1662,First National Bank of Burleson,0
+1663,HNB First Bank,0
+1664,The Bank of Glen Burnie,0
+1665,The Peshtigo National Bank,0
+1666,Bank of Madison,0
+1667,The Napoleon State Bank,0
+1668,"SoFi Bank, National Association",ZION
+1669,Logan Bank & Trust Company,0
+1670,The Bank of Tescott,0
+1671,State Bank of Graymont,0
+1672,Bank & Trust Company,0
+1673,Town & Country Bank and Trust Company,0
+1674,Houghton State Bank,0
+1675,Security Federal Savings Bank,0
+1676,Grinnell State Bank,0
+1677,Washington State Bank,0
+1678,Bank of Cleveland,0
+1679,Mars Bank,0
+1680,Bank of Yazoo City,0
+1681,The First National Bank of Absecon,0
+1682,The FNB Community Bank,0
+1683,First Federal Bank & Trust,0
+1684,Merchants & Farmers Bank & Trust Company,0
+1685,Purdue FCU,0
+1686,First Northeast Bank of Nebraska,0
+1687,The Pittsfield Co-Operative Bank,0
+1688,Grundy Bank,0
+1689,Columbia Community CU,0
+1690,The Gunnison Bank and Trust Company,0
+1691,Friend Bank,0
+1692,The First National Bank of Dennison,0
+1693,First National Bank and Trust,0
+1694,American Bank and Trust Company,0
+1695,Heritage Family FCU,0
+1696,BlueHarbor Bank,BLHK
+1697,Star Bank,5863.TWO
+1698,The First National Bank at Paris,0
+1699,Security State Bank of Hibbing,0
+1700,Dakota Western Bank,0
+1701,The Muncy Bank and Trust Company,0
+1702,Asian Bank,0
+1703,Security Bank USA,0
+1704,"Incommons Bank, National Association",ZION
+1705,CharterWest Bank,0
+1706,DuPont Community CU,0
+1707,OptimumBank,OPHC
+1708,Alden State Bank,0
+1709,United National Bank,UNBK
+1710,Financial Federal Bank,0
+1711,NVE Bank,0
+1712,MCBank,0
+1713,Langley FCU,0
+1714,Allied First Bank,0
+1715,Commercial Savings Bank,5876.TW
+1716,Raccoon Valley Bank,0
+1717,"First Federal Community Bank, SSB",SSB
+1718,The Bradford National Bank of Greenville,0
+1719,American National Bank of Minnesota,0
+1720,Co-op CU of Montevideo,0
+1721,Devon Bank,0
+1722,The Exchange Bank,0
+1723,"CNB Bank, Inc.",CNBN
+1724,EH National Bank,0
+1725,BANKWEST,0
+1726,"Durden Banking Co., Inc.",TSLA
+1727,West Plains Bank and Trust Company,0
+1728,IH Mississippi Valley Credit Union,0
+1729,Marquette Bank,0
+1730,Guardians CU,0
+1731,The Geo. D. Warthen Bank,0
+1732,First Iowa State Bank,0
+1733,Northwest Bank & Trust Company,0
+1734,Brannen Bank,0
+1735,Armor Bank,0
+1736,The First National Bank in Carlyle,0
+1737,The Riddell National Bank,0
+1738,Sandia Laboratory FCU,0
+1739,Fidelity State Bank and Trust Company,0
+1740,The Savings Bank,0
+1741,The Peoples State Bank,0
+1742,The Security National Bank of Enid,0
+1743,The Denison State Bank,0
+1744,The Stock Exchange Bank,0
+1745,Farmers Bank of Northern Missouri,0
+1746,Intracoastal Bank,0
+1747,HOMEBANK,0
+1748,"AgCarolina Farm Credit, ACA",ACA
+1749,ONB Bank,0
+1750,CedarStone Bank,0
+1751,NorthSide Community Bank,0
+1752,Stockmens Bank,0
+1753,Mid Oregon FCU,0
+1754,Rally Credit Union,0
+1755,Centera Bank,0
+1756,Alliance CU,0
+1757,First Western Bank,0
+1758,SENB Bank,0
+1759,Captex Bank,0
+1760,"F & M Community Bank, National Association",ZION
+1761,Alva State Bank & Trust Company,0
+1762,FNNB Bank,0
+1763,Farmers National Bank,0
+1764,"Classic Bank, National Association",ZION
+1765,First Choice Bank,0
+1766,Southern Heritage Bank,0
+1767,UNIFY Financial Federal Credit Union,0
+1768,Barksdale FCU,0
+1769,The Bank of New Glarus,0
+1770,BankNorth,0
+1771,INSOUTH Bank,0
+1772,LCA Bank Corporation,0
+1773,First National Bank of Tennessee,0
+1774,The National Iron Bank,0
+1775,First New Mexico Bank,0
+1776,Malaga Bank FSB,0
+1777,The Malvern National Bank,0
+1778,Citizens Bank & Trust Co.,0
+1779,Tinker FCU,0
+1780,Anchor Bank,0
+1781,Service FCU,0
+1782,The First National Bank of Milaca,0
+1783,Park View FCU,0
+1784,Home State Bank,0
+1785,First Option Bank,0
+1786,Washington Business Bank,WBZB
+1787,First Citizens FCU,0
+1788,Visions FCU,0
+1789,Claremont Savings Bank,0
+1790,Farm Credit Services of Mandan,0
+1791,TruBank,0
+1792,TC Federal Bank,0
+1793,The First National Bank and Trust Company of Broken Arrow,0
+1794,Citizens Bank of Ada,0
+1795,The First National Bank of Pandora,0
+1796,Cayuga Lake National Bank,0
+1797,Community Bank Delaware,0
+1798,Interaudi Bank,0
+1799,The St. Henry Bank,0
+1800,"Citizens Deposit Bank of Arlington, Inc.",TSLA
+1801,First Basin CU,0
+1802,Kentland Bank,0
+1803,"BancCentral, National Association",ZION
+1804,The Brenham National Bank,0
+1805,Citizens State Bank Norwood Young America,0
+1806,"Midwest Heritage Bank, F.S.B.",GWBK
+1807,The Andover Bank,0
+1808,Better Banks,0
+1809,Woodford State Bank,0
+1810,California Statewide Certified Development Corporation,0
+1811,The New Washington State Bank,0
+1812,Tustin Community Bank,0
+1813,Genisys CU,0
+1814,Carroll Bank & Trust,0
+1815,Amerasia Bank,0
+1816,First Community Bank of Central Alabama,0
+1817,Foresight Bank,0
+1818,Lead Bank,0
+1819,South Carolina FCU,0
+1820,The Bank of Southside Virginia,0
+1821,Athol Savings Bank,0
+1822,Port Richmond Savings,0
+1823,Tompkins State Bank,0
+1824,Eagle Bank,0
+1825,NuVision FCU,0
+1826,Corning FCU,0
+1827,Kirkwood Bank & Trust Co,0
+1828,The National Grand Bank of Marblehead,0
+1829,First National Bank of Pana,0
+1830,Town and Country Bank Midwest,0
+1831,First Community Bank and Trust,0
+1832,Savers Co-Operative Bank,0
+1833,Fibre FCU,0
+1834,The Fountain Trust Company,0
+1835,WCLA CU,0
+1836,Enterprise Bank of South Carolina,0
+1837,University Bank,0
+1838,Olean Area FCU,0
+1839,Hoosier Hills CU,0
+1840,Dort Financial CU,0
+1841,First National Bank of Coffee County,0
+1842,Rolling Hills Bank & Trust,0
+1843,NBKC Bank,0
+1844,Bank of Dudley,0
+1845,Lake Central Bank,0
+1846,Bank of Sunset & Trust Company,0
+1847,First Bethany Bank & Trust,0
+1848,The Hocking Valley Bank,0
+1849,"Farm Credit Services of North Dakota, ACA",ACA
+1850,IQ CU,0
+1851,Earlham Savings Bank,0
+1852,Altamaha Bank & Trust Company,0
+1853,"BankFinancial, National Association",BFIN
+1854,Pacific National Bank,0
+1855,"Terrabank, National Association",ZION
+1856,First State Bank of Odem,0
+1857,Clearwater FCU,0
+1858,Platinum FCU,0
+1859,First Carolina Bank,0
+1860,MidAmerica National Bank,0
+1861,Bank of O'Fallon,0
+1862,Louisiana National Bank,0
+1863,"Florida Capital Bank, National Association",ZION
+1864,Allegacy FCU,0
+1865,Oklahoma State Bank,0
+1866,"Triad Bank, National Association",ZION
+1867,Magnolia Bank Incorporated,0
+1868,Northview Bank,0
+1869,Iowa Savings Bank,0
+1870,Peoples State Bank of Hallettsville,0
+1871,Carson Bank,0
+1872,FNB Picayune Bank,0
+1873,"Morgantown Bank & Trust Company, Inc.",TSLA
+1874,"Home Bank, SB",SB
+1875,"BMW Bank of North America, Inc.",TSLA
+1876,First National Bank Northwest Florida,0
+1877,South Story Bank & Trust,0
+1878,Bank of Holly Springs,0
+1879,"The City National Bank and Trust Company of Lawton, Oklahoma",FODGX
+1880,EverTrust Bank,0
+1881,ABNB FCU,0
+1882,Decatur County Bank,0
+1883,"Iowa State Bank and Trust Company of Fairfield, Iowa",SNLC
+1884,First FarmBank,0
+1885,North Brookfield Savings Bank,0
+1886,First Community Bank of Tennessee,0
+1887,"Hana Small Business Lending, Inc.",TSLA
+1888,Goppert State Service Bank,0
+1889,AmeriFirst Bank,0
+1890,First National Bank of Clarksdale,0
+1891,Charlotte State Bank & Trust,0
+1892,Security State Bank of Oklahoma,0
+1893,Bank of Farmington,0
+1894,Logansport Savings Bank,0
+1895,Twin City Bank,0
+1896,Americana Community Bank,0
+1897,The First National Bank of Russell Springs,0
+1898,Macon Bank and Trust Company,0
+1899,First Bank of Alabama,0
+1900,The First National Bank of Cokato,0
+1901,"Native American Bank, National Association",ZION
+1902,Legacy State Bank,0
+1903,Community 1st CU,0
+1904,Central Bank of Kansas City,0
+1905,LifeStore Bank,0
+1906,Frazer Bank,0
+1907,First National Bank of Pasco,0
+1908,Highlands Community Bank,0
+1909,Exchange Bank and Trust Company,0
+1910,First Citizens State Bank,0
+1911,Wolf River Community Bank,0
+1912,Santa Cruz Community CU,0
+1913,HawaiiUSA FCU,0
+1914,Marion Bank and Trust Company,0
+1915,United Savings Bank,0
+1916,The First National Bank & Trust,0
+1917,Commercial Bank & Trust of PA,0
+1918,The Bank of Jackson,0
+1919,MA Bank,KOTAKBANK.NS
+1920,Citizens Savings Bank,0
+1921,Embers CU,0
+1922,La Salle State Bank,0
+1923,Commercial Banking Company,0
+1924,Wheelhouse CU,0
+1925,Teutopolis State Bank,0
+1926,"New Horizon Bank, National Association",ZION
+1927,Leominster CU,0
+1928,Jewett City Savings Bank,0
+1929,Pine Country Bank,0
+1930,Hometown Bank of Pennsylvania,0
+1931,Wyoming Community Bank,0
+1932,GenuBank,0
+1933,Alpine Capital Bank,0
+1934,FreedomBank,0
+1935,Greenville Federal,GVFF
+1936,Outdoor Bank,0
+1937,Bank of the Bluegrass & Trust Company,0
+1938,Catskill Hudson Bank,0
+1939,Newfield National Bank,0
+1940,Applied Bank,0
+1941,"VelocitySBA, LLC",BTM
+1942,Verimore Bank,0
+1943,General Electric CU,0
+1944,Frontier State Bank,0
+1945,Bay Bank,0
+1946,West Alabama Bank & Trust,0
+1947,Flatwater Bank,0
+1948,Workers FCU,0
+1949,"United Community Bank of West Kentucky, Inc.",TSLA
+1950,Phoenixville Federal Bank and Trust,0
+1951,Landmark Bank,0
+1952,The Bank of Herrin,0
+1953,Coast360 FCU,0
+1954,USC CU,0
+1955,AMG National Trust Bank,0
+1956,The Bank of Clarendon,0
+1957,Grandview Bank,0
+1958,The Farmers Bank of Willards,0
+1959,Germantown Trust & Savings Bank,0
+1960,Greater State Bank,0
+1961,The Farmers Bank & Savings Company,0
+1962,First State Bank of Burnet,0
+1963,FNB Community Bank,0
+1964,Credit Union of Georgia,0
+1965,"BankChampaign, National Association",ZION
+1966,LGE Community CU,0
+1967,People's Bank of Seneca,0
+1968,The Citizens Bank of Swainsboro,0
+1969,First National Bank of Pulaski,0
+1970,The First National Bank of Allendale,0
+1971,Mountain Valley Bank,0
+1972,Upper Peninsula State Bank,0
+1973,Libertyville Savings Bank,0
+1974,Anchor State Bank,0
+1975,CS Bank,CSBBANK.NS
+1976,Coleman County State Bank,0
+1977,Eaton Community Bank,0
+1978,First National Bank of Eastern Arkansas,0
+1979,Meade County Bank,0
+1980,Ireland Bank,0
+1981,"Shelby Savings Bank, SSB",SSB
+1982,"Golden State Farm Credit, ACA",ACA
+1983,Caldwell Bank & Trust Company,0
+1984,Fleetwood Bank,FLEW
+1985,CBBC Bank,0
+1986,Verus Bank of Commerce,0
+1987,Harvest Bank,0P0000UF6F.TO
+1988,"Sterling Federal Bank, F.S.B.",GWBK
+1989,Matanuska Valley FCU,0
+1990,FirstBank of Nebraska,0
+1991,Lake Community Bank,0
+1992,Affinity Plus FCU,0
+1993,James Polk Stone Community Bank,0
+1994,Wildfire CU,0
+1995,Bank of York,0
+1996,Kitsap CU,0
+1997,Holcomb Bank,0
+1998,Frontier Community Bank,0
+1999,Centris FCU,0
+2000,Maquoketa State Bank,0
+2001,Central Willamette CU,0
+2002,Coastal Bank & Trust,CABT
+2003,Exchange Bank of Missouri,0
+2004,Security Savings Bank,0
+2005,"Shamrock Bank, National Association",ZION
+2006,The Fort Jennings State Bank,0
+2007,FirstLight FCU,0
+2008,Community Bank of Marshall,0
+2009,Bank of Labor,BHDB
+2010,B:Side Capital,0
+2011,The Citizens Bank of Clovis,0
+2012,Luzerne Bank,0
+2013,Marblehead Bank,0
+2014,Christian Financial CU,0
+2015,Cattle Bank & Trust,0
+2016,Evergreen CU,0
+2017,F & M Bank and Trust Company,0
+2018,First Capital Bank,0
+2019,Pennian Bank,0
+2020,First Nebraska Bank,0
+2021,Bank of Abbeville & Trust Company,0
+2022,The Tri-County Bank,0
+2023,State Bank of Davis,0
+2024,Nebraska Bank of Commerce,0
+2025,First Security Bank and Trust Company,0
+2026,Alliance Bank Central Texas,0
+2027,"AgSouth Farm Credit, ACA",ACA
+2028,Peoples State Bank of Plainview,0
+2029,"Mountain Valley Bank, National Association",ZION
+2030,The Bank of Vernon,0
+2031,Crawford County Trust & Savings Bank,0
+2032,Heritage Bank of the Ozarks,0
+2033,Wayne Bank and Trust Co.,0
+2034,Bank of Columbia,0
+2035,The Bank National Association,0
+2036,North Country FCU,0
+2037,Coffee County Bank,0
+2038,Lower East Side People's FCU,0
+2039,Enrichment FCU,0
+2040,Wells Bank,0
+2041,"First Kentucky Bank, Inc.",TSLA
+2042,AmeriState Bank,0
+2043,"Flagship Enterprise Center, Inc. (dba Bankable)",0
+2044,Georgia Community Bank,0
+2045,PrimeWay FCU,0
+2046,Prairie Community Bank,0
+2047,Nantahala Bank & Trust Company,0
+2048,Bank of Mauston,0
+2049,Luana Savings Bank,0
+2050,Amalgamated Bank of Chicago,0
+2051,Americu CU,0
+2052,State Empl CU,0
+2053,The Farmers Bank of Appomattox,FBPA
+2054,Cumberland Security Bank,0
+2055,First National Bank in Philip,0
+2056,Northwest Community CU,0
+2057,The Halstead Bank,0
+2058,The Pauls Valley National Bank,0
+2059,Growth Capital Corporation,0
+2060,Viking Bank National Association,0
+2061,Jefferson Security Bank,JFWV
+2062,Federated Bank,0
+2063,Century Bank of Florida,0
+2064,Farmers State Bank of Hamel,0
+2065,First National Bank of Hereford,0
+2066,United Valley Bank,0
+2067,Herring Bank,0
+2068,Englewood Bank & Trust,0
+2069,State Bank of India (California),0
+2070,First Security Bank-Sleepy Eye,0
+2071,"Peoples Bank of Kentucky, Inc.",TSLA
+2072,State Bank & Trust Co.,0
+2073,The First National Bank of Eldorado,0
+2074,Community First CU of Florida,0
+2075,Marion Center Bank,0
+2076,The Falls City National Bank,0
+2077,City Bank & Trust Co.,0
+2078,Citizens Bank of the South,0
+2079,United Citizens Bank & Trust Company,0
+2080,Piermont Bank,0
+2081,Commercial State Bank of Wagner,0
+2082,F & C Bank,FCBC
+2083,Hoosier Heartland State Bank,0
+2084,First National Bank of Decatur County,0
+2085,The Colorado Bank and Trust Company of La Junta,0
+2086,MinnStar Bank National Association,0
+2087,Bank of Montana,0
+2088,Black Business Investment Fund Inc.,0
+2089,Guadalupe Bank,0
+2090,Mid Minnesota FCU,0
+2091,South Metro FCU,0
+2092,The Kansas State Bank,0
+2093,Wadena State Bank,0
+2094,Little Horn State Bank,0
+2095,The First National Bank of Middle Tennessee,0
+2096,Premier Community Bank,0
+2097,Mound City Bank,0
+2098,Citizens State Bank of Roseau,0
+2099,Nebraska Enterprise Fund,0
+2100,"Pioneer Community Bank, Inc.",TSLA
+2101,BankStar Financial,0
+2102,Labette Bank,0
+2103,The Maries County Bank,0
+2104,First United National Bank,0
+2105,The Lincoln National Bank of Hodgenville,0
+2106,Industry State Bank,0
+2107,Cherokee State Bank,0
+2108,Central Kentucky Agricultural Credit Association,0
+2109,The First National Bank of Oneida,0
+2110,CommerceOne Bank,0
+2111,The First National Bank of River Falls,0
+2112,State Bank of Herscher,0
+2113,Tidemark FCU,0
+2114,Northern State Bank of Thief River Falls,0
+2115,Community Bank & Trust-West Georgia,0
+2116,Rocky Mountain Bank and Trust,0
+2117,Farmers & Merchants Bank of Colby,0
+2118,First National Bank of Bosque County,0
+2119,Alamosa State Bank,0
+2120,TrustBank,0
+2121,Citizens Bank of Chatsworth,0
+2122,"Community Bank of Wichita, Inc",INC
+2123,New Frontier Bank,0
+2124,The Hometown Savings Bank,0
+2125,Vermont FCU,0
+2126,Guaranty State Bank and Trust Company,0
+2127,The Campbell & Fetter Bank,0
+2128,The Bank of Clovis,0
+2129,1st United Bank,0
+2130,FNBT Bank,0
+2131,McHenry Savings Bank,0
+2132,Grant County Bank,0
+2133,Carson Community Bank,0
+2134,Commercial National Bank of Texarkana,0
+2135,First Heritage FCU,0
+2136,The First National Bank of Bellville,0
+2137,Sugar River Bank,0
+2138,The Exchange Bank of Alabama,0
+2139,The Fisher National Bank,0
+2140,BankOkolona,0
+2141,Security First Bank of North Dakota,0
+2142,Clearview FCU,0
+2143,Key Community Bank,0
+2144,Community First Capital Corp,0
+2145,First Midwest Bank of Dexter,0
+2146,Owen County State Bank,0
+2147,Dedicated Community Bank,0
+2148,Peoples State Bank of Munising,0
+2149,Franklin Mint FCU,0
+2150,First Missouri State Bank of Cape County,0
+2151,Winnsboro State Bank & Trust Co.,0
+2152,MY CU,0
+2153,Hendricks County Bank and Trust Company,0
+2154,SPIRE CU,0
+2155,First State Bank of Blakely,0
+2156,First Bank Blue Earth,0
+2157,Princeville State Bank,0
+2158,Quoin Financial Bank,0
+2159,The Citizens Bank of Weston,0
+2160,Madison Valley Bank,0
+2161,North Star Community CU,0
+2162,Bogota Savings Bank,0
+2163,Mid-Hudson Valley FCU,0
+2164,Merchants & Planters Bank,0
+2165,The Lyon County State Bank,0
+2166,The Citizens National Bank of Hillsboro,0
+2167,The Waggoner National Bank of Vernon,0
+2168,Thread Bank,0
+2169,Bank of Lincoln County,0
+2170,Citizens Bank and Trust Company of Ardmore,0
+2171,The Fahey Banking Company,0
+2172,Solutions North Bank,0
+2173,Guaranty Bank and Trust Company,0
+2174,Regional Missouri Bank,0
+2175,Grand Valley Bank,0
+2176,State Bank of Texas,0
+2177,Freehold Bank,0
+2178,Southwind Bank,0
+2179,Access to Capital for Entrepreneurs,0
+2180,BankFlorida,0
+2181,Everett Co-operative Bank,0
+2182,Peoples Bank of the South,0
+2183,State Empl CU of Maryland Inc,0
+2184,1st National Bank,0
+2185,First State Bank of Wyoming,0
+2186,State Nebraska Bank & Trust,0
+2187,Commercial State Bank,0
+2188,West Pointe Bank,0
+2189,Alabama Teachers CU,0
+2190,American Bank of Oklahoma,0
+2191,4Front Credit Union,0
+2192,Together CU,0
+2193,The First Trust and Savings Bank of Watseka,0
+2194,The Grant County Bank,0
+2195,Bank of Rantoul,0
+2196,First Trust and Savings Bank,0
+2197,Turtle Mountain State Bank,0
+2198,Community Bank of Parkersburg,0
+2199,Dakota Heritage Bank,0
+2200,SeaComm FCU,0
+2201,Rivermark Community CU,0
+2202,First Whitney Bank & Trust,0
+2203,The First National Bank of Henning,0
+2204,Citizens Community Bank,0
+2205,McCoy FCU,0
+2206,United Cumberland Bank,0
+2207,The Union Bank,0
+2208,Spectra Bank,0
+2209,22nd State Bank,0
+2210,Interstate Bank,0
+2211,Lafayette State Bank,0
+2212,The Commercial National Bank of Brady,0
+2213,Exchange State Bank,0
+2214,Webster First FCU,0
+2215,Community Neighbor Bank,0
+2216,First State Bank of San Diego,0
+2217,First State Bank of DeQueen,0
+2218,"immito, LLC",BTM
+2219,Kanza Bank,0
+2220,Plaquemine Bank & Trust Company,0
+2221,Ascent Bank,0
+2222,Bank of Weston,0
+2223,Community 1st Bank Las Vegas,0
+2224,The First National Bank in Falfurrias,0
+2225,Bank of Franklin,0
+2226,Rondout Savings Bank,0
+2227,Justine Petersen Housing & Reinvestment Corporation,0
+2228,Century Bank & Trust,0
+2229,SouthPoint Financial CU,0
+2230,Ozark Bank,0
+2231,Capital CU,0
+2232,Heritage Community Bank,0
+2233,First Federal Community Bank,0
+2234,The Citizens National Bank,0
+2235,Springfield State Bank,0
+2236,Concordia Bank & Trust Company,0
+2237,Partners Bank of Wisconsin,0
+2238,Wray State Bank,0
+2239,The Garrett State Bank,0
+2240,"University of Virginia Community CU, Inc.",TSLA
+2241,"The Farmers State Bank of Oakley, Kansas",CP
+2242,Lee County Bank,0
+2243,Farm Bureau Bank FSB,0
+2244,Aspire Bank,0
+2245,"AMPAC Tri-State CDC, Inc.",TSLA
+2246,First Pioneer National Bank,0
+2247,"American Bank and Trust Company, National Association",ZION
+2248,Bank of Pensacola,0
+2249,Salem Co-operative Bank,0
+2250,Merchants State Bank,0
+2251,Mauch Chunk Trust Co,0
+2252,"Petefish, Skiles & Co.",0
+2253,Nevada Bank and Trust Company,0
+2254,The Union State Bank of Everest,0
+2255,The Bank of Advance,0
+2256,Intercity State Bank,0
+2257,First State Bank of Purdy,0
+2258,First Enterprise Bank,0
+2259,Citizens National Bank at Brownwood,0
+2260,Nano Banc,0
+2261,Amplify CU,0
+2262,Hardin County Savings Bank,0
+2263,First Cahawba Bank,0
+2264,The State National Bank of Big Spring,0
+2265,Seattle Metropolitan Credit Union,0
+2266,American Bank of the Carolinas d/b/a American Bank,0
+2267,Westside State Bank,0
+2268,First Missouri State Bank,0
+2269,Atlantic Regional FCU,0
+2270,Keen Bank National Association,0
+2271,Partners Bank,PBKX
+2272,Farmers State Bank & Trust Co.,0
+2273,American Bank & Trust Company,0
+2274,The Farmers State Bank,0
+2275,Cleveland State Bank,0
+2276,Eagle Bank and Trust Company,0
+2277,First National Bank in Port Lavaca,0
+2278,Northwestern Bank,0
+2279,Denver Savings Bank,0
+2280,Waumandee State Bank,0
+2281,Public Service CU,0
+2282,Clearinghouse CDFI PPP,0
+2283,Hearthside Bank Corporation,0
+2284,Palmetto Citizens FCU,0
+2285,Methuen Co-Operative Bank,0
+2286,Fox Communities CU,0
+2287,Seattle Economic Development Fund dba Community Ca,0
+2288,Bank of Commerce & Trust Company,0
+2289,The First National Bank of Groton,0
+2290,Altoona First Savings Bank,0
+2291,Farmers and Merchants Bank of St. Clair,0
+2292,Farmers Trust and Savings Bank,0
+2293,Merchants and Farmers Bank,0
+2294,The Apple Creek Banking Company,0
+2295,"Community Development Bank, FSB",9377.KL
+2296,Lamar Bank and Trust Company,0
+2297,MAX CU,0
+2298,"ANZ Guam, Inc",INC
+2299,Elko FCU,0
+2300,The First National Bank in Amboy,0
+2301,Waypoint Bank,0
+2302,Bank of Millbrook,0
+2303,Pearland State Bank,0
+2304,Millennial Bank,0
+2305,SJN Bank of Kansas,0
+2306,Tech CU,MTF-F48.TA
+2307,American Southwest CU,0
+2308,Community Bank and Trust,0
+2309,The First National Bank of Lawrence County at Walnut Ridge,0
+2310,Dover FCU,0
+2311,Goodfield State Bank,0
+2312,Lake Region Bank,0
+2313,Brickyard Bank,0
+2314,The Liberty National Bank in Paris,0
+2315,Ascendus,0
+2316,Mutual Savings Bank,007330.KQ
+2317,"Cooperativa de Ahorro y Cr<ac,e>dito Dr. Manuel Zeno Gand<ac,i>a",0
+2318,The Twin Valley Bank,0
+2319,"Community First Bank, Inc.",CFOK
+2320,"Golden Belt Bank, FSA",FSA.AX
+2321,Cullman Savings Bank,0
+2322,The Delaware National Bank of Delhi,0
+2323,Ulster Savings Bank,0
+2324,Western Nebraska Bank,0
+2325,Grand Marais State Bank,0
+2326,Alliance Community Bank,0
+2327,Hyperion Bank,0
+2328,Guthrie County State Bank,0
+2329,First Bank of Boaz,0
+2330,Old Mission Bank,0
+2331,Jersey State Bank,0
+2332,Collins Community CU,0
+2333,1st Choice CU,0
+2334,Stryv Bank,0
+2335,San Francisco Fire CU,0
+2336,Clackamas County Bank,0
+2337,Farmers State Bank of Calhan,0
+2338,Putnam 1st Mercantile Bank,0
+2339,Utah Independent Bank,0
+2340,First Independence Bank,0
+2341,Northern State Bank,0
+2342,OneSouth Bank,0
+2343,Madison County Bank,0
+2344,Uinta Bank,0
+2345,First Commonwealth FCU,0
+2346,The Union Bank of Mena,0
+2347,"American Commerce Bank, National Association",ZION
+2348,Century Bank of the Ozarks,0
+2349,The Farmers and Merchants National Bank of Nashville,0
+2350,Citizens State Bank of Loyal,0
+2351,The First National Bank of Shiner,0
+2352,Profile Bank,0
+2353,Bank of Kilmichael,0
+2354,Boeing Helicopters CU d/b/a BHCU,0
+2355,Pine River State Bank,0
+2356,First State Bank of DeKalb County,0
+2357,Citizens National Bank of Albion,0
+2358,A N E C A FCU,0
+2359,UBank,0
+2360,Pillar Bank,0
+2361,Jovia Financial FCU,0
+2362,Eastman CU,0
+2363,First Atlantic FCU,0
+2364,The Pennsville National Bank,0
+2365,The First National Bank of Dryden,0
+2366,Peoples CU,0
+2367,Jersey Shore State Bank,0
+2368,Citizens First National Bank,0
+2369,Bank of Hydro,0
+2370,The Harrison County Bank,0
+2371,Heartland State Bank,0
+2372,TruCommunity Bank,0
+2373,Tri-County Bank & Trust Company,0
+2374,Stock Growers Bank,0
+2375,Wisconsin River Bank,0
+2376,Mid-America Bank,0
+2377,Kerndt Brothers Savings Bank,0
+2378,Hanscom FCU,0
+2379,Community Banking Company of Fitzgerald,0
+2380,Brooklyn Cooperative FCU,0
+2381,Campus FCU,0
+2382,"River City Bank, Inc",RCBC
+2383,Washington State Employees Credit Union,0
+2384,SkyOne FCU,0
+2385,Marion State Bank,0
+2386,The Upstate National Bank,0
+2387,Glennville Bank,0
+2388,Keys FCU,0
+2389,German-American State Bank,0
+2390,Tower Community Bank,0
+2391,Coosa Valley CU,0
+2392,Bank of Odessa,0
+2393,Baybank,0
+2394,Frontwave CU,0
+2395,First National Bank of Jasper,0
+2396,United State Bank,0
+2397,TS Bank,8338.T
+2398,Sunmark CU,0
+2399,Alternatives FCU,0
+2400,Resource One CU,0
+2401,Bank of Star Valley,0
+2402,"Security Bank, S.B.",JFWV
+2403,Bank of Greeleyville,0
+2404,The Community State Bank,0
+2405,GFA FCU,0
+2406,Ipava State Bank,0
+2407,Point Breeze CU,0
+2408,Bedford Federal Savings Bank,0
+2409,North Georgia National Bank,0
+2410,Waterman Bank,0
+2411,Team One CU,0
+2412,Farmers and Merchants Bank of South Carolina,0
+2413,Conway Bank,0
+2414,Crews Bank & Trust,0
+2415,"Northeast Entrepreneur Fund, Inc.",TSLA
+2416,Home Bank and Trust Company,0
+2417,Cattaraugus County Bank,0
+2418,Bank of Kirksville,0
+2419,The Neffs National Bank,0
+2420,Bank of the Rockies,0
+2421,Charles River Bank,0
+2422,Bank of Belle Glade,0
+2423,Henderson State Bank,0
+2424,Deseret First FCU,0
+2425,"Guaranty Bank & Trust Company of Delhi, Louisiana",LPX
+2426,TSB Bank,0
+2427,The HomeTown Bank of Alabama,0
+2428,Valley Bank of Ronan,0
+2429,Farmers Insurance Group FCU,0
+2430,Heartland CU,0
+2431,Illini State Bank,0
+2432,New Era Bank,0
+2433,Success Bank,0
+2434,Leighton State Bank,0
+2435,Bank of England,0
+2436,Land of Lincoln CU,0
+2437,Kentucky Farmers Bank Corporation,0
+2438,KodaBank,0
+2439,Mid-Atlantic FCU,0
+2440,Petit Jean State Bank,0
+2441,South Lafourche Bank & Trust Company,0
+2442,Nebraska State Bank and Trust Company,0
+2443,Southwest Heritage CU,0
+2444,Cattlemens Bank,0
+2445,The Frederick Community Bank,0
+2446,Farmers and Merchants State Bank,0
+2447,The First National Bank of Bangor,0
+2448,"The Tipton Latham Bank, National Association",ZION
+2449,The Portage County Bank,0
+2450,Sumner Bank & Trust,0
+2451,1st Equity Bank,0
+2452,Texas Trust CU,0
+2453,Southern Bank of Tennessee,0
+2454,The First National Bank of Gordon,0
+2455,Rockhold Bank,0
+2456,Bank of Deerfield,0
+2457,Pacific Crest Federal Credit Union,0
+2458,United Farmers State Bank,0
+2459,Acadia FCU,0
+2460,First Bank & Trust Company,0
+2461,Citizens Guaranty Bank,0
+2462,Red River Empl FCU,0
+2463,Burling Bank,0
+2464,Solutions Bank,0
+2465,Industrial Bank,024110.KS
+2466,Garden Plain State Bank,0
+2467,First National Bank in Cimarron,0
+2468,Algonquin State Bank,0
+2469,Glenwood State Bank,0
+2470,Vision One CU,0
+2471,"Citizens State Bank and Trust Co., Ellsworth, Kansas",ECF
+2472,Community Bank of Pleasant Hill,0
+2473,The Lamesa National Bank,0
+2474,FNB Coweta,0
+2475,Vacationland FCU,0
+2476,Day Air CU Inc,0
+2477,Peoples Bank & Trust Company,0
+2478,Valley Bank of Commerce,0
+2479,Bank of Little Rock,0
+2480,E-Central CU,0
+2481,Goppert Financial Bank,0
+2482,Reliance State Bank,0
+2483,Peoples State Bank of Velva,0
+2484,"First State Bank of the Southeast, Inc.",TSLA
+2485,The First National Bank of Moose Lake,0
+2486,Muenster State Bank,0
+2487,Longview Bank,0
+2488,Rural Community Assistance Corporation,0
+2489,Marathon Bank,0
+2490,Carver State Bank,0
+2491,Community First Banking Company,0
+2492,Citizens Bank & Trust Co. of Jackson,0
+2493,Central One FCU,0
+2494,Community Bank of Georgia,0
+2495,Evergreen Federal Bank,0
+2496,CornerStone State Bank,0
+2497,Planters & Citizens Bank,0
+2498,Mount Vernon Bank,0
+2499,First Exchange Bank,0
+2500,Opportunity Resource Fund,0
+2501,TruStar FCU,0
+2502,The First State Bank of Rosemount,0
+2503,YNB,0
+2504,The First National Bank of Grayson,0
+2505,Logan State Bank,0
+2506,San Antonio Citizens FCU,0
+2507,The Claxton Bank,0
+2508,First Source FCU,0
+2509,"Bank of Brenham, N.A.",ZION
+2510,Davis Trust Company,0
+2511,Nekoosa Port Edwards State Bank,0
+2512,State Bank of Toulon,0
+2513,Intercredit Bank National Association,0
+2514,First National Bank of Anderson,0
+2515,Riverstone Bank,0
+2516,First US Bank,0
+2517,"Mid-Atlantic Farm Credit, ACA",ACA
+2518,McClain Bank,0
+2519,Red Canoe CU,0
+2520,Oklahoma Bank and Trust Company,0
+2521,Meriwest CU,0
+2522,Rivers Edge Bank,0
+2523,Cambridge State Bank,0
+2524,Western Bank,CWB.TO
+2525,American Pride Bank,0
+2526,"Bank of Whittier, National Association",ZION
+2527,"Frontier Farm Credit, ACA",ACA
+2528,First Peoples Community FCU,0
+2529,Wakefield Co-Operative Bank,0
+2530,Fairfax State Savings Bank,0
+2531,McGehee Bank,0
+2532,First New Mexico Bank Las Cruces,0
+2533,Pan American Bank & Trust,0
+2534,A+ FCU,0
+2535,Iowa Trust and Savings Bank,0
+2536,Anahuac National Bank,0
+2537,Thrivent Federal Credit Union,0
+2538,Piedmont Federal Savings Bank,0
+2539,The Bank of Baker,0
+2540,Pathway Bank,0
+2541,The Security State Bank,0
+2542,Ergo Bank,0
+2543,Security State Bank of Marine,0
+2544,Granite FCU,0
+2545,The Friendship State Bank,0
+2546,The First National Bank of Louisburg,0
+2547,Bank of the Panhandle,0
+2548,Kellogg Community CU,0
+2549,Lone Star Bank,0
+2550,Local Bank,0
+2551,Somerville Bank,0
+2552,Great Rivers Bank,0
+2553,State Bank & Trust Company,0
+2554,Kaw Valley State Bank and Trust Company,0
+2555,Ventura County CU,0
+2556,Valor Bank,0
+2557,Community Bank and Trust Company,0
+2558,Embassy National Bank,0
+2559,Essential Credit Union,0
+2560,"Cape Fear Farm Credit, ACA",ACA
+2561,State Bank & Trust,0
+2562,Michigan First CU,0
+2563,Associated CU of Texas,0
+2564,Park State Bank & Trust,0
+2565,"Farmers Bank and Trust Company, Princeton, Kentucky",BPRN
+2566,Community State Bank of Orbisonia,0
+2567,Jim Thorpe Neighborhood Bank,0
+2568,San Luis Valley Federal Bank,0
+2569,The Chesapeake Bank & Trust Company,0
+2570,First Missouri Bank of Semo,0
+2571,City & County CU,0
+2572,Innovations Financial Credit Union,0
+2573,State Street Bank and Trust Company,0
+2574,Concordia Bank,0
+2575,The Dolores State Bank,0
+2576,"Cumberland Federal Bank, F.S.B.",GWBK
+2577,Farmers & Merchants Bank & Trust,0
+2578,Audubon State Bank,0
+2579,The Farmers State Bank of Westmoreland,0
+2580,InRoads FCU,0
+2581,First Bank Hampton,0
+2582,"Auburn Savings Bank, FSB",9377.KL
+2583,First Security Bank of Deer Lodge,0
+2584,1st Community FCU,0
+2585,Hanin FCU,0
+2586,Woodland Bank,0
+2587,L&N FCU,0
+2588,Kearney Trust Company,0
+2589,"First Western SBLC, Inc",INC
+2590,The American National Bank of Mount Pleasant,0
+2591,"Welch State Bank of Welch, Okla.",FODGX
+2592,The Perryton National Bank,0
+2593,The City National Bank of Taylor,0
+2594,"	Farm Credit Services of Western Arkansas, ACA",ACA
+2595,York State Bank,0
+2596,WeStreet FCU,0
+2597,The State Exchange Bank,0
+2598,Bank of Dickson,0
+2599,Bank of Lake Mills,0
+2600,The State Bank of Geneva,0
+2601,Iowa Trust & Savings Bank,0
+2602,Arize FCU,0
+2603,First Citizens Bank of Butte,0
+2604,Vintage Bank Kansas,0
+2605,Anna-Jonesboro National Bank,0
+2606,First Federal Savings Bank of Champaign-Urbana,0
+2607,Security Bank Midwest,0
+2608,Prairie Bank of Kansas,0
+2609,Farmers State Bank of NewCastle,0
+2610,Valley Bank of Kalispell,0
+2611,The First National Bank and Trust Company of Okmulgee,0
+2612,The Bank of Grain Valley,0
+2613,Oxford University Bank,0
+2614,Wyoming Bank & Trust,0
+2615,Bank of Monticello,0
+2616,"Citizens Bank of Kentucky, Inc.",TSLA
+2617,The Bank of Edison,0
+2618,Iowa Falls State Bank,0
+2619,TimePayment Corp.,0
+2620,Bank of Hartington,0
+2621,Community State Bank of Rock Falls,0
+2622,The Goose River Bank,0
+2623,Longview Bank & Trust,0
+2624,The Bank of Magnolia Company,0
+2625,Savings Bank,1658.HK
+2626,Members Exchange CU,0
+2627,CFCU Community CU,0
+2628,First State Bank of Warren,0
+2629,First Texas National Bank,0
+2630,Unico Bank,0
+2631,Federation Bank,0
+2632,Surety Bank,0
+2633,National Institutes of Health FCU,0
+2634,St. Ansgar State Bank,0
+2635,Tennessee Valley FCU,0
+2636,The Bank of Tioga,0
+2637,"Greeneville Federal Bank, FSB",9377.KL
+2638,Spring Hill State Bank,0
+2639,BANK 21,ADBA04-PRO.OL
+2640,Heritage Bank & Trust,0
+2641,Municipal Trust and Savings Bank,0
+2642,Banner Capital Bank,0
+2643,FNB Bank,0
+2644,Jonesboro State Bank,0
+2645,The Commercial Bank of Grayson,0
+2646,First State Bank of Forrest,0
+2647,Manhattan Bank,0
+2648,Pen Air Credit Union,0
+2649,Peoples National Bank of Kewanee,0
+2650,Farmers Savings Bank & Trust,0
+2651,Homefield Credit Union,0
+2652,Clearpath FCU,0
+2653,Spring Valley City Bank,0
+2654,Nizari Progressive FCU,0
+2655,Castle Rock Bank,0
+2656,"TIAA Bank, A Division of TIAA FSB",0
+2657,PrinsBank,0
+2658,Sibley State Bank,0
+2659,United Pacific Bank,0
+2660,Adirondack Regional FCU,0
+2661,The Commercial Bank of Ozark,0
+2662,Desert Valleys FCU,0
+2663,First U.S. Community CU,0
+2664,Sharon & Crescent United CU,0
+2665,Sawyer Savings Bank,0
+2666,South Coast Bank & Trust,0
+2667,Northern State Bank of Virginia,0
+2668,Kemba CU,0
+2669,Boone Bank & Trust Co.,0
+2670,"Presidential Bank, FSB",9377.KL
+2671,Iowa State Savings Bank,0
+2672,State Bank of Table Rock,0
+2673,"Texana Bank, National Association",ZION
+2674,"Middlesex Federal Savings, F.A.",MI9R.MU
+2675,The Farmers and Merchants Bank,0
+2676,OUCU Financial CU Inc,0
+2677,Metropolitan Economic Development Association,0
+2678,Cincinnatus Savings & Loan Company,0
+2679,Sundance State Bank,0
+2680,RNB State Bank,0
+2681,Custer Federal State Bank,0
+2682,Buffalo Federal Bank,0
+2683,Del Norte Bank,0
+2684,Flanagan State Bank,0
+2685,The Farmers State Bank of Waupaca,0
+2686,Citizens Progressive Bank,0
+2687,Financial Plus CU,0
+2688,"American Plus Bank, National Association",ZION
+2689,HCN Bank,0
+2690,Fieldpoint Private Bank & Trust,0
+2691,MCNB Bank and Trust Co.,0
+2692,Bridge Community Bank,0
+2693,"Northwestern Bank, National Association",ZION
+2694,Farmers and Merchants State Bank of Springfield,0
+2695,Winchester Co-Operative Bank,0
+2696,Franklin State Bank & Trust Company,0
+2697,Mediapolis Savings Bank,0
+2698,CommunityWorks,0
+2699,"Eclipse Bank, Inc.",TSLA
+2700,Western Cooperative CU,0
+2701,Service 1st FCU,0
+2702,West-Aircomm FCU,0
+2703,"Citizens Bank of Morgantown, Inc.",TSLA
+2704,The Northumberland National Bank,0
+2705,Farmers and Miners Bank,0
+2706,Badger Bank,0
+2707,Sunshine State Economic Development Corporation,0
+2708,American Bank of Beaver Dam,0
+2709,FirstOak Bank,0
+2710,First Security State Bank,0
+2711,Peoples Trust and Savings Bank,0
+2712,The Samson Banking Company,0
+2713,Commercial Capital Bank,0
+2714,Citizens Bank of Rogersville,0
+2715,Sunnyside Federal Savings and Loan Association of Irvington,0
+2716,NorthStar Bank,0
+2717,The First National Bank of Monterey,0
+2718,The Clay City Banking Co.,0
+2719,The First National Bank of Le Center,0
+2720,Keystone Savings Bank,0
+2721,Grant County State Bank,0
+2722,H P C CU,0
+2723,Impact Bank,0
+2724,Heritage FCU,0
+2725,PeopleFirst Bank,0
+2726,Star USA FCU,0
+2727,Sesloc FCU,0
+2728,DNB National Bank,0
+2729,Bay Port State Bank,0
+2730,FirstState Bank,0
+2731,The Peoples Bank of Georgia,0
+2732,The Pineries Bank,0
+2733,Western National Bank,0
+2734,The Roscoe State Bank,0
+2735,The Payne County Bank,0
+2736,"The Stockgrowers State Bank of Ashland, Kansas",CP
+2737,OSB Community Bank,0
+2738,Arsenal CU,0
+2739,Bank of Forest,0
+2740,Bank of Milton,0
+2741,Korean American Catholics FCU,0
+2742,The First National Bank of Litchfield,0
+2743,PFCU,0
+2744,The First National Bank of Sycamore,0
+2745,Community Financial CU,0
+2746,West Texas State Bank,0
+2747,Tejas Bank,0
+2748,Security CU,0
+2749,Farm Credit Services of Mid-America ACA,0
+2750,Pikes Peak National Bank,0
+2751,Twin River Bank,0
+2752,"Clare Bank, National Association",ZION
+2753,FBT Bank & Mortgage,0
+2754,Community Partners Savings Bank,0
+2755,Empeople Credit Union,0
+2756,The First National Bank of Granbury,0
+2757,Cornerstone Community FCU,0
+2758,Security State Bank of Aitkin,0
+2759,Valley Premier Bank,0
+2760,Bank Plus,0P0000UTTV.TO
+2761,Hiawatha Bank and Trust Company,0
+2762,Jeanne D' Arc CU,0
+2763,CHROME FCU,0
+2764,The First National Bank of Mertzon,0
+2765,Bellevue State Bank,0
+2766,First State Bank of Sauk Centre,0
+2767,Vermilion Bank & Trust Company,0
+2768,McCurtain County National Bank,0
+2769,Pioneer Mutual FCU,0
+2770,ValueBank Texas,0
+2771,Today's Bank,0
+2772,The Bank of Beaver City,0
+2773,Gogebic Range Bank,0
+2774,Champion Bank,0
+2775,The First State Bank of Shelby,0
+2776,First Peoples Bank of Tennessee,0
+2777,TruMark Financial CU,0
+2778,Catalyst Bank,0
+2779,Laona State Bank,0
+2780,American Exchange Bank,0
+2781,The Citizens National Bank of Quitman,0
+2782,The First National Bank of Stigler,0
+2783,City Bank and Trust Company,0
+2784,First Bank of Beloit,0
+2785,Liberty Bank National Association,0
+2786,Templeton Savings Bank,0
+2787,The First National Bank of Lindsay,0
+2788,Cedar Valley Bank & Trust,0
+2789,Interfaith FCU,0
+2790,Premier Members CU,0
+2791,Merchants Bank,3968.HK
+2792,The Farmers National Bank of Lebanon,0
+2793,Astera CU,0
+2794,Scott CU,0
+2795,Westerly Community CU,0
+2796,St. Clair County State Bank,0
+2797,United Bank & Trust Co,0
+2798,Mount Vernon Bank & Trust Company,0
+2799,Freedom CU,0
+2800,The Bank of Romney,0
+2801,CenBank,0
+2802,Small Business Bank,0
+2803,Freeport State Bank,0
+2804,Farmers & Merchants State Bank,0
+2805,Madison County Community Bank,0
+2806,Liberty Trust & Savings Bank,0
+2807,Farmers and Drovers Bank,0
+2808,American Eagle Bank,0
+2809,"	Yankee Farm Credit, ACA",ACA
+2810,The Home Trust & Savings Bank,0
+2811,First National Bank in Olney,0
+2812,The First Bank of Celeste,0
+2813,Sun East FCU,0
+2814,The Capon Valley Bank,0
+2815,Arbor Financial CU,0
+2816,Fusion Bank,0
+2817,Citizens State Bank of Arlington,0
+2818,Auburn State Bank,0
+2819,Naveo CU,0
+2820,Commercial Bank & Trust Company,0
+2821,Wellington State Bank,0
+2822,The First National Bank of Ely,0
+2823,The Bank of Monroe,0
+2824,Michigan Schools & Government CU,0
+2825,PrimeTrust Financial FCU,0
+2826,Kendall Bank,0
+2827,Bank of Bozeman,0
+2828,Campbell County Bank,0
+2829,Union State Bank of Hazen,0
+2830,The First National Bank and Trust Company of Miami,0
+2831,The Farmers Bank,FBPA
+2832,Citizens Bank of the Midwest,0
+2833,Farmers & Mechanics Federal Savings Bank,0
+2834,Security Trust & Savings Bank,0
+2835,SunSouth Bank,0
+2836,First Community Bank of the Ozarks,0
+2837,People's Bank and Trust Company of Pickett County,0
+2838,Putnam County State Bank,0
+2839,First Community Bank of East Tennessee,0
+2840,Holladay Bank & Trust,0
+2841,The Bank of Brodhead,0
+2842,"Abbeville First Bank, SSB",SSB
+2843,The Bath State Bank,0
+2844,First National Bank in Ord,0
+2845,Bank of Cashton,0
+2846,Community National Bank of Okarche,0
+2847,"Maple City Savings Bank, FSB",9377.KL
+2848,Atkins Savings Bank & Trust,0
+2849,"Farm Credit of South Florida, ACA",ACA
+2850,Adams County Bank,0
+2851,Liberty Bay Credit Union,0
+2852,PCR Small Business Development,0
+2853,The Old Exchange National Bank of Okawville,0
+2854,American Continental Bank,0
+2855,"World Trade Finance,  Inc.",TSLA
+2856,ACB Bank,0
+2857,Northwoods Bank of Minnesota,0
+2858,Reliant Community FCU,0
+2859,Minnesota National Bank,0
+2860,Velocity CU,0
+2861,Putnam County Bank,0
+2862,"Freedom Bank, Inc.",TSLA
+2863,First State Bank Shannon-Polo,0
+2864,Maine Savings FCU,0
+2865,First National Bank of Steeleville,0
+2866,Arlington Community FCU,0
+2867,Belmont Savings Bank,0
+2868,First State Bank of Le Center,0
+2869,Bank of Brookhaven,0
+2870,Bank of Grand Lake,0
+2871,"Northern Interstate Bank, National Association",ZION
+2872,Community Spirit Bank,0
+2873,Traditions First Bank,0
+2874,South Central State Bank,0
+2875,Integrity Bank Plus,0
+2876,Clark County CU,0
+2877,Blue Grass Savings Bank,0
+2878,The Home National Bank of Thorntown,0
+2879,Bank of Frankewing,0
+2880,First State Bank of Cando,0
+2881,Jeff Bank,0
+2882,Business Development Finance Corporation,0
+2883,"Citizens Bank, Inc.",FC6A.SG
+2884,Oklahoma Capital Bank,0
+2885,Dakota Prairie Bank,0
+2886,Shell Lake State Bank,0
+2887,Small Business Assistance Corporation,0
+2888,First Technology FCU,0
+2889,Kohler CU,0
+2890,Old West FCU,0
+2891,The Citizens State Bank and Trust Company,0
+2892,Buena Vista National Bank,0
+2893,Colorado CU,0
+2894,Carthage Savings and Loan National Association,0
+2895,First National Bank of Giddings,0
+2896,"First Community Bank of the Heartland, Inc.",TSLA
+2897,Freedom Northwest CU,0
+2898,Malvern Bank,0
+2899,National Bank of St. Anne,0
+2900,Chelsea Savings Bank,0
+2901,Bank of Delight,0
+2902,The Gifford State Bank,0
+2903,First National Bank of America,0
+2904,The First National Bank of East Texas,0
+2905,The Warrington Bank,0
+2906,Charter Oak FCU,0
+2907,The Brady National Bank,0
+2908,"Credit Union of New Jersey, A FCU",0
+2909,Feliciana Bank & Trust Company,0
+2910,Crossbridge Community Bank,0
+2911,Bank of Evergreen,0
+2912,Jonesburg State Bank,0
+2913,Launch CU,0
+2914,BrightStar CU,0
+2915,Kalamazoo County State Bank,0
+2916,Auburn Banking Company,0
+2917,United Texas Bank,0
+2918,West Central Bank,0
+2919,Bank of Coushatta,0
+2920,Bank of Moundville,0
+2921,Olympia Federal Savings & Loan Association,0
+2922,cPort CU,0
+2923,FCNB Bank,0
+2924,High Plains Farm Credit,0
+2925,TBA CU,0
+2926,The First National Bank of Arenzville,0
+2927,Farmers and Merchants Bank of Ashland,0
+2928,Bank of Lindsay,0
+2929,"BCBank, Inc",INC
+2930,Breda Savings Bank,0
+2931,Connect Bank,0
+2932,First National Bank & Trust Company,0
+2933,Bank of 1889,0
+2934,Wells River Savings Bank,0
+2935,Bluff View Bank,0
+2936,Bank of Erath,0
+2937,SharePoint CU,0
+2938,"Bank of Brookfield-Purdin, National Association",ZION
+2939,Fowler State Bank,0
+2940,Centric FCU,0
+2941,Heritage Bank Minnesota,0
+2942,Security National Bank of South Dakota,0
+2943,The Turbotville National Bank,0
+2944,"America's Credit Union, A FCU",0
+2945,The Bank of Fayette County,0
+2946,Community Bank of Trenton,0
+2947,BANK,BAC
+2948,Lincoln State Bank,0
+2949,Dawson Co-op CU,0
+2950,Arcata Economic Development Corporation,0
+2951,The Litchfield National Bank,0
+2952,The Citizens-Farmers Bank of Cole Camp,0
+2953,Horizon Financial Bank,0
+2954,Cedar Point FCU,0
+2955,Fifth District Savings Bank,0
+2956,American Partners FCU,0
+2957,ProFed FCU,0
+2958,Bank of the Lowcountry,0
+2959,Wayland State Bank,0
+2960,First Security Bank - Canby,0
+2961,Miami Savings Bank,0
+2962,NorState FCU,0
+2963,Aroostook County Federal Savings & Loan Association,0
+2964,National Bank & Trust,0
+2965,Highmark FCU,0
+2966,First National Bank of Dublin,0
+2967,First Bank and Trust of Memphis,0
+2968,"SNB Bank, National Association",ZION
+2969,Millbury FCU,0
+2970,First Alliance Credit Union,0
+2971,First State Bank of Forsyth,0
+2972,Peach State Federal Credit Union,0
+2973,McKenzie Banking Company,0
+2974,Progressive Ozark Bank,0
+2975,"Citizens Bank & Trust Company of Vivian, Louisiana, Inc.",LPX
+2976,Spratt Savings Bank,0
+2977,State Bank of Newburg,0
+2978,Shelby County State Bank,0
+2979,Avadian CU,0
+2980,"Farm Credit Services of Colusa-Glenn, ACA",ACA
+2981,Hiway CU,0
+2982,Grasslands FCU,0
+2983,The Citizens National Bank of Lebanon,0
+2984,Northland Area FCU,0
+2985,Commercial Trust Company of Fayette,0
+2986,Monroe Federal Savings & Loan Association,0
+2987,Heartland Tri-State Bank,0
+2988,The First National Bank of Waynesboro,0
+2989,Elements Financial FCU,0
+2990,First State Bank of Roscoe,0
+2991,Northeast CU,0
+2992,HAPO Community CU,0
+2993,Bank of Camilla,0
+2994,Peoples Bank of Graceville,0
+2995,TLC Community CU,0
+2996,Accompany Capital,0
+2997,"Capital Farm Credit, ACA",ACA
+2998,Scott State Bank,0
+2999,F&M Bank and Trust Company,0
+3000,The Jacksboro National Bank,0
+3001,The Seiling State Bank,0
+3002,Atomic CU Inc,0
+3003,North Alabama Bank,0
+3004,Farmers and Merchants State Bank of Appleton,0
+3005,The First National Bank of Evant,0
+3006,The First National Bank of Sterling City,0
+3007,Milwaukee Economic Development Corporation,0
+3008,The Wanda State Bank,0
+3009,"Cooperativa de Ahorro y Cr<ac,e>dito de Arecibo (COOPACA)",0
+3010,"Citizens State Bank of Waverly, Inc.",TSLA
+3011,The Farmers and Merchants National Bank of Fairview,0
+3012,Silex Banking Company,0
+3013,First State Bank of Porter,0
+3014,United Bank of Philadelphia,0
+3015,Flora Bank & Trust,0
+3016,First Community Bank of Hillsboro,0
+3017,First National Bank of Kentucky,0
+3018,AltCap PPP Lending,0
+3019,Bank of Wolcott,0
+3020,Perennial Bank,0
+3021,Citizens Bank of Eldon,0
+3022,The First National Bank of Spearville,0
+3023,Bristol Morgan Bank,0
+3024,Bank of Lake Village,0
+3025,Clay County Savings Bank,0
+3026,Directions CU,0
+3027,First National Bank and Trust Co. of Bottineau,0
+3028,Exchange Bank of Northeast Missouri,0
+3029,The North Country Savings Bank,0
+3030,First Bank and Trust Company of Illinois,0
+3031,One American Bank,0
+3032,West Town Bank & Trust,0
+3033,Bank of Alma,0
+3034,The Yoakum National Bank,0
+3035,The Elberfeld State Bank,0
+3036,Farmers National Bank of Griggsville,0
+3037,Chillicothe State Bank,0
+3038,"American Exchange Bank, Lindsay, Oklahoma",LNN
+3039,CASE CU,0
+3040,First Central Bank McCook,0
+3041,St. Michael's Fall River FCU,0
+3042,First State Bank Minnesota,0
+3043,"	Farm Credit of Western Oklahoma, ACA",ACA
+3044,"Mountain Association for Community Economic Development, Inc.",TSLA
+3045,Community Bank Owatonna,0
+3046,Merrimack Valley CU,0
+3047,The First National Bank of Hugo,0
+3048,The First National Bank of Dighton,0
+3049,The Corner Stone Bank,0
+3050,Security Bank Minnesota,0
+3051,State Bank of Chandler,0
+3052,The First National Bank of Beardstown,0
+3053,The First National Bank of Manning,0
+3054,Farmers State Bank of Underwood,0
+3055,Warren-Boynton State Bank,0
+3056,American Metro Bank,0
+3057,Dannemora FCU,0
+3058,Tucson Old Pueblo CU,0
+3059,The First National Bank of Germantown,0
+3060,Southeast First National Bank,0
+3061,Elevations CU,0
+3062,First Central Bank,0
+3063,True Community CU,0
+3064,Family Bank,0
+3065,Firefighters First FCU,0
+3066,The State Bank of Toledo,0
+3067,First National Bank of Nokomis,0
+3068,ESB Bank,0
+3069,Peninsula Community FCU,0
+3070,Bank of Hindman,0
+3071,Boonville Federal Savings Bank,0
+3072,Vermilion Valley Bank,0
+3073,CME FCU,0
+3074,Independence State Bank,0
+3075,Chaffey FCU,0
+3076,Granite State CU,0
+3077,All In FCU,0
+3078,The Idabel National Bank,0
+3079,Elk State Bank,0
+3080,Great Lakes CU,0
+3081,The First National Bank of Sparta,0
+3082,Swedish-American State Bank,0
+3083,Belco Community CU,0
+3084,McIntosh County Bank,0
+3085,West Iowa Bank,0
+3086,"The Bank of LaFayette, Georgia",BGEO.L
+3087,Border FCU,0
+3088,Dakotaland FCU,0
+3089,Cottonwood Community FCU,0
+3090,Minden Exchange Bank & Trust Company,0
+3091,"Premier Farm Credit, ACA",ACA
+3092,Ocean Financial FCU,0
+3093,CU Hawaii FCU,0
+3094,First Service FCU,0
+3095,Farmers & Merchants Bank of North Dakota,0
+3096,MidWest America FCU,0
+3097,Flint Hills Bank,0
+3098,Bank of Salem,0
+3099,Harvesters Credit Union,0
+3100,First Piedmont Federal Savings and Loan Association of Gaffney,0
+3101,First National Bank of Brookfield,0
+3102,First Farmers & Merchants State Bank,0
+3103,"The Riley State Bank of Riley, Kansas",CP
+3104,"Winter Hill Bank, FSB",9377.KL
+3105,Citizens Bank of Charleston,0
+3106,Bank of Crocker,0
+3107,Security Bank of Crawford,0
+3108,First National Bank of Fort Stockton,0
+3109,The First National Bank of Raymond,0
+3110,Adrian Bank,0
+3111,The Salyersville National Bank,0
+3112,Oconee Federal Savings & Loan Association,0
+3113,State Bank of Bottineau,0
+3114,Hingham Institution for Savings,HIFS
+3115,"Bank of the Mountains, Inc.",TSLA
+3116,State Bank of Missouri,0
+3117,Bank of Crockett,0
+3118,True Sky FCU,0
+3119,Oregonians CU,0
+3120,Ohio State Bank,0
+3121,The Bank of Protection,0
+3122,Bank of Elgin,0
+3123,"Mineola Community Bank, S.S.B.",0
+3124,Security First National Bank of Hugo,0
+3125,The First National Bank of Tom Bean,0
+3126,Mayville State Bank,0
+3127,First American State Bank,0
+3128,Opportunities CU,0P0001FIQU.TO
+3129,NBT Financial Bank,0
+3130,Raritan State Bank,0
+3131,Red Crown FCU,0
+3132,Polish National CU,0
+3133,Alabama CU,0
+3134,First Southeast Bank,0
+3135,Houston FCU,0
+3136,Community Bank of Cameron,0
+3137,Lewisburg Banking Company,0
+3138,Pinnacle FCU,0
+3139,Sanger Bank,0
+3140,Philadelphia FCU,0
+3141,The First State Bank of Malta,0
+3142,Park Bank,0
+3143,Security Bank of Pulaski County,0
+3144,Siouxland Bank,0
+3145,Northern Maine Development Commission And Eastern Maine Development Corporation,0
+3146,First Kansas Bank,0
+3147,White State Bank,0
+3148,The International Bank of Amherst,0
+3149,Bank of Holland,0
+3150,Farmers State Bank of Western Illinois,0
+3151,Midwest National Bank,0
+3152,First Neighborhood Bank,0
+3153,POINTWEST BANK,0
+3154,Homestead Savings Bank,0
+3155,United Bank and Trust Company,0
+3156,Taunton FCU,0
+3157,The Peoples National Bank of Checotah,0
+3158,The Bank of the West,0
+3159,Castroville State Bank,0
+3160,Bank 1st,0
+3161,First National Bank of Alvin,0
+3162,Anchor D Bank,0
+3163,"Virginia United Methodist CU, Inc d/b/a The United Methodist CU",0
+3164,Prairie Sun Bank,0
+3165,"Grasshopper Bank, National Association",ZION
+3166,America's First FCU,0
+3167,Security Bank of the Ozarks,0
+3168,Prosper Bank,0
+3169,Readlyn Savings Bank,0
+3170,"AgHeritage Farm Credit Services, ACA",ACA
+3171,Territorial Bank of American Samoa,0
+3172,Arizona Central CU,0
+3173,The Wilson State Bank,0
+3174,State Bank of Downs,0
+3175,Regional FCU,0
+3176,First Farmers and Commercial Bank,0
+3177,California Pacific Bank,0
+3178,Green Country FCU,0
+3179,Bendena State Bank,0
+3180,Brunswick State Bank,0
+3181,"Union Bank, Inc.",AUB
+3182,First Federal Savings and Loan Association of Bath,0
+3183,Superior Choice CU,0
+3184,Bank of Holyrood,0
+3185,Southern Hills Community Bank,0
+3186,Greater Iowa CU,0
+3187,Richland County Bank,0
+3188,West Plains Bank,0
+3189,Financial Center First CU,0
+3190,Currie State Bank,0
+3191,Bank of Anguilla,0
+3192,Waycross Bank & Trust,0
+3193,Levo FCU,0
+3194,The First Security Bank,0
+3195,City of Boston CU,0
+3196,The Tampa State Bank,0
+3197,Bank of Winona,0
+3198,Red River State Bank,0
+3199,First National Bank at Darlington,0
+3200,The Citizens State Bank of Cheney,0
+3201,"The Mercantile Bank of Louisiana, Missouri",SMBC
+3202,Southwest Bank of Weatherford,0
+3203,First Jackson Bank,0
+3204,Sun FCU,0
+3205,First National Bank in Fredonia,0
+3206,Western Dakota Bank,0
+3207,Collins State Bank,0
+3208,Great Nations Bank,0
+3209,Metropolitan Commercial Bank,0
+3210,Hawaii Community FCU,0
+3211,Unity Bank of Mississippi,0
+3212,Peru Federal Savings Bank,0
+3213,"Carroll County Trust Company of Carrollton, Missouri",SMBC
+3214,Produce State Bank,0
+3215,Hometown CU,0
+3216,State Bank of Lismore,0
+3217,The Karnes County National Bank,0
+3218,Bank of Newington,0
+3219,Scribner Bank,0
+3220,Credit Union of America,0
+3221,South Georgia Bank,0
+3222,Bank of Maple Plain,0
+3223,American State Bank of Grygla,0
+3224,The First National Bank of Scott City,0
+3225,The First National Bank of Quitaque,0
+3226,Faith Community United CU Inc.,0
+3227,Mason Bank,0
+3228,1st MidAmerica CU,0
+3229,University Credit Union,0
+3230,First Entertainment CU,0
+3231,Pavillion Bank,0
+3232,Vantage Bank,0
+3233,Baxter CU,0
+3234,Sidney FCU,0
+3235,"Farm Credit Southeast Missouri, ACA",ACA
+3236,The First National Bank of McConnelsville,0
+3237,The Farmers State Bank of Brush,0
+3238,MCS Bank,0
+3239,Cen-Tex CDC,0
+3240,"Interamerican Bank, FSB",9377.KL
+3241,Peoples Bank of Greensboro,0
+3242,The Hershey State Bank,0
+3243,St. Anne's Credit Union,0
+3244,The Metamora State Bank,0
+3245,Bryant State Bank,0
+3246,Farmers State Bank of Hoffman,0
+3247,First Farmers & Merchants State Bank of Grand Meadow,0
+3248,State Bank of Cherry,0
+3249,Maine State CU,0
+3250,California FarmLink,0
+3251,Sentinel FCU,0
+3252,The First National Bank of Eagle Lake,0
+3253,Merchants & Farmers Bank of Greene County,0
+3254,Kaua'i FCU,0
+3255,"Home Loan Investment Bank, F.S.B.",GWBK
+3256,"Farmers State Bank, Allen, Oklahoma",BAH
+3257,1st Advantage FCU,0
+3258,Johnson City Bank,0
+3259,The First National Bank of Bagley,0
+3260,State Bank of New Richland,0
+3261,"Savanna-Thomson State Bank, A Division of Fidelity Bank",0
+3262,Wheeler County State Bank,0
+3263,Farmers State Bank & Trust Co,0
+3264,Lyons Federal Bank,0
+3265,Valley State Bank,0
+3266,The Baldwin State Bank,0
+3267,First Security Bank of Roundup,0
+3268,Solon State Bank,0
+3269,The Bank of Milan,0
+3270,Eureka Savings Bank,0
+3271,Oklahoma Heritage Bank,0
+3272,Genesee Co-Op FCU,0
+3273,Security Bank of Southwest Missouri,0
+3274,Abacus Federal Savings Bank,0
+3275,State Bank of Taunton,0
+3276,GreenLeaf Bank,0
+3277,American United FCU,0
+3278,Catholic Vantage Financial CU,0
+3279,Mesquite CU,0
+3280,River Works CU,0
+3281,Inspire FCU,0
+3282,First Bank and Trust of Fullerton,0
+3283,The State Savings Bank of Manistique,0
+3284,Bank of Billings,0
+3285,"Idaho AgCredit, ACA",ACA
+3286,Milledgeville State Bank,0
+3287,Sunset Science Park FCU,0
+3288,Pacific NW FCU,0
+3289,Partner Colorado CU,0
+3290,The Farmers State Bank of Blue Mound,0
+3291,Dakota West Credit Union,0
+3292,The Benton State Bank,0
+3293,First Federal Savings & Loan Association of Delta,0
+3294,The State Bank of Bern,0
+3295,First State Bank of Bigfork,0
+3296,Barwick Banking Company,0
+3297,Boundary Waters Bank,0
+3298,The First Central National Bank of St Paris,0
+3299,Bourns Empl FCU,0
+3300,1st Bank of Sea Isle City,0
+3301,San Mateo CU,0
+3302,The First National Bank in Tremont,0
+3303,The Citizens State Bank at Mohall,0
+3304,"Farmers & Merchants State Bank of New York Mills, Incorporated",QCOM
+3305,"Farm Credit of the Virginias, ACA",ACA
+3306,Greenville FCU,0
+3307,Black River Country Bank,0
+3308,Waldo State Bank,0
+3309,Community Bank of El Dorado Springs,0
+3310,Assemblies of God CU,0
+3311,Las Colinas FCU,0
+3312,Carmine State Bank,0
+3313,1st Community Bank,0
+3314,Farmers and Merchants State Bank of Bushnell,0
+3315,Frost State Bank,0
+3316,Generations Community FCU,0
+3317,Inova FCU,0
+3318,State Bank of Cold Spring,0
+3319,Northeast Missouri State Bank,0
+3320,First Federal Savings Bank of Washington,0
+3321,Pioneer State Bank,0
+3322,PACE Finance Corporation,0
+3323,"Cooperativa de Ahorro y Cr<ac,e>dito Jes\da\us Obrero",0
+3324,Liberty State Bank,0
+3325,Firelands FCU,0
+3326,Awakon FCU,0
+3327,Fayetteville Bank,0
+3328,First Financial FCU,0
+3329,Landings CU,0
+3330,The Seymour Bank,0
+3331,Chartway FCU,0
+3332,Bellwether Community CU,0
+3333,Utah Community FCU,0
+3334,FNB Washington,0
+3335,Western Kansas ACA,0
+3336,Texas Financial Bank,0
+3337,Brentwood Bank,0
+3338,O'Bannon Banking Company,0
+3339,"First State Bank of the South, Inc.",TSLA
+3340,Commercial Bank of Mott,0
+3341,First Texoma National Bank,0
+3342,Insight CU,0P00019WIC.TO
+3343,Canton Co-Operative Bank,0
+3344,Wilcox County State Bank,0
+3345,Fairmont FCU,0
+3346,Copper State CU,0
+3347,Community Bank of Oklahoma,0
+3348,Bank of Grandin,0
+3349,First Service Credit Union,0
+3350,State Bank & Trust of Kenmare,0
+3351,Trust FCU,0
+3352,LimeBank,0
+3353,Bank of Lumber City,0
+3354,Co-op CU,0
+3355,Fox Valley Savings Bank,0
+3356,Bank of Cave City,0
+3357,St. Clair State Bank Incorporated,0
+3358,Ladysmith Federal Savings & Loan Association,0
+3359,Blue FCU,0
+3360,Countryside Bank,0
+3361,Security State Bank of Wanamingo,0
+3362,Erie FCU,0
+3363,Carolina Foothills FCU,0
+3364,People Driven CU,0
+3365,"Colonial Farm Credit, ACA",ACA
+3366,Northern Skies FCU,0
+3367,The First National Bank of Waverly,0
+3368,Naheola Credit Union,0
+3369,Arkansas FCU,0
+3370,"The First National Bank of Nevada, Missouri",SMBC
+3371,Bank of Commerce and Trust Company,0
+3372,Alliance Catholic CU,0
+3373,Louisiana FCU,0
+3374,The Jefferson Bank,0
+3375,Clarkson Bank,0
+3376,First Command Bank,0
+3377,Haskell National Bank,0
+3378,TopLine Financial Credit Union,0
+3379,First Equity Mortgage Bankers Inc.,0
+3380,Southeast Community Capital Corporation dba Pathway Lending,0
+3381,Cleo State Bank,0
+3382,U.P. State CU,0
+3383,The First National Bank of Ava,0
+3384,Janesville State Bank,0
+3385,Bank of Winnfield & Trust Company,0
+3386,Rushville State Bank,0
+3387,Adventure CU,0
+3388,First Community Bank of Cullman,0
+3389,MariSol FCU,0
+3390,Florida A&M University FCU,0
+3391,Crescent Bank,0
+3392,Harlem Entrepreneur Fund,0
+3393,The State Bank of Wynnewood,0
+3394,Singing River FCU,0
+3395,PeoplesTrust Bank,0
+3396,State Bank of Reeseville,0
+3397,First Trust & Savings Bank,0
+3398,Junction National Bank,0
+3399,Riverfront FCU,0
+3400,B2 Bank National Association,0
+3401,"First National Bank, Cortez",FBAK
+3402,Simplicity CU,0
+3403,Patriot FCU,0
+3404,The Fayette County National Bank of Fayetteville,0
+3405,First National Bank in Pinckneyville,0
+3406,Capital Area Realtors Federal Credit Union,0
+3407,First National Bank in Taylorville,0
+3408,"Cypress Bank, SSB",SSB
+3409,American Bank of Baxter Springs,0
+3410,Bank of Walker County,0
+3411,Simmesport State Bank,0
+3412,Omni Community CU,0
+3413,Bay FCU,0
+3414,The First National Bank of Williamson,0
+3415,The First National Bank of Aspermont,0
+3416,First-Lockhart National Bank,0
+3417,Sun Community FCU,0
+3418,State Bank of Fairmont,0
+3419,Bank of Wrightsville,0
+3420,"TRF Enterprise Fund, Inc.",TSLA
+3421,Jefferson Financial FCU,0
+3422,Wauna FCU,0
+3423,Eastern Utah Community FCU,0
+3424,Freedom of Maryland FCU,0
+3425,Randolph-Brooks FCU,0
+3426,Production Credit Association of Southern New Mexi,0
+3427,Sanborn Savings Bank,0
+3428,Community Point Bank,0
+3429,"Renaissance Community Loan Fund, Inc.",TSLA
+3430,The Citizens Bank Edina,0
+3431,DuGood Federal Credit Union,0
+3432,Piggott State Bank,0
+3433,Citizens State Bank of Luling,0
+3434,Community Bank of Missouri,0
+3435,Table Rock Community Bank,0
+3436,Tropical Financial CU,0
+3437,United Minnesota Bank,0
+3438,Sky FCU,0
+3439,Heritage Bank of St. Tammany,0
+3440,Elkton Bank & Trust Company,0
+3441,Members Trust of the Southwest FCU,0
+3442,Tensas State Bank,0
+3443,Nebraska State Bank,0
+3444,Cedar Security Bank,0
+3445,Bodcaw Bank,0
+3446,The Lauderdale County Bank,0
+3447,Bank of Mingo,0
+3448,Johnson State Bank,0
+3449,The First State Bank of Pond Creek,0
+3450,New Albin Savings Bank,0
+3451,Commonwealth Cooperative Bank,0
+3452,CorePlus FCU,0
+3453,The First National Bank of Hope,0
+3454,Bank of Hazlehurst,0
+3455,Heritage Bank of Schaumburg,0
+3456,Chambers State Bank,0
+3457,United Methodist Connectional FCU,0
+3458,Holy Rosary Regional CU,0
+3459,"Raza Development Fund, Inc.",TSLA
+3460,Metz Banking Company,0
+3461,PATELCO CU,0
+3462,Stepping Stones Community FCU,0
+3463,Selfreliance FCU,0
+3464,First Commercial Bank (USA),0
+3465,Gateway First Bank,0
+3466,Bank of Dixon County,0
+3467,Archer Cooperative CU,0
+3468,"Verve, a Credit Union",VERV
+3469,The Howard State Bank,0
+3470,University of Michigan CU,0
+3471,The Bank of Landisburg,0
+3472,Richland State Bank,0
+3473,First State Bank of Campbell Hill,0
+3474,River Falls State Bank,0
+3475,Commodore Bank,0
+3476,State Bank of Bement,0
+3477,The Putnam County National Bank of Carmel,0
+3478,Pocahontas State Bank,0
+3479,Bankers' Bank of the West,0
+3480,Altana FCU,0
+3481,Neighborhood Trust FCU,0
+3482,Truity FCU,0
+3483,Latino Economic Development Corp.,0
+3484,First National Bank of South Padre Island,0
+3485,Farmers State Bank of Trimont,0
+3486,Norstar FCU,0
+3487,Jordan Federal Credit Union,0
+3488,"Community Star CU, Inc.",TSLA
+3489,"United Citizens Bank of Southern Kentucky, Inc.",TSLA
+3490,Voyage FCU,0
+3491,Bank of Dawson,0
+3492,"Community First Bank, N.A.",CFOK
+3493,The Pleasants County Bank,0
+3494,TPNB Bank,0
+3495,ELCA FCU,0
+3496,State Bank of Danvers,0
+3497,Brookville Building & Savings Association,0
+3498,Bank of Yates City,0
+3499,Fairview Savings & Loan Association,0
+3500,Midwest Minnesota Community Development Corporation,0
+3501,"Colonial Savings, F.A.",C006.F
+3502,Leading Edge Credit Union,0
+3503,"Peoples Bank of Wyaconda, Missouri",SMBC
+3504,Tongass FCU,0
+3505,Renaissance Economic Development Corporation,0
+3506,Municipal Empl CU of Baltimore Inc,0
+3507,Hamlin Bank and Trust Company,HMLN
+3508,The Merchants & Citizens Bank,0
+3509,Ouachita Valley FCU,0
+3510,Genoa Community Bank,0
+3511,First Bank and Trust Company,0
+3512,Randall State Bank,0
+3513,Oklahoma Central CU,0
+3514,Park City CU,0
+3515,Mainstreet FCU,0
+3516,First Security Bank-Hendricks,0
+3517,Craft Bank,0
+3518,First Bank of Utica,0
+3519,Lutheran FCU,0
+3520,St. Lawrence FCU,0
+3521,Sherwood Community Bank,0
+3522,Cecil Bank,0
+3523,Mason City National Bank,0
+3524,Kinmundy Bank,0
+3525,Henderson Federal Savings Bank,0
+3526,Cascade Community FCU,0
+3527,Tri-Valley Bank,0
+3528,"First Mutual Bank, FSB",9377.KL
+3529,West Virginia Central FCU,0
+3530,Neighbors FCU,0
+3531,The Antwerp Exchange Bank Company,0
+3532,The First National Bank of Hartford,0
+3533,Root River State Bank,0
+3534,First State Bank of Bedias,0
+3535,Red River FCU,0
+3536,First State Bank of Randolph County,0
+3537,The Progress Fund,0
+3538,The Sherwood State Bank,0
+3539,Bank of South Texas,0
+3540,1st Bank in Hominy,0
+3541,Connections Bank,0
+3542,The Fairfield National Bank,0
+3543,Diablo Valley FCU,0
+3544,G W Jones Exchange Bank,0
+3545,"Farm Credit Midsouth, ACA",ACA
+3546,Bank of Halls,0
+3547,The First National Bank of Hooker,0
+3548,The County FCU,0
+3549,The First Bank of Okarche,0
+3550,Whitesville State Bank,0
+3551,Welcome State Bank,0
+3552,Bank of Gibson City,0
+3553,OUR CU,0
+3554,New York University Federal Credit Union,0
+3555,Copiah Bank,0
+3556,Thayer County Bank,0
+3557,The Galion Building and Loan Bank,0
+3558,Health Advantage FCU,0
+3559,Holmes County Bank & Trust Co.,0
+3560,Peoples Bank of Altenburg,0
+3561,Air Academy FCU,0
+3562,East Wisconsin Savings Bank,0
+3563,Amistad Bank,0
+3564,Llano National Bank,0
+3565,Iroquois Farmers State Bank,0
+3566,Southeastern CU,0
+3567,Peoples State Bank of Wells,0
+3568,Bank of Prairie Village,0
+3569,State Bank of Cochran,0
+3570,Green Dot Bank,0
+3571,Patriots Bank,0
+3572,Wahoo State Bank,0
+3573,Triumph State Bank,0
+3574,Bank Hapoalim B.M. - New York Branch,0
+3575,The Walton State Bank,0
+3576,Home National Bank,0
+3577,Chambers Bank,0
+3578,First State Bank of Harvey,0
+3579,Signal Financial FCU,0
+3580,The First National Bank of Manchester,0
+3581,First National Bank in Frankfort,0
+3582,Bank of Brewton,0
+3583,UMassFive College FCU,0
+3584,Arcola First Bank,0
+3585,I-C FCU,0
+3586,Great North Bank,0
+3587,The First National Bank in Trinidad,0
+3588,The Stockgrowers State Bank,0
+3589,The Citizens Bank of Winfield,0
+3590,The Sacramento Deposit Bank,0
+3591,Tri-County Trust Company,0
+3592,First New Mexico Bank of Silver City,0
+3593,Washita Valley Bank,0
+3594,Community Bank of Oelwein,0
+3595,New Dimensions FCU,0
+3596,Self-Help CU,0
+3597,The Ottoville Bank Company,0
+3598,True North FCU,0
+3599,The Hamler State Bank,0
+3600,Empire Financial Federal Credit Union,0
+3601,Multipli Credit Union,0
+3602,Arundel Federal Savings Bank,0
+3603,First Financial Bank in Winnebago,0
+3604,Strasburg State Bank,0
+3605,BANK360,0
+3606,Western Vista FCU,0
+3607,Intuit Financing Inc.,0
+3608,"The Exchange State Bank of St Paul, Kansas",CP
+3609,UnitedOne CU,0
+3610,AEA FCU,0
+3611,Classic City Bank,0
+3612,Covington County Bank,0
+3613,Milford Federal Bank,0
+3614,Odin State Bank,0
+3615,CentreBank,0
+3616,First State Bank of Golva,0
+3617,farmbank,0
+3618,First Nations Bank,0
+3619,First Security Bank-West,0
+3620,The Hamilton Bank,0
+3621,Peoples Bank of Moniteau County,0
+3622,West Central Georgia Bank,0
+3623,Danville State Savings Bank,0
+3624,CODE CU,0
+3625,"Farmers and Merchants Bank of Mound City, Kansas",CP
+3626,Fredonia Valley Bank,0
+3627,First State Bank of Beecher City,0
+3628,"First Federal Bank Littlefield, Texas",TMRC
+3629,Progressive National Bank,0
+3630,SIU CU,0
+3631,Georgia Banking Company,0
+3632,FMB Bank,0
+3633,North Side Federal Savings & Loan Association of Chicago,0
+3634,Conneaut Savings Bank,0
+3635,Brantley Bank and Trust Company,0
+3636,The Credit Union For All,0
+3637,Rolette State Bank,0
+3638,Anderson State Bank,0
+3639,Quest FCU,0
+3640,Atlantic City FCU,0
+3641,Jackson Purchase Agriculture,0
+3642,First National Bank in Okeene,0
+3643,Emery FCU,0
+3644,Bedford Loan & Deposit Bank,0
+3645,G H S FCU,0
+3646,The Miners National Bank of Eveleth,0
+3647,Concorde Bank,0
+3648,Spirit of Alaska FCU,0
+3649,Bank of New Madrid,0
+3650,Independent Development Services Corporation,0
+3651,Wisconsin Women's Business Initiative Corporation,0
+3652,Fannin Bank,0
+3653,Cobalt FCU,0
+3654,Partners 1st FCU,0
+3655,The First National Bank of Gilbert,0
+3656,Texoma Community CU,0
+3657,"Beardstown Savings, s.b.",ALMEX.PA
+3658,Adams State Bank,0
+3659,1st Bergen FCU,0
+3660,Partner Community Capital,0
+3661,The Hicksville Bank,0
+3662,The Atlanta National Bank,0
+3663,First Tri-County Bank,0
+3664,Bank of Hazelton,0
+3665,KansasLand Bank,0
+3666,Alabama Central CU,0
+3667,SunWest FCU,0
+3668,Chessie FCU,0
+3669,Movement Bank,0
+3670,Sicily Island State Bank,0
+3671,Bank of Clarks,0
+3672,"Home Savings & Loan Association of Carroll County, F.A.",MI9R.MU
+3673,Citizens State Bank of Lankin,0
+3674,"the Farmers State Bank of Bucklin, Kansas",CP
+3675,The Hill-Dodge Banking Company,0
+3676,Stanton State Bank,0
+3677,The Buckholts State Bank,0
+3678,The First National Bank of Dozier,0
+3679,The Citizens National Bank of Woodsfield,0
+3680,Cedar Rapids State Bank,0
+3681,"Western AgCredit, PCA",9629.T
+3682,Holyoke CU,0
+3683,Southbridge CU,0
+3684,Hometown Community Bank,0
+3685,"Pickens Savings & Loan Association, F.A.",C006.F
+3686,Citizens 1st Bank,0
+3687,Philo Exchange Bank,0
+3688,The Farmers and Merchants State Bank,0
+3689,Aspen Federal Credit Union,0
+3690,The Potter State Bank of Potter,0
+3691,Bank of Gleason,0
+3692,"First Federal Savings Bank of Mascoutah, Illinois",ITW
+3693,Members First CU,0
+3694,Ashton State Bank,0
+3695,Mazuma CU,0
+3696,Bank of Maysville,0
+3697,The Farmers State Bank of Turton,0
+3698,State Bank of Medora,0
+3699,Red Wing CU,0
+3700,Del-One FCU,0
+3701,Sloan State Bank,0
+3702,Neighborhood Development Center,0
+3703,Miners Exchange Bank,0
+3704,The Mer Rouge State Bank,0
+3705,William Penn Bank,0
+3706,North Adams State Bank,0
+3707,Citizens State Bank of Milford,0
+3708,Suma Yonkers FCU,0
+3709,First National Bank of Wauchula,0
+3710,The First State Bank of Fountain,0
+3711,United Financial CU,0
+3712,Linn Area CU,0
+3713,Mutual Savings Association,0
+3714,Seaboard FCU,0
+3715,TriCentury Bank,0
+3716,Ascentra CU,0
+3717,The Exchange State Bank,0
+3718,Inland Valley FCU,0
+3719,Logix Federal Credit Union,0
+3720,First Community Bank of Moultrie County,0
+3721,Murphy-Wall State Bank and Trust Company,0
+3722,"RG Bank, A Savings & Loan Association",0
+3723,Sweet Water State Bank,0
+3724,Banner Banks,0
+3725,CerescoBank,0
+3726,Oklahoma's CU,0
+3727,Hawaii First FCU,0
+3728,"Big Bend Banks, National Association",ZION
+3729,Montezuma State Bank,0
+3730,Peoples Bank of Deer Lodge,0
+3731,The First National Bank in Marlow,0
+3732,The National Bank of Adams County of West Union,0
+3733,The City State Bank,0
+3734,Citizens National Bank of Crosbyton,0
+3735,State Bank of Eagle Butte,0
+3736,NuMark CU,0
+3737,Peoples State Bank of Colfax,0
+3738,Citizens State Bank and Trust Company,0
+3739,Riverside Bank,0
+3740,Landmark Credit Union,0
+3741,Bank of Prague,0
+3742,The Haviland State Bank,0
+3743,Farmers State Bank of Canton,0
+3744,State Bank of Lakota,0
+3745,Anna State Bank,0
+3746,Kindred State Bank,0
+3747,Rushford State Bank Incorporated,0
+3748,St. Joseph's Parish Buffalo FCU,0
+3749,CSE FCU,0
+3750,Vue Community CU,0
+3751,The State National Bank of Groom,0
+3752,Midland Community Bank,0
+3753,Puerto Rico Farm Credit,0
+3754,Rio Grande CU,0
+3755,Bank of Greeley,0
+3756,Families and Schools Together FCU,0
+3757,First National Bank of Kansas,0
+3758,The First Bank and Trust Company of Murphysboro,0
+3759,Global Innovations Bank,0
+3760,PowerNet CU,0
+3761,"Cooperativa de Ahorro y Cr<ac,e>dito Oriental",0
+3762,Southern Illinois Bank,0
+3763,Ipswich State Bank,0
+3764,360 FCU,0
+3765,Fidelity Bank of Texas,0
+3766,"Southwest Georgia Farm Credit, ACA",ACA
+3767,State Bank of Jeffers,0
+3768,Workmens Circle CU,0
+3769,NoteWorthy FCU,0
+3770,Bandera Bank,0
+3771,Taylor County Bank,0
+3772,BCB Community Bank,0
+3773,Southern Teachers & Parents FCU,0
+3774,Investors Community Bank,0
+3775,Elysian Bank,0
+3776,The First National Bank of Johnson,0
+3777,Everence FCU,0
+3778,The Gerber State Bank,0
+3779,Consumers Professional CU,0
+3780,Beehive FCU,0
+3781,Sharefax CU Inc,0
+3782,Railway CU,0
+3783,Discovery FCU,0
+3784,The First National Bank of Moody,0
+3785,Dewey Bank,0
+3786,"Commonwealth Community Bank, Inc.",TSLA
+3787,MinnCo CU,0
+3788,NCMIC Finance Corporation,0
+3789,Territorial Savings Bank,0
+3790,The Harvard State Bank,0
+3791,The Granville National Bank,0
+3792,Glacier Hills CU,0
+3793,Butte State Bank,0
+3794,First Federal Savings Bank of Kentucky,0
+3795,First Summit Bank,0
+3796,Inner Lakes FCU,0
+3797,BANKWEST of Kansas,0
+3798,U T FCU,0
+3799,Anthem Bank & Trust,0
+3800,Cy Fair FCU,0
+3801,Clay County State Bank,0
+3802,The Lyndon State Bank,0
+3803,Pinal County FCU,0
+3804,Lisle Savings Bank,0
+3805,Bank of Richmondville,0
+3806,Oswego County FCU,0
+3807,The Port Austin State Bank,0
+3808,Brewer FCU,0
+3809,Building Trades FCU,0
+3810,Twin Cedars Bank,0
+3811,First Capital FCU,0
+3812,Michigan United CU,0
+3813,Lake City Federal Bank,0
+3814,Fortera FCU,0
+3815,FreeStar Financial CU,0
+3816,State Bank of Easton,0
+3817,Ripco CU,0
+3818,Valley Exchange Bank,0
+3819,Riverways FCU,0
+3820,UNCLE Credit Union,0
+3821,Phenix-Girard Bank,0
+3822,RadiFi Federal Credit Union,0
+3823,"TrustTexas Bank, S.S.B.",0
+3824,Williamsville State Bank & Trust,0
+3825,University CU,0
+3826,Ninnescah Valley Bank,0
+3827,The First National Bank of Assumption,0
+3828,Trona Valley Community FCU,0
+3829,Belt Valley Bank,0
+3830,First Colorado National Bank,0
+3831,The First State Bank of Ransom,0
+3832,Benton County State Bank,0
+3833,Montrose Savings Bank,0
+3834,Lee Bank and Trust Company,0
+3835,Citizens Bank of Cumberland County,0
+3836,The First State Bank of Healy,0
+3837,The Watkins Savings Bank,0
+3838,Ukrainian FCU,0
+3839,Alloya Corporate FCU,0
+3840,WCF Financial Bank,0
+3841,BlueOx CU,0
+3842,Home Bank of Arkansas,0
+3843,Sierra Pacific FCU,0
+3844,Marshland CU,0
+3845,Bonanza Valley State Bank,0
+3846,People First FCU,0
+3847,LAF CU,0
+3848,State Central Bank,0
+3849,Fairview State Banking Company,0
+3850,Newrizons FCU,0
+3851,Sunrise Bank Dakota,0
+3852,The First National Bank of Primghar,0
+3853,"The Equitable Bank, S.S.B.",0
+3854,River Region CU,0
+3855,Abbey CU Inc,0
+3856,Bank of Mead,0
+3857,State Bank of Industry,0
+3858,AdventHealth CU,0
+3859,First Florida CU,0
+3860,Dearborn Federal Savings Bank,0
+3861,General Electric Empl FCU,0
+3862,TrailNorth FCU,0
+3863,The Southern Bank Company,0
+3864,Farmers & Merchants Bank of Craig County,0
+3865,Dakota Plains FCU,0
+3866,Service First FCU,0
+3867,United Texas CU,0
+3868,The First National Bank of Brooksville,0
+3869,Capra Bank,0
+3870,"Communities Unlimited, Inc.",TSLA
+3871,Central Virginia FCU,0
+3872,Luso-American CU,0
+3873,"Cendera Bank, National Association",ZION
+3874,"Taylorsville Savings Bank, SSB",SSB
+3875,"Cooperativa de Ahorro y Cr<ac,e>dito de Camuy (CAMUY-COOP)",0
+3876,American Spirit FCU,0
+3877,Spencer County Bank,0
+3878,Texell CU,0
+3879,Credit Union of Atlanta,0
+3880,Stanford FCU,0
+3881,The Granger National Bank,0
+3882,Kress National Bank,0
+3883,Adrian State Bank,0
+3884,Horizon CU,0
+3885,"Pinnacle Bank, Inc.",PPBN
+3886,Florida Business Development Corporation,0
+3887,Summit National Bank,0
+3888,Wyoming Capital Access,0
+3889,St. Martin National Bank,0
+3890,Point West CU,0
+3891,Bank of Ontario,0
+3892,First & Peoples Bank and Trust Company,0
+3893,Headwaters State Bank,0
+3894,First Financial Credit Union,0
+3895,MOCSE FCU,0
+3896,Listerhill CU,0
+3897,"Patriot Bank, National Association",PN21.F
+3898,Guardian CU,0
+3899,Members Choice WV FCU,0
+3900,AlaTrust CU,0
+3901,Community Bank of Memphis,0
+3902,Dade County FCU,0
+3903,Eastern Maine Development Corporation,0
+3904,Orlando CU,0
+3905,Mid-Central National Bank,0
+3906,Community Capital Resources,0
+3907,Piedmont Advantage CU,0
+3908,First Bank of Pike,0
+3909,Hodge Bank & Trust Company,0
+3910,Bank of Wiggins,0
+3911,St. Francis X FCU,0
+3912,Mountain West Small Business Finance,0
+3913,The Waterford Commercial & Savings Bank,0
+3914,Corn Growers State Bank,0
+3915,Ridgeline FCU,0
+3916,1st Financial Bank USA,0
+3917,O Bee CU,0
+3918,Union Savings & Loan Association,0
+3919,Cornerstone Community Financial CU,0
+3920,Walters Bank and Trust Company,0
+3921,White River CU,0
+3922,First State Bank of Olmsted,0
+3923,Massachusetts Institute of Tech FCU,0
+3924,TruEnergy FCU,0
+3925,Global Bank,BNKS.AX
+3926,Raiz Federal Credit Union,0
+3927,WEOKIE FCU,0
+3928,Money One FCU,0
+3929,UniWyo Federal Credit Union,0
+3930,State Bank of Scotia,0
+3931,Franklin State Bank,0
+3932,Guardian Bank,0
+3933,Washita State Bank,0
+3934,Du Quoin State Bank,0
+3935,The Corn City State Bank,0
+3936,Dysart State Bank,0
+3937,The Marblehead Bank,0
+3938,Quail Creek Bank,0
+3939,Sacramento CU,0
+3940,Cowboy State Bank,0
+3941,Farmers and Merchants State Bank of Alpha,0
+3942,Community State Bank of Canton,0
+3943,Crowell State Bank,0
+3944,The First National Bank of Fleming,0
+3945,ACMG FCU,0
+3946,Pacific Alliance Bank,PFBN
+3947,Gulf Atlantic Bank,0
+3948,First United CU,0
+3949,America's Community Bank,0
+3950,Hustisford State Bank,0
+3951,Mayville Savings Bank,0
+3952,The State Bank of Spring Hill,0
+3953,Great River FCU,0
+3954,Community National Bank in Monmouth,0
+3955,Illiana Financial CU,0
+3956,First State Bank of St. Peter,0
+3957,The First National Bank of Okawville,0
+3958,Daniels-Sheridan FCU,0
+3959,Cottonwood Valley Bank,0
+3960,Bison State Bank,0
+3961,Kennett Trust Bank,0
+3962,The Farmers State Bank and Trust Company,0
+3963,Safe Harbor CU,0
+3964,Abanca Corporation,0
+3965,United Poles FCU,0
+3966,"Marquette Farmers State Bank of Marquette, Kansas",CP
+3967,1st Community CU,0
+3968,National J A C L CU,0
+3969,West Central Development Corporation,0
+3970,Paper City Savings Association,0
+3971,Fergus FCU,0
+3972,Defiance State Bank,0
+3973,Pima FCU,0
+3974,Premier Financial CU,0
+3975,Vibe Credit Union,0
+3976,Arlington State Bank,0
+3977,First Education FCU,0
+3978,African Development Center,0
+3979,Denver Community Credit Union d/b/a Zing Credit Union,0
+3980,The First National Bank of Hebbronville,0
+3981,Texico State Bank,0
+3982,Red Rock Bank,0
+3983,Blissfield State Bank,0
+3984,The First National Bank of Brownstown,0
+3985,St. Jean's CU,0
+3986,US Community CU,0
+3987,"First Federal Savings & Loan Association of Central Illinois, S.B.",ALMEX.PA
+3988,Lake Country Community Bank,0
+3989,The First National Bank of Frederick,0
+3990,The First State Bank of Red Wing,0
+3991,Vergas State Bank,0
+3992,"Vermont Community Loan Fund, Inc.",TSLA
+3993,North Shore Trust and Savings,0
+3994,Sooper CU,0
+3995,Clinton Bank,0
+3996,First Bank of Bancroft,0
+3997,Everyone's FCU,0
+3998,Lincoln County CU,0
+3999,Enterprise Development Group,NISN
+4000,Sebasticook Valley FCU,0
+4001,InTouch CU,0
+4002,Chesterfield State Bank,0
+4003,Warren Bank and Trust Company,0
+4004,Elgin State Bank,0
+4005,The First National Bank of Coleraine,0
+4006,Security National Bank,0
+4007,HomePride Bank,0
+4008,River Valley CU,0
+4009,The Peoples Savings Bank,0
+4010,Bragg Mutual FCU,0
+4011,Penn State FCU,0
+4012,Maxwell State Bank,0
+4013,Holy Rosary CU,0
+4014,Electro Savings CU,0
+4015,Bank of Stronghurst,0
+4016,Heritage South CU,0
+4017,Greenville Savings Bank,0
+4018,ACT 1st FCU,0
+4019,"Mid-Southern Savings Bank, FSB",9377.KL
+4020,State Bank of Odell,0
+4021,Volunteer Federal Savings Bank,0
+4022,Old Glory Bank,0
+4023,Bloom CU,0
+4024,Palo Savings Bank,0
+4025,Jarrettsville Federal Savings & Loan Association,0
+4026,Northern Hills FCU,0
+4027,PennCrest Bank,0
+4028,Consolidated FCU,0
+4029,North Central Massachusetts Development Corporation,0
+4030,Toledo Urban FCU,0
+4031,Battle Creek State Bank,0
+4032,Northwest Florida ACA,0
+4033,The First National Bank at St. James,0
+4034,Commodore Perry FCU,0
+4035,Isabella Community CU,0
+4036,Provident CU,0
+4037,Rabun County Bank,0
+4038,PrimeBank of Texas,0
+4039,Mid Kansas CU,0
+4040,Lanco FCU,0
+4041,"Business Resource Capital Specialty BIDCO, Inc.",TSLA
+4042,TPF Loan Corporation,0
+4043,The First National Bank of Harveyville,0
+4044,Our Community CU,0
+4045,"Farm Credit of Southern Colorado, ACA",ACA
+4046,A O D FCU,0
+4047,The First National Bank of Wakefield,0
+4048,"ArborOne, ACA",ACA
+4049,Financial Access FCU,0
+4050,The Northern State Bank of Gonvick,0
+4051,Upstate FCU,0
+4052,Sierra Central CU,0
+4053,Campus USA CU,0
+4054,The Marion National Bank,0
+4055,AgTexas Farm Credit Services,0
+4056,The Pataskala Banking Company,0
+4057,DeWitt Savings Bank,0
+4058,Lincoln Maine FCU,0
+4059,Community Service CU,0
+4060,SELCO Community CU,0
+4061,Northern Great Lakes Initiatives,0
+4062,Southland Credit Union,0
+4063,Cardinal CU Inc,0
+4064,Agrow Credit Corporation,0
+4065,Capitol CU,0
+4066,State Bank of Lake Park,0
+4067,Access FCU,0
+4068,Life FCU,0
+4069,Encompass FCU,0
+4070,ARC FCU,0
+4071,Hawaii Central FCU,0
+4072,Bank of Lewellen,0
+4073,Bank of Orchard,0
+4074,Eaton Family CU,0
+4075,Security State Bank of Oklee,0
+4076,The First National Bank of McIntosh,0
+4077,Fort Davis State Bank,0
+4078,Air Force FCU,0
+4079,LNB Community Bank,0
+4080,The Merchants & Planters Bank,0
+4081,Hercules First FCU,0
+4082,Bank of China Limited,3988.HK
+4083,Henrico FCU,0
+4084,Bradesco Bank,0
+4085,Kahoka State Bank,0
+4086,Aspire Community FCU,0
+4087,Spring Valley Bank,0
+4088,Seven Seventeen CU Inc,0
+4089,Prospera CU,0
+4090,United States Senate FCU,0
+4091,"Farmers Bank of Lohman, Missouri",SMBC
+4092,"AgGeorgia Farm Credit, ACA",ACA
+4093,The First National Bank of Fairfax,0
+4094,Sixth Avenue Baptist FCU,0
+4095,CALCOE FCU,0
+4096,Fort Randall FCU,0
+4097,Owingsville Banking Company,0
+4098,Women's Opportunity Resource Center,0
+4099,Alabama One CU,0
+4100,COREBANK,0
+4101,Member One FCU,0
+4102,The Republic Banking Company,0
+4103,First National Bank in Tigerton,0
+4104,United Savings CU,0
+4105,United Consumers CU,0
+4106,Nymeo FCU,0
+4107,URW Community FCU,0
+4108,Home Savings Bank,0
+4109,First National Bank of Winnsboro,0
+4110,Andes State Bank,0
+4111,Kinetic FCU d/b/a Kinetic CU,0
+4112,The First National Bank of Osakis,0
+4113,Farmers-Merchants Bank of Illinois,0
+4114,Members First CU of N.H.,0
+4115,Shore to Shore Community FCU,0
+4116,"Graham Savings & Loan, SSB",SSB
+4117,"Oklahoma AgCredit, ACA",ACA
+4118,New Century Bank,0
+4119,Intrepid CU,0
+4120,Stoughton Co-Operative Bank,0
+4121,Glass City FCU,0
+4122,Bank of Iberia,0
+4123,America's CU,0
+4124,RTN FCU,0
+4125,USAlliance FCU,0
+4126,Lummi Community Development Financial Institution,0
+4127,Colchester State Bank,0
+4128,Lakeside Bank of Salina,0
+4129,Neighbors Bank,0
+4130,Piqua State Bank,0
+4131,Tomah Area CU,0
+4132,Diversified Members CU,0
+4133,Partnership Financial CU,0
+4134,Alltru FCU,0
+4135,Trax FCU,0
+4136,Richton Bank & Trust Company,0
+4137,Mutual Savings CU,0
+4138,Our Community Bank,0
+4139,Economic Opportunities Fund,0
+4140,Newport Federal Bank,0
+4141,Heart of Louisiana FCU,0
+4142,Farmers & Merchants Bank of Hutsonville,0
+4143,The Gary State Bank,0
+4144,North Iowa Community CU,0
+4145,Everest FCU,0
+4146,Credit Union 1,0
+4147,Priority Bank,0
+4148,"Cooperativa de Ahorro y Cr<ac,e>dito Vega Alta (VEGA-COOP)",0
+4149,Meridian Trust FCU,0
+4150,State Bank of Schaller,0
+4151,"Cooperativa de Ahorro y Cr<ac,e>dito Maunabo (MAUNA-COOP)",0
+4152,Omega FCU,0
+4153,Seasons FCU,0
+4154,Cincinnati Federal,0
+4155,Pathfinder FCU,0
+4156,Ohio Valley Community FCU,0
+4157,Systematic Savings Bank,0
+4158,Legacy Redevelopment Corporation,0
+4159,Archer Heights CU,0
+4160,Frontier Community CU,0
+4161,Port Washington FCU,0
+4162,GTE FCU d/b/a GTE Financial,0
+4163,Nelsonville Home & Savings,0
+4164,The First State Bank of Dongola,0
+4165,"Malvern Bank, National Association",ZION
+4166,"The Bank of San Jacinto County, Coldspring, Texas",TMRC
+4167,Ukrainian Selfreliance FCU,0
+4168,Shipbuilders CU,0
+4169,Citizens Federal Savings Bank,0
+4170,Spur Security Bank,0
+4171,Scenic Community CU,0
+4172,Northwoods CU,0
+4173,Area FCU,0
+4174,Granco FCU,0
+4175,Longview Community Bank,0
+4176,Shrewsbury FCU,0
+4177,The Donley County State Bank,0
+4178,Business Development Company,BDCZ
+4179,Worthington Federal Savings Bank F.S.B.,0
+4180,New Orleans Firemens FCU,0
+4181,Louisiana Catholic FCU,0
+4182,Grove Bank,0
+4183,Aurgroup Financial CU,0
+4184,West Virginia FCU,0
+4185,Downey FCU,0
+4186,Coosa Pines FCU,0
+4187,Organized Labor CU,0
+4188,Soo Co-Op CU,0
+4189,Miners & Merchants Bank,0
+4190,Cornerstone CU,0
+4191,Michigan Columbus FCU,0
+4192,Harwood State Bank,0
+4193,North Jersey FCU,0
+4194,Founders Bank,0
+4195,Marshall County State Bank,0
+4196,Riverview FCU,0
+4197,Gather FCU,0
+4198,"Greater Cleveland Community CU, Inc",INC
+4199,Council for Native Hawaiian Advancement,0
+4200,"Kabbage, Inc.",TSLA
+4201,Native Partnership for Housing,0
+4202,ServU FCU,0
+4203,The State Bank of Pearl City,0
+4204,The Economic Development Bank for the United States Virgin Islands,0
+4205,Arrha CU,0
+4206,"Impact CU, Inc.",TSLA
+4207,UBC CU,0
+4208,Bellco FCU,0
+4209,Shoreline CU,0
+4210,"First Community Bank, Xenia-Flora",FCBC
+4211,San Francisco FCU,0
+4212,"Beacon CU, Inc.",TSLA
+4213,Eagle One FCU,0
+4214,Liberty First CU,0
+4215,NorthRidge Community CU,0
+4216,Auburn University CU,0
+4217,Great Meadow FCU,0
+4218,El Paso Collaborative for Community & Economic Development,0
+4219,Katahdin FCU,0
+4220,Catholic Family CU,0
+4221,American First CU,0
+4222,Yantis FCU,0
+4223,Interstate Unlimited CU,0
+4224,State Bank of Burrton,0
+4225,Bayer Heritage FCU,0
+4226,Encurage Financial Network,0
+4227,Champion CU Inc,0
+4228,Commonwealth National Bank,0
+4229,Pentagon FCU,0
+4230,Mt. Zion Indianapolis FCU,0
+4231,Financial Security CU,0
+4232,The First National Bank of Orwell,0
+4233,Progressions CU,0
+4234,First Western Federal Savings Bank,0
+4235,T M H FCU,0
+4236,Mountain Valley Federal Credit Union,0
+4237,Michigan Certified Development Corporation,0
+4238,United Bay Community CU,0
+4239,Great Erie FCU,0
+4240,Bank of Locust Grove,0
+4241,"Metro Community Development, Inc.",TSLA
+4242,Stark FCU,0
+4243,Western Union Company,WU
+4244,Hyden Citizens Bank,0
+4245,Caribe FCU,0
+4246,"NCRC Community Development Fund, Inc.",TSLA
+4247,"Brightbridge, Inc.",TSLA
+4248,The First Farmers National Bank of Waurika,0
+4249,City FCU,0
+4250,Caro FCU,0
+4251,Pioneer FCU,0
+4252,Polish-American FCU,0
+4253,Choice One Community FCU,0
+4254,Family Financial CU,0
+4255,Flasher Community CU,0
+4256,1st Mississippi FCU,0
+4257,City-County Empl CU,0
+4258,KSW FCU,0
+4259,Star Tech FCU,0
+4260,Brazos Valley Schools CU,0
+4261,Boston Firefighters CU,0
+4262,American Trust & Savings Bank,0
+4263,Bangor FCU,0
+4264,First Federal Savings & Loan Association of Pascagoula-Moss Point,0
+4265,Sheboygan Area CU,0
+4266,McKesson and Healthcare Providers Federal Credit Union,0
+4267,Tulsa Economic Development Corporation,0
+4268,Central Federal Savings & Loan Association,0
+4269,OneUnited Bank,0
+4270,NextMark FCU,0
+4271,Atascosa Bank,0
+4272,Concord FCU,0
+4273,Midwest Community FCU,0
+4274,Northwest Plus CU,0
+4275,LOC FCU,0
+4276,TRU¿FI CU,0
+4277,Midland Federal Savings & Loan Association,0
+4278,Prescott State Bank,0
+4279,The First National Bank of Fletcher,0
+4280,Tulare County FCU,0
+4281,Foothills CU,0
+4282,Vermont State Bank,0
+4283,Mississippi FCU,0
+4284,First State Bank of Swanville,0
+4285,Rayne Building & Loan Association,0
+4286,Ukrainian Selfreliance Michigan FCU,0
+4287,Johnson County Bank,0
+4288,Torrington Municipal and Teachers FCU,0
+4289,Global One Bank,0
+4290,Access CU,0
+4291,Pinpoint FCU,0
+4292,1st Liberty FCU,0
+4293,IAA CU,0
+4294,The First National Bank of Proctor,0
+4295,Family First CU,0
+4296,Messiah Baptist Jubilee FCU,0
+4297,Bank of Calhoun County,0
+4298,Denver Fire Department FCU,0
+4299,Riverbank Federal Credit Union,0
+4300,Connected CU,0
+4301,Valley Oak CU,0
+4302,Patriot CU,0
+4303,Alamerica Bank,0
+4304,Century FCU,0
+4305,Affinity First FCU,0
+4306,FinancialEdge Community CU,0
+4307,Millville Savings Bank,0
+4308,Texas Associations of Professionals FCU,0
+4309,Georgia Power Valdosta FCU,0
+4310,"Pathstone Enterprise Center, Inc.",TSLA
+4311,Miami Firefighters FCU,0
+4312,Erie Community FCU,0
+4313,Caprock FCU,0
+4314,EP FCU,0
+4315,Filer CU,0
+4316,Roanoke Valley Community FCU,0
+4317,Mountain River CU,0
+4318,Wayne-Westland FCU,0
+4319,Century First FCU,0
+4320,Pantex FCU,0
+4321,Azalea City CU,0
+4322,Lincoln Federal Savings Bank of Nebraska,0
+4323,The Wright CU,0
+4324,"Central Texas Farm Credit, ACA",ACA
+4325,One Nevada CU,0
+4326,Dow Great Western CU,0
+4327,Allied FCU,0
+4328,Star of Texas CU,0
+4329,Chester National Bank,0
+4330,Compass Savings Bank,0
+4331,Vocality Community CU,0
+4332,United Churches CU,0
+4333,VAPR FCU,0
+4334,StagePoint FCU,0
+4335,Emerald Coast FCU,0
+4336,Desert Rivers FCU,0
+4337,Midwest Independent BankersBank,0
+4338,Homeland CU,0
+4339,Rome FCU,0
+4340,Valley Isle Community FCU,0
+4341,Wave FCU,0
+4342,Morrisons Cove 1st FCU,0
+4343,Great Lakes FCU,0
+4344,Home Federal Savings & Loan Association of Niles,0
+4345,Columbia CU,0
+4346,Georgia First Bank,0
+4347,Badlands FCU,0
+4348,GCS CU,0
+4349,Greater Metro FCU,0
+4350,Bank of Hancock County,0
+4351,Education CU,0
+4352,Monroe Telco FCU,0
+4353,Fox FCU,0
+4354,Pacific Premier Bank,0
+4355,Antioch Community FCU,0
+4356,MyUSA CU,0
+4357,KH Credit Union Inc,0
+4358,Dakota Business Lending,0
+4359,Pahranagat Valley FCU,0
+4360,NRS Community Development FCU,0
+4361,Pinnacle Credit Union,0
+4362,Bank of Morton,0
+4363,Essex County Teachers FCU,0
+4364,Paramount Bank,0
+4365,NY Green Bank,0
+4366,Puget Sound Refinery FCU,0
+4367,"Pillar CU, Inc",INC
+4368,Department of Commerce Federal Credit Union,0
+4369,Muskogee FCU,0
+4370,Lenco CU,0
+4371,Nuvista FCU,0
+4372,Expree CU,0
+4373,Utica Gas & Electric Empl FCU,0
+4374,West Branch Valley FCU,0
+4375,The Bridgeway FCU,0
+4376,Midland CU,0
+4377,Timberline FCU,0
+4378,Fond Du Lac CU,0
+4379,Bethpage FCU,0
+4380,Bank of Cattaraugus,0
+4381,Community Resource FCU,0
+4382,FivePoint CU,0
+4383,Members Heritage CU,0
+4384,Zeal CU,0
+4385,Eastern Indiana FCU,0
+4386,Alcoa Pittsburgh FCU,0
+4387,Edge FCU,0
+4388,Tri Cities CU,0
+4389,Bessemer System FCU,0
+4390,Orange County's CU,0
+4391,The Fidelity State Bank and Trust Company,0
+4392,Five Star of Maryland FCU,0
+4393,Bank of New Cambria,0
+4394,North Cambridge Co-Operative Bank,0
+4395,705 FCU,0
+4396,"Commerce Bancshares, Inc.",CBSH
+4397,A C P E FCU,0
+4398,Bluevine Capital Inc.,0
+4399,Teamsters Council 37 FCU,0
+4400,Mohawk Valley FCU,0
+4401,South Side Community FCU,0
+4402,New Bedford CU,0
+4403,One Vision FCU,0
+4404,High Peaks FCU,0
+4405,"JPMorgan Chase Bank, National Association",JPM-PD
+4406,"Bank of America, National Association",BAC
+4407,"U.S. Bank, National Association",IUS2.DE
+4408,"Wells Fargo Bank, National Association",AAADAXX
+4409,Manufacturers and Traders Trust Company,0
+4410,Frost Bank,CFR
+4411,City National Bank,0
+4412,The Huntington National Bank,0
+4413,"PNC Bank, National Association",ZION
+4414,Truist Bank,0
+4415,"TD Bank, National Association",TD-PFK.TO
+4416,BMO Harris Bank National Association,0
+4417,Customers Bank,0
+4418,KeyBank National Association,0
+4419,"Zions Bank, A Division of",0
+4420,Signature Bank,SBNY
+4421,"Harvest Small Business Finance, LLC",BTM
+4422,"Citibank, N.A.",C
+4423,Cross River Bank,0
+4424,City National Bank of Florida,0
+4425,Prosperity Bank,0
+4426,"Citizens Bank, National Association",FC6A.SG
+4427,Loan Source Incorporated,0
+4428,East West Bank,0
+4429,First National Bank of Pennsylvania,0
+4430,Hancock Whitney Bank,0
+4431,Comerica Bank,0
+4432,Pinnacle Bank,PPBN
+4433,Regions Bank,0
+4434,Atlantic Union Bank,AUB
+4435,Fifth Third Bank,0
+4436,Eastern Bank,EBC
+4437,First-Citizens Bank & Trust Company,0
+4438,Banco Popular de Puerto Rico,0
+4439,Citizens Business Bank,0
+4440,Umpqua Bank,0
+4441,Seacoast National Bank,0
+4442,Synovus Bank,0
+4443,Mechanics Bank,MCHB
+4444,Stellar Bank,0
+4445,First Horizon Bank,0
+4446,"Bremer Bank, National Association",ZION
+4447,Pacific Western Bank,0
+4448,Old National Bank,0
+4449,FirstBank,0
+4450,"SouthState Bank, National Association",ZION
+4451,"Fulton Bank, National Association",ZION
+4452,Valley National Bank,0
+4453,Webster Bank National Association,0
+4454,Washington Trust Bank,0
+4455,Rockland Trust Company,0
+4456,TowneBank,TOWN
+4457,First Hawaiian Bank,0
+4458,Dime Community Bank,0
+4459,"Wintrust Bank, National Association",ZION
+4460,Sandy Spring Bank,0
+4461,BancFirst,BANF
+4462,Farmers & Merchants Bank of Long Beach,FMBL
+4463,Commerce Bank,0
+4464,The Central Trust Bank,0
+4465,CIBC Bank USA,0
+4466,Heritage Bank,0
+4467,Western Alliance Bank,0
+4468,ServisFirst Bank,0
+4469,"HSBC Bank USA, National Association",AAABOXX
+4470,"First Financial Bank, National Association",FFIN
+4471,Tri Counties Bank,0
+4472,American Business Bank,AMBZ
+4473,"Capital Plus Financial, LLC",BTM
+4474,Banner Bank,0
+4475,"Associated Bank, National Association",ZION
+4476,PlainsCapital Bank,0
+4477,United Community Bank,UCBI
+4478,Bank of Southern California National Association,0
+4479,Celtic Bank Corporation,0
+4480,"Prestamos CDFI, LLC",BTM
+4481,"Capital One, National Association",COF
+4482,Simmons Bank,0
+4483,Central Pacific Bank,0
+4484,First Merchants Bank,0
+4485,First Commonwealth Bank,0
+4486,Centennial Bank,0
+4487,Texas Capital Bank,0
+4488,Mid Penn Bank,0
+4489,Third Coast Bank SSB,0
+4490,Sunwest Bank,0
+4491,Ameris Bank,0
+4492,Cadence Bank,CADE
+4493,Cache Valley Bank,0
+4494,Stock Yards Bank & Trust Company,0
+4495,Mercantile Bank,MBWM
+4496,Byline Bank,0
+4497,Bank of Hawaii,BOH
+4498,"BOKF, National Association",BOKF
+4499,Busey Bank,0
+4500,"Banc of California, National Association",BANC
+4501,"BankUnited, National Association",BKU
+4502,United Bank,UBSI
+4503,Lake City Bank,0
+4504,WebBank,0
+4505,Arvest Bank,0
+4506,Enterprise Bank & Trust,0
+4507,Johnson Bank,0
+4508,New York Business Development Corporation,0
+4509,Independent Bank,INDB
+4510,Coastal Community Bank,0
+4511,First United Bank and Trust Company,0
+4512,"NBT Bank, National Association",ZION
+4513,Nicolet National Bank,0
+4514,Bank of Colorado,ALPIB
+4515,Fremont Bank,0
+4516,"UMB Bank, National Association",ZION
+4517,Univest Bank and Trust Co.,0
+4518,1st Source Bank,0
+4519,Glacier Bank,0
+4520,Fountainhead SBF LLC,0
+4521,MidFirst Bank,0
+4522,Northrim Bank,0
+4523,Itria Ventures LLC,0
+4524,"Readycap Lending, LLC",BTM
+4525,S & T Bank,STB.L
+4526,The Park National Bank,0
+4527,First National Bank Alaska,FBAK
+4528,Amarillo National Bank,0
+4529,Provident Bank,0
+4530,Veritex Community Bank,0
+4531,Santa Cruz County Bank,SCZC
+4532,Premier Bank,0
+4533,First Financial Bank,FFIN
+4534,Live Oak Banking Company,0
+4535,Bank of Marin,BMRC
+4536,"Santander Bank, National Association",SPL.WA
+4537,Lakeland Bank,0
+4538,Washington Federal Bank,0
+4539,Enterprise Bank and Trust Company,0
+4540,The Bank of Tampa,0
+4541,"American Savings Bank, FSB",9377.KL
+4542,Bank of Hope,0
+4543,Broadway National Bank,0
+4544,The Canandaigua National Bank and Trust Company,0
+4545,First National Bank of Omaha,0
+4546,Origin Bank,0
+4547,Renasant Bank,0
+4548,Benworth Capital,0
+4549,Heritage Bank of Commerce,0
+4550,International Bank of Commerce,0
+4551,"INTRUST Bank, National Association",ZION
+4552,FirstBank Puerto Rico,0
+4553,Old Second National Bank,0
+4554,"Bank First, N.A.",BFC
+4555,"Community Bank, National Association",CBU
+4556,Peoples Bank,NWPP
+4557,Tompkins Community Bank,0
+4558,Farmers & Merchants Bank of Central California,0
+4559,Bangor Savings Bank,0
+4560,Columbia Bank,COLB
+4561,Republic Bank & Trust Company,0
+4562,ConnectOne Bank,0
+4563,Bank of Ann Arbor,0
+4564,The Fidelity Bank,0
+4565,California Bank of Commerce,0
+4566,First Interstate Bank,0
+4567,United Business Bank,0
+4568,Orrstown Bank,0
+4569,First Bank,IDFCFIRSTB.NS
+4570,Macatawa Bank,MCBC
+4571,The American National Bank of Texas,0
+4572,Alpine Bank,ALPIB
+4573,"Dollar Bank, A Federal Savings Bank",0
+4574,Bank Rhode Island,0
+4575,Oriental Bank,0P0001985A.BO
+4576,"Wilmington Savings Fund Society, FSB",9377.KL
+4577,Central Bank & Trust Co.,0
+4578,Liberty Bank,0
+4579,Choice Financial Group,0
+4580,Trustmark National Bank,0
+4581,"Newtek Small Business Finance, Inc.",TSLA
+4582,Stockman Bank of Montana,0
+4583,Woodforest National Bank,0
+4584,Community Bank of Mississippi,0
+4585,Bell Bank,0
+4586,Republic First Bank d/b/a Republic Bank,0
+4587,Morton Community Bank,0
+4588,German American Bank,0
+4589,Mountain America FCU,0
+4590,Centier Bank,0
+4591,Union Bank and Trust Company,0
+4592,Southside Bank,0
+4593,"Wheaton Bank & Trust Company, National Association",ZION
+4594,The National Bank of Indianapolis,0
+4595,Wallis Bank,0
+4596,Exchange Bank,EXSR
+4597,First American Bank,0
+4598,"American Bank, National Association",AMBK
+4599,Five Star Bank,0
+4600,River City Bank,RCBC
+4601,Civista Bank,0
+4602,"Home Bank, National Association",ZION
+4603,Texas Security Bank,0
+4604,"Village Bank and Trust, National Association",VBFC
+4605,Firstrust Savings Bank,0
+4606,Westamerica Bank,0
+4607,Bank of Stockton,0
+4608,First Business Bank,0
+4609,The Farmers National Bank of Canfield,0
+4610,Cambridge Savings Bank,0
+4611,STAR Financial Bank,0
+4612,D. L. Evans Bank,0
+4613,Cathay Bank,0
+4614,First Northern Bank of Dixon,0
+4615,Commercial Bank of California,0
+4616,Heartland Bank and Trust Company,0
+4617,"First Mid Bank & Trust, National Association",ZION
+4618,Texas Partners Bank,0
+4619,Oak Valley Community Bank,0
+4620,"CRF Small Business Loan Company, LLC",BTM
+4621,Carrollton Bank,0
+4622,WestStar Bank,0
+4623,BankPlus,0
+4624,"Horizon Bank, SSB",SSB
+4625,First State Bank,0
+4626,"Community Trust Bank, Inc.",TSLA
+4627,Middlesex Savings Bank,0
+4628,Oxford Bank,OXBC
+4629,"Square Capital, LLC",OXSQ
+4630,Northwest Bank,0
+4631,"Lendistry SBLC, LLC",BTM
+4632,Montecito Bank & Trust,0
+4633,Salem Five Cents Savings Bank,0
+4634,First International Bank & Trust,0
+4635,The Cape Cod Five Cents Savings Bank,0
+4636,First Security Bank,0
+4637,"['JPMorgan Chase & Co.', 'Wells Fargo Bank, National Association', 'Signature Bank of Arkansas', 'Signature Bank, National Association']","['JPM', 'WFC', 'SBNY', 'SBNY']"
+4638,"['JPMorgan Chase & Co.', 'Wells Fargo Bank, National Association', 'Signature Bank of Arkansas', 'Signature Bank, National Association']","['JPM', 'WFC', 'SBNY', 'SBNY']"
