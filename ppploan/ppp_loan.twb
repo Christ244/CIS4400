@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20232.23.0611.2007                               -->
+<workbook original-version='18.1' source-build='2023.2.0 (20232.23.0611.2007)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Top5Bank' inline='true' name='federated.1b8af370f02bqo1acrssc0ht8g4s' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Top5Bank' name='textscan.1bx0b371cpru0z19gyovo1fusqvd'>
+            <connection class='textscan' directory='C:/Users/aladd/Downloads/Python Data Analysis/CIS 4400/data/ppploan/tranformedTables' filename='Top5Bank.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1bx0b371cpru0z19gyovo1fusqvd' name='Top5Bank.csv' table='[Top5Bank#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='ServicingLenderName' ordinal='1' />
+            <column datatype='string' name='BorrowerState' ordinal='2' />
+            <column datatype='real' name='CurrentApprovalAmount_Tatal' ordinal='3' />
+            <column datatype='integer' name='CurrentApprovalAmount_Count' ordinal='4' />
+            <column datatype='real' name='ForgivenessAmount_Tatal' ordinal='5' />
+            <column datatype='string' name='Symbol' ordinal='6' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1bx0b371cpru0z19gyovo1fusqvd' name='Top5Bank.csv' table='[Top5Bank#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='ServicingLenderName' ordinal='1' />
+            <column datatype='string' name='BorrowerState' ordinal='2' />
+            <column datatype='real' name='CurrentApprovalAmount_Tatal' ordinal='3' />
+            <column datatype='integer' name='CurrentApprovalAmount_Count' ordinal='4' />
+            <column datatype='real' name='ForgivenessAmount_Tatal' ordinal='5' />
+            <column datatype='string' name='Symbol' ordinal='6' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Top5Bank.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[Top5Bank.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Top5Bank.csv_66BCB8F2D6CE435C98A12551CE5EBACA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ServicingLenderName</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[ServicingLenderName]</local-name>
+            <parent-name>[Top5Bank.csv]</parent-name>
+            <remote-alias>ServicingLenderName</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Top5Bank.csv_66BCB8F2D6CE435C98A12551CE5EBACA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>BorrowerState</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[BorrowerState]</local-name>
+            <parent-name>[Top5Bank.csv]</parent-name>
+            <remote-alias>BorrowerState</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Top5Bank.csv_66BCB8F2D6CE435C98A12551CE5EBACA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CurrentApprovalAmount_Tatal</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[CurrentApprovalAmount_Tatal]</local-name>
+            <parent-name>[Top5Bank.csv]</parent-name>
+            <remote-alias>CurrentApprovalAmount_Tatal</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Top5Bank.csv_66BCB8F2D6CE435C98A12551CE5EBACA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CurrentApprovalAmount_Count</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[CurrentApprovalAmount_Count]</local-name>
+            <parent-name>[Top5Bank.csv]</parent-name>
+            <remote-alias>CurrentApprovalAmount_Count</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Top5Bank.csv_66BCB8F2D6CE435C98A12551CE5EBACA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ForgivenessAmount_Tatal</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[ForgivenessAmount_Tatal]</local-name>
+            <parent-name>[Top5Bank.csv]</parent-name>
+            <remote-alias>ForgivenessAmount_Tatal</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Top5Bank.csv_66BCB8F2D6CE435C98A12551CE5EBACA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Symbol</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Symbol]</local-name>
+            <parent-name>[Top5Bank.csv]</parent-name>
+            <remote-alias>Symbol</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Top5Bank.csv_66BCB8F2D6CE435C98A12551CE5EBACA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Borrower State' datatype='string' name='[BorrowerState]' role='dimension' type='nominal' />
+      <column caption='CurrentApprovalAmount Count' datatype='integer' name='[CurrentApprovalAmount_Count]' role='measure' type='quantitative' />
+      <column caption='CurrentApprovalAmount Tatal' datatype='real' name='[CurrentApprovalAmount_Tatal]' role='measure' type='quantitative' />
+      <column caption='ForgivenessAmount Tatal' datatype='real' name='[ForgivenessAmount_Tatal]' role='measure' type='quantitative' />
+      <column caption='Servicing Lender Name' datatype='string' name='[ServicingLenderName]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='Top5Bank.csv' datatype='table' name='[__tableau_internal_object_id__].[Top5Bank.csv_66BCB8F2D6CE435C98A12551CE5EBACA]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Top5Bank.csv' id='Top5Bank.csv_66BCB8F2D6CE435C98A12551CE5EBACA'>
+            <properties context=''>
+              <relation connection='textscan.1bx0b371cpru0z19gyovo1fusqvd' name='Top5Bank.csv' table='[Top5Bank#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='ServicingLenderName' ordinal='1' />
+                  <column datatype='string' name='BorrowerState' ordinal='2' />
+                  <column datatype='real' name='CurrentApprovalAmount_Tatal' ordinal='3' />
+                  <column datatype='integer' name='CurrentApprovalAmount_Count' ordinal='4' />
+                  <column datatype='real' name='ForgivenessAmount_Tatal' ordinal='5' />
+                  <column datatype='string' name='Symbol' ordinal='6' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Top5Bank' name='federated.1b8af370f02bqo1acrssc0ht8g4s' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1b8af370f02bqo1acrssc0ht8g4s'>
+            <column caption='Borrower State' datatype='string' name='[BorrowerState]' role='dimension' type='nominal' />
+            <column caption='CurrentApprovalAmount Count' datatype='integer' name='[CurrentApprovalAmount_Count]' role='measure' type='quantitative' />
+            <column caption='ForgivenessAmount Tatal' datatype='real' name='[ForgivenessAmount_Tatal]' role='measure' type='quantitative' />
+            <column caption='Servicing Lender Name' datatype='string' name='[ServicingLenderName]' role='dimension' type='nominal' />
+            <column-instance column='[BorrowerState]' derivation='None' name='[none:BorrowerState:nk]' pivot='key' type='nominal' />
+            <column-instance column='[ServicingLenderName]' derivation='None' name='[none:ServicingLenderName:nk]' pivot='key' type='nominal' />
+            <column-instance column='[CurrentApprovalAmount_Count]' derivation='Sum' name='[sum:CurrentApprovalAmount_Count:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[ForgivenessAmount_Tatal]' derivation='Sum' name='[sum:ForgivenessAmount_Tatal:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <computed-sort column='[federated.1b8af370f02bqo1acrssc0ht8g4s].[none:BorrowerState:nk]' direction='DESC' using='[federated.1b8af370f02bqo1acrssc0ht8g4s].[sum:CurrentApprovalAmount_Count:qk]' />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1b8af370f02bqo1acrssc0ht8g4s].[none:ServicingLenderName:nk]' />
+            </encodings>
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1b8af370f02bqo1acrssc0ht8g4s].[sum:CurrentApprovalAmount_Count:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1b8af370f02bqo1acrssc0ht8g4s].[none:ServicingLenderName:nk]' />
+            </encodings>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.1b8af370f02bqo1acrssc0ht8g4s].[sum:ForgivenessAmount_Tatal:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1b8af370f02bqo1acrssc0ht8g4s].[none:ServicingLenderName:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.1b8af370f02bqo1acrssc0ht8g4s].[none:BorrowerState:nk]</rows>
+        <cols>([federated.1b8af370f02bqo1acrssc0ht8g4s].[sum:CurrentApprovalAmount_Count:qk] + [federated.1b8af370f02bqo1acrssc0ht8g4s].[sum:ForgivenessAmount_Tatal:qk])</cols>
+      </table>
+      <simple-id uuid='{6D0AA872-2B7D-4983-A129-0763832AB2E6}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='1' param='[federated.1b8af370f02bqo1acrssc0ht8g4s].[none:ServicingLenderName:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1b8af370f02bqo1acrssc0ht8g4s].[none:BorrowerState:nk]</field>
+            <field>[federated.1b8af370f02bqo1acrssc0ht8g4s].[none:ServicingLenderName:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{88C33820-2DDC-46A3-85FE-CC03334356D1}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      AAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
